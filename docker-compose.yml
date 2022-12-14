@@ -1,0 +1,31 @@
+version: '3.1'
+
+services:
+
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - ${PUERTOHOST}:${PUERTODOCKER}
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: ${USERDB}
+      WORDPRESS_DB_PASSWORD: ${PASSDB}
+      WORDPRESS_DB_NAME: ${WPDATABASE}
+    volumes:
+      - wordpress:/var/www/html
+      - ./plugins/prueba:/var/www/html/wp-content/plugins
+
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_DATABASE: ${WPDATABASE}
+      MYSQL_USER: ${USERDB}
+      MYSQL_PASSWORD: ${PASSDB}
+      MYSQL_RANDOM_ROOT_PASSWORD: ${RANDOMPASSROOT}
+    volumes:
+      - ./db:/var/lib/mysql
+
+volumes:
+  wordpress:
