@@ -31,3 +31,16 @@ Look for states of containers
 Login Mysql
 
     mysql -utype_your_user_here -ptype_your_password_here
+
+
+
+## Commons error
+
+"El enlace que has seguido ha caducado" : [Solución] (https://wpdirecto.com/como-solucionar-el-error-el-enlace-que-has-seguido-ha-caducado-en-wordpress/)
+
+Add to .htaccess 
+
+    php_value upload_max_filesize 128M
+    php_value post_max_size 128M
+    php_value max_execution_time 300
+    php_value max_input_time 300
