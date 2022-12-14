@@ -1,7 +1,11 @@
-# Sitio web Capital Diesel
+# Web site Capital Diesel
 
 
-## Usuario default wordpress
+# Before start
+
+    Create a file .env from .env.example and fill out the information
+
+## Default User wordpress
 
     user : soporte.capitaldieselsas
 
@@ -10,16 +14,20 @@
     mail : soporte.capitaldieselsas@gmail.com
 
 
-## Comandos claves para iniciar contenedores
+## List of utils command 
 
-Iniciar contenedores
+Start containers
 
     docker-compose up -d 
 
-Detener contenedores
+Stop containers
 
     docker-compose down 
 
-Ver estado de los contendores
+Look for states of containers
 
      docker stats -a
+
+Login Mysql
+
+    mysql -utype_your_user_here -ptype_your_password_here
