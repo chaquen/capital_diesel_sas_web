@@ -34,7 +34,7 @@ Login Mysql
 
 
 
-## Commons error
+## Commons errors
 
 "El enlace que has seguido ha caducado" : [Solución] (https://wpdirecto.com/como-solucionar-el-error-el-enlace-que-has-seguido-ha-caducado-en-wordpress/)
 
