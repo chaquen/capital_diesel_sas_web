@@ -13,8 +13,8 @@ services:
       WORDPRESS_DB_PASSWORD: ${PASSDB}
       WORDPRESS_DB_NAME: ${WPDATABASE}
     volumes:
-      - wordpress:/var/www/html
-      - ./plugins/prueba:/var/www/html/wp-content/plugins
+      - ./wordpress:/var/www/html
+     
 
   db:
     image: mysql:5.7
@@ -26,6 +26,3 @@ services:
       MYSQL_RANDOM_ROOT_PASSWORD: ${RANDOMPASSROOT}
     volumes:
       - ./db:/var/lib/mysql
-
-volumes:
-  wordpress:
