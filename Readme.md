@@ -3,7 +3,7 @@
 
 # Before start
 
-    Create a file .env from .env.example and fill out the information
+Create a file .env from .env.example and fill out the information
 
 ## Default User wordpress
 
