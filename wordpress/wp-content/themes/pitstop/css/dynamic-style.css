@@ -1,0 +1,271 @@
+:root{
+    --pix-header-transparent: 1;
+    --pix-header-transparent-bottom: 1;
+    --pix-header-height: 139px;
+    --pix-header-height-levels: 177px;
+    --pix-top-bar-transparent: 1;
+
+    --pix-body-color: #f2f2f2;
+    --pix-main-color: #ff3737;
+    --pix-main-color-lighter: #FF4343;
+    --pix-main-color-lighter-2x: #FF4F4F;
+    --pix-main-color-darker: #E71F1F;
+    --pix-main-color-rgb: 255,55,55;
+    --pix-gradient-color: #f26954;
+    --pix-gradient-direction-webkit: left;
+    --pix-gradient-direction-o: right;
+    --pix-gradient-direction-moz: right;
+    --pix-gradient-direction: to right;
+    --pix-gradient-reverse-direction-webkit: right;
+    --pix-gradient-reverse-direction-o: left;
+    --pix-gradient-reverse-direction-moz: left;
+    --pix-gradient-reverse-direction: to left;
+    --pix-additional-color: #424040;
+    --pix-white-color: #ffffff;
+    --pix-black-color: #212121;
+    --pix-black-color-rgb: 33,33,33;
+    --pix-black-color-lighter: #393939;
+    --pix-black-color-lighter-2x: #515151;
+
+    --pix-shadow: 0 0px 5px rgba(0,0,0,.1), 0 5px 20px rgba(0,0,0,0.1);
+    --pix-text-shadow: none; /*1px 1px 0 rgba(0,0,0,.18);*/
+
+        --pix-button-color: #ff3737;
+        --pix-button-color-lighter: #FF4F4F;
+        --pix-button-color-darker: #FF4343;
+        --pix-button-color-rgb: 255,55,55;
+
+    --pix-main-font: Jost;
+    --pix-font-size: 16px;
+    --pix-font-size-larger: 18px;
+    --pix-font-size-smaller: 0.8em;
+    --pix-font-line-height: 1.8;
+    --pix-font-line-height-px: 29px;
+    --pix-font-line-height-em: 1.813em;
+    --pix-font-weight: 400;
+    --pix-font-color: #666666;
+    --pix-font-color-light: #bbbbbb;
+
+    --pix-title-font: Jost;
+    --pix-title-size: 20px;
+    --pix-title-weight: 600;
+    --pix-title-line-height: 1.3;
+    --pix-title-style: normal;
+    --pix-title-color: #000000;
+
+    --pix-buttons-border: 0px;
+    --pix-buttons-font: Jost;
+    --pix-buttons-font-size: 16px;
+    --pix-buttons-font-weight: 500;
+    --pix-buttons-font-style: normal;
+    --pix-buttons-text-transform: none;
+    --pix-buttons-letter-spacing: 0px;
+    --pix-buttons-shadow: 0px 5px 15px 0px rgba(0,0,0,0.15);
+
+    --pix-hover-gradient: rgba(0,0,0,.4);
+
+    --pix-tab-overlay-color: #050017;
+    --pix-tab-overlay-gradient: ;
+    --pix-tab-gradient-direction-webkit: right bottom;
+    --pix-tab-gradient-direction-o: top left;
+    --pix-tab-gradient-direction-moz: top left;
+    --pix-tab-gradient-direction: to top left;
+    --pix-tab-overlay-opacity: 0;
+
+    --pix-svg-search: url(https://capitaldieselsas.com/wp-content/themes/pitstop/images/svg/search-white.svg);
+    --pix-svg-loader: url(https://capitaldieselsas.com/wp-content/themes/pitstop/images/decor.svg);
+
+    --pix-decor-img: url(https://capitaldieselsas.com/wp-content/themes/pitstop/images/decor.svg);
+
+
+}
+
+h1, .h1, .pix-title.h1-size, .pix-h1-h6.h1-size{
+            font-family: Jost;
+            font-weight: 700;
+            font-size: 30px;
+            line-height: 1.2;
+            font-style: normal;
+            color: #000000;
+        }
+        h2, .h2, .pix-title.h2-size, .pix-h1-h6.h2-size{
+            font-family: Jost;
+            font-weight: 700;
+            font-size: 28px;
+            line-height: 1.3;
+            font-style: normal;
+            color: #000000;
+        }
+        h3, .h3, .pix-title.h3-size, .pix-h1-h6.h3-size{
+            font-family: Jost;
+            font-weight: 700;
+            font-size: 26px;
+            line-height: 1.3;
+            font-style: normal;
+            color: #000000;
+        }
+        h4, .h4, .pix-title.h4-size, .pix-h1-h6.h4-size{
+            font-family: Jost;
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 1.4;
+            font-style: normal;
+            color: #000000;
+        }
+        h5, .h5, .pix-title.h5-size, .pix-h1-h6.h5-size{
+            font-family: Jost;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 1.4;
+            font-style: normal;
+            color: #000000;
+        }
+        h6, .h6, .pix-title.h6-size, .pix-h1-h6.h6-size{
+            font-family: Jost;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 1.5;
+            font-style: normal;
+            color: #000000;
+        }
+        .pix-pre-title{
+            font-family: Jost;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 1.8;
+            font-style: normal;
+            color: #000000;
+        }
+        .pix-title-s{
+            font-family: Jost;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 1.4;
+            font-style: normal;
+            color: #000000;
+        }
+        .pix-title-m{
+            font-family: Jost;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 1.3;
+            font-style: normal;
+            color: #000000;
+        }
+        .pix-title-l{
+            font-family: Jost;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 1.3;
+            font-style: normal;
+            color: #000000;
+        }
+        .pix-title-xl{
+            font-family: Jost;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 1.3;
+            font-style: normal;
+            color: #000000;
+        }
+        
+html .sep-element{
+	display: none;
+}
+
+
+html .sep-element{
+	display: none;
+}
+
+
+
+
+
+html .custom-header span.vc_row-overlay{
+	background-color: var(--pix-tab-overlay-color) !important;
+	opacity: var(--pix-tab-overlay-opacity);
+}
+
+
+
+
+
+	html .pix-gradient,
+    html .pix-header-menu.gradient .container,
+    html .pix-header-menu.gradient nav ul li ul.submenu,
+    html .pix-item-review .round,
+    html .pix-item-left .round,
+    html .pix-item-default .round,
+    html .news-card-price__header,
+    html .pix-progress-bar,
+    html .news-card-centered__image .overlay,
+        html .pix-overlay.pix-gradient-color,
+    html .pix-block-content .round.pix-icon-bg-gradient-color
+    {
+		background: var(--pix-main-color); /* For browsers that do not support gradients */
+		background: -webkit-linear-gradient(var(--pix-gradient-direction-webkit), var(--pix-main-color), var(--pix-gradient-color)); /*Safari 5.1-6*/
+		background: -o-linear-gradient(var(--pix-gradient-direction-o), var(--pix-main-color), var(--pix-gradient-color)); /*Opera 11.1-12*/
+		background: -moz-linear-gradient(var(--pix-gradient-direction-moz), var(--pix-main-color), var(--pix-gradient-color)); /*Fx 3.6-15*/
+		background: linear-gradient(var(--pix-gradient-direction), var(--pix-main-color), var(--pix-gradient-color)); /*Standard*/
+	}
+    
+    
+    html .transparent.pix-icon-gradient .icon span,
+    html .news-item-price-long__price .icon-message span
+    {
+        background: -webkit-linear-gradient(var(--pix-gradient-direction-webkit), var(--pix-main-color), var(--pix-gradient-color)); /*Safari 5.1-6*/
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+	}
+    
+    html .round.pix-icon-gradient
+    {
+        background: -webkit-linear-gradient(var(--pix-gradient-direction-webkit), var(--pix-main-color), var(--pix-gradient-color)); /*Safari 5.1-6*/
+        background: linear-gradient(var(--pix-gradient-direction), var(--pix-main-color), var(--pix-gradient-color)); /*Standard*/
+    }
+
+	
+
+
+
+
+html .custom-header{
+	padding: 40px 0 40px;
+	margin-bottom: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+        /*box-shadow: 0 -18px 18px -18px rgba(0,0,0,.3) inset, 0 18px 18px -18px rgba(0,0,0,.3) inset;*/
+}
+
+html .pix-header.pix-levels.transparent + .custom-header{
+    padding-top: 259px;
+}
+
+html .pix-header.pix-levels.header-topbar-view:not(.pix-header-catalog) + .custom-header{
+    padding-top: 309px;
+}
+
+/*html .header-topbar-view + .custom-header{
+    padding-top: 90px;
+}*/
+
+section.pix-page-no-padding{
+    margin-top: -0px;
+}
+
+
+@media screen and (max-width: 1024px) {
+    html .header-topbar-view + .custom-header{
+        padding-top: 40px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    html .header-topbar-view + .custom-header{
+        padding-top: 20px;
+        padding-bottom: 70px;
+    }
+}
+

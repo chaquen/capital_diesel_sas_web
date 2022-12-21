@@ -1,0 +1,117 @@
+
+---Downloaded files---
+The import files for: Pitstop were successfully downloaded!
+Initial max execution time = 240
+Files info:
+Site URL = https://capitaldieselsas.com
+Data file = /home/u414068002/domains/capitaldieselsas.com/public_html/wp-content/uploads/2022/11/demo-content-import-file_2022-11-10__01-21-10.xml
+Widget file = /home/u414068002/domains/capitaldieselsas.com/public_html/wp-content/uploads/2022/11/demo-widgets-import-file_2022-11-10__01-21-10.json
+Customizer file = /home/u414068002/domains/capitaldieselsas.com/public_html/wp-content/uploads/2022/11/demo-customizer-import-file_2022-11-10__01-21-10.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Shop sidebar : 
+
+Product Categories - Product categories - Imported
+Pix Product Filter - No Title - Imported
+
+Product Price sidebar : 
+
+PixSection Widget - No Title - Imported
+
+Custom Area : 
+
+Latest News - No Title - Imported
+
+widgetopts_exported : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

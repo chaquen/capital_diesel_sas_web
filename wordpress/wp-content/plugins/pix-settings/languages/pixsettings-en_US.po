@@ -1,0 +1,1152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pix-Settings\n"
+"POT-Creation-Date: 2021-09-25 12:34+0300\n"
+"PO-Revision-Date: 2021-09-25 12:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pix-settings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: pix-settings.php:118
+msgid "Team base"
+msgstr ""
+
+#: pix-settings.php:126
+msgid "Specialty base"
+msgstr ""
+
+#: pix-settings.php:136
+msgid "Portfolio base"
+msgstr ""
+
+#: pix-settings.php:144
+msgid "Portfolio category base"
+msgstr ""
+
+#: pix-settings.php:154
+msgid "Service base"
+msgstr ""
+
+#: pix-settings.php:162
+msgid "Department base"
+msgstr ""
+
+#: pix-settings.php:183
+msgctxt "slug"
+msgid "team"
+msgstr ""
+
+#: pix-settings.php:189
+msgctxt "slug"
+msgid "specialty"
+msgstr ""
+
+#: pix-settings.php:195
+msgctxt "slug"
+msgid "portfolio"
+msgstr ""
+
+#: pix-settings.php:201
+msgctxt "slug"
+msgid "portfolio-category"
+msgstr ""
+
+#: pix-settings.php:207
+msgctxt "slug"
+msgid "services"
+msgstr ""
+
+#: pix-settings.php:213
+msgctxt "slug"
+msgid "departments"
+msgstr ""
+
+#: pix-settings.php:263 pix-settings.php:264 pixplugin/admin/settings.php:212
+#: pixplugin/admin/settings.php:767
+msgid "Team"
+msgstr ""
+
+#: pix-settings.php:277 pix-settings.php:353
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:129
+#: pixplugin/include/post_type.php:104 pixplugin/include/post_type.php:178
+msgid "Edit"
+msgstr ""
+
+#: pix-settings.php:285
+msgid "Specialties"
+msgstr ""
+
+#: pix-settings.php:286
+msgid "Specialty"
+msgstr ""
+
+#: pix-settings.php:301 pix-settings.php:376 pix-settings.php:491
+#: pixplugin/include/meta_boxes.php:38 pixplugin/include/meta_boxes.php:113
+#: pixplugin/include/post_type.php:129 pixplugin/include/post_type.php:203
+#: pixplugin/widgets/pix-latest-news-widget.php:125
+#: pixplugin/widgets/pix-product-filter-widget.php:375
+#: pixplugin/widgets/pix-taxonomy-widget.php:112
+msgid "Title"
+msgstr ""
+
+#: pix-settings.php:302 pix-settings.php:377 pix-settings.php:492
+#: pixplugin/include/post_type.php:130
+msgid "Featured Image"
+msgstr ""
+
+#: pix-settings.php:303 pix-settings.php:378
+#: pixplugin/include/post_type.php:131 pixplugin/include/post_type.php:205
+msgid "ID"
+msgstr ""
+
+#: pix-settings.php:304 pix-settings.php:362 pix-settings.php:379
+#: pixplugin/include/post_type.php:115 pixplugin/include/post_type.php:132
+msgid "Category"
+msgstr ""
+
+#: pix-settings.php:339 pix-settings.php:340 pixplugin/admin/settings.php:242
+#: pixplugin/admin/settings.php:876
+msgid "Portfolio"
+msgstr ""
+
+#: pix-settings.php:361 pixplugin/include/post_type.php:114
+#: pixplugin/widgets/pix-taxonomy-widget.php:84
+msgid "Categories"
+msgstr ""
+
+#: pix-settings.php:414 pix-settings.php:524 pix-settings.php:838
+#: pix-settings.php:878 pixplugin/include/post_type.php:257
+msgid "Image"
+msgstr ""
+
+#: pix-settings.php:415 pix-settings.php:525
+#: pixplugin/admin/classes/class.Admin.Setting.MultiToggle.php:62
+msgid "Name"
+msgstr ""
+
+#: pix-settings.php:416 pix-settings.php:494 pix-settings.php:526
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:206
+msgid "Description"
+msgstr ""
+
+#: pix-settings.php:417 pix-settings.php:751 pix-settings.php:774
+#: pix-settings.php:810 pix-settings.php:860
+msgid "Pix Section"
+msgstr ""
+
+#: pix-settings.php:455 pixplugin/admin/settings.php:272
+msgid "Services"
+msgstr ""
+
+#: pix-settings.php:456 pixplugin/admin/settings.php:985
+msgid "Service"
+msgstr ""
+
+#: pix-settings.php:468
+msgid "Edit Work"
+msgstr ""
+
+#: pix-settings.php:476
+msgid "Departments"
+msgstr ""
+
+#: pix-settings.php:477 pix-settings.php:493
+msgid "Department"
+msgstr ""
+
+#: pix-settings.php:527 pixplugin/include/post_type.php:243
+#: pixplugin/include/post_type.php:248
+msgid "Icon"
+msgstr ""
+
+#: pix-settings.php:528 pixplugin/widgets/pix-latest-news-widget.php:136
+msgid "Count"
+msgstr ""
+
+#: pix-settings.php:568
+msgctxt "post type general name"
+msgid "Footer & Sections"
+msgstr ""
+
+#: pix-settings.php:569
+msgctxt "post type singular name"
+msgid "Footer & Section"
+msgstr ""
+
+#: pix-settings.php:570
+msgctxt "admin menu"
+msgid "Footer & Sections"
+msgstr ""
+
+#: pix-settings.php:571
+msgctxt "add new on admin bar"
+msgid "Footer & Section"
+msgstr ""
+
+#: pix-settings.php:572
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: pix-settings.php:573
+msgid "Add New Section"
+msgstr ""
+
+#: pix-settings.php:574
+msgid "New Section"
+msgstr ""
+
+#: pix-settings.php:575
+msgid "Edit Section"
+msgstr ""
+
+#: pix-settings.php:576
+msgid "View Section"
+msgstr ""
+
+#: pix-settings.php:577
+msgid "All Sections"
+msgstr ""
+
+#: pix-settings.php:578
+msgid "Search Section"
+msgstr ""
+
+#: pix-settings.php:579
+msgid "Parent Section:"
+msgstr ""
+
+#: pix-settings.php:580
+msgid "No sections found."
+msgstr ""
+
+#: pix-settings.php:581
+msgid "No sections found in Trash."
+msgstr ""
+
+#: pix-settings.php:689
+msgid "Global Settings"
+msgstr ""
+
+#: pix-settings.php:702
+msgid "Information"
+msgstr ""
+
+#: pix-settings.php:704
+msgid "Post Format Settings"
+msgstr ""
+
+#: pix-settings.php:705
+msgid "Page Settings"
+msgstr ""
+
+#: pix-settings.php:706
+msgid "Page Layout"
+msgstr ""
+
+#: pix-settings.php:764 pix-settings.php:782 pix-settings.php:823
+#: pix-settings.php:868
+msgid "Custom content"
+msgstr ""
+
+#: pix-settings.php:843
+msgid "Department Image"
+msgstr ""
+
+#: pix-settings.php:847 pix-settings.php:884
+#: pixplugin/include/meta_boxes.php:62
+msgid "Link"
+msgstr ""
+
+#: pix-settings.php:850 pix-settings.php:887
+msgid "Url"
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.Setting.MultiToggle.php:60
+msgid "Add New"
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.Setting.MultiToggle.php:63
+#: pixplugin/include/post_type.php:246 pixplugin/include/post_type.php:259
+msgid "Add"
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.Setting.MultiToggle.php:64
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:253
+msgid "Cancel"
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.php:135
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.php:147
+#: pixplugin/classes/class.PixFilterAdmin.php:31
+msgid "Settings saved."
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.php:173
+msgid "Header settings can be found"
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.php:173
+msgid "in the Customizer"
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.php:176
+msgid "Theme Documentation"
+msgstr ""
+
+#: pixplugin/admin/classes/class.Admin.php:177
+msgid "Pix Help"
+msgstr ""
+
+#: pixplugin/admin/settings.php:159 pixplugin/admin/settings.php:160
+msgid "Pix Settings"
+msgstr ""
+
+#: pixplugin/admin/settings.php:176
+msgid "General"
+msgstr ""
+
+#: pixplugin/admin/settings.php:188 pixplugin/include/post_type.php:90
+msgid "Banners"
+msgstr ""
+
+#: pixplugin/admin/settings.php:189
+msgid "Use banners."
+msgstr ""
+
+#: pixplugin/admin/settings.php:200 pixplugin/include/post_type.php:188
+msgid "Calculators"
+msgstr ""
+
+#: pixplugin/admin/settings.php:201
+msgid "Use calculators."
+msgstr ""
+
+#: pixplugin/admin/settings.php:213
+msgid "Use team post type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:224
+msgid "Team Page"
+msgstr ""
+
+#: pixplugin/admin/settings.php:225
+msgid "Select a page on your site to display all Team."
+msgstr ""
+
+#: pixplugin/admin/settings.php:227 pixplugin/admin/settings.php:257
+#: pixplugin/admin/settings.php:287
+msgid "Select Page"
+msgstr ""
+
+#: pixplugin/admin/settings.php:243
+msgid "Use portfolio post type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:254
+msgid "Portfolio Page"
+msgstr ""
+
+#: pixplugin/admin/settings.php:255
+msgid "Select a page on your site to display all Portfolio."
+msgstr ""
+
+#: pixplugin/admin/settings.php:273
+msgid "Use service post type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:284
+msgid "Services Page"
+msgstr ""
+
+#: pixplugin/admin/settings.php:285
+msgid "Select a page on your site to display all Services."
+msgstr ""
+
+#: pixplugin/admin/settings.php:302
+msgid "Image Base Size"
+msgstr ""
+
+#: pixplugin/admin/settings.php:304
+msgid ""
+"Based on this size, Portrait, Landscape, Square thumbnails proportions of "
+"the image are created. After the change, need to Regenerate Thumbnails"
+msgstr ""
+
+#: pixplugin/admin/settings.php:316
+msgid "Image Landscape Ratio"
+msgstr ""
+
+#: pixplugin/admin/settings.php:318
+msgid ""
+"[Ratio]:1 thumbnails proportions of the image are created. After the change, "
+"need to Regenerate Thumbnails"
+msgstr ""
+
+#: pixplugin/admin/settings.php:330
+msgid "Image Portrait Ratio"
+msgstr ""
+
+#: pixplugin/admin/settings.php:332
+msgid ""
+"1:[Ratio] thumbnails proportions of the image are created. After the change, "
+"need to Regenerate Thumbnails"
+msgstr ""
+
+#: pixplugin/admin/settings.php:344
+msgid "Retina Images"
+msgstr ""
+
+#: pixplugin/admin/settings.php:345
+msgid "The images on the site have increased resolution (for retina displays)."
+msgstr ""
+
+#: pixplugin/admin/settings.php:356
+msgid "Dynamic Style CSS load"
+msgstr ""
+
+#: pixplugin/admin/settings.php:357
+msgid ""
+"Dynamic style css load from the file /css/dynamic-style.css. Can increased "
+"page loading speed."
+msgstr ""
+
+#: pixplugin/admin/settings.php:368
+msgid "Google API Key"
+msgstr ""
+
+#: pixplugin/admin/settings.php:370
+msgid ""
+"<a href=\"https://help.pix-theme.com/knowledge-base/how-to-create-google-api-"
+"keys/\" target=\"_blank\">How to create Google API key</a> Maps JavaScript "
+"API for billing account and Maps Embed API for free."
+msgstr ""
+
+#: pixplugin/admin/settings.php:381
+msgid "REST API"
+msgstr ""
+
+#: pixplugin/admin/settings.php:382
+msgid "Used for connecting the mobile app."
+msgstr ""
+
+#: pixplugin/admin/settings.php:391
+msgid "Select Sidebar"
+msgstr ""
+
+#: pixplugin/admin/settings.php:405 pixplugin/admin/settings.php:446
+msgid "Global"
+msgstr ""
+
+#: pixplugin/admin/settings.php:414
+msgid "Original"
+msgstr ""
+
+#: pixplugin/admin/settings.php:415
+msgid "Landscape"
+msgstr ""
+
+#: pixplugin/admin/settings.php:416
+msgid "Portrait"
+msgstr ""
+
+#: pixplugin/admin/settings.php:417
+msgid "Square"
+msgstr ""
+
+#: pixplugin/admin/settings.php:435
+msgid "Layout"
+msgstr ""
+
+#: pixplugin/admin/settings.php:447
+msgid "Container width."
+msgstr ""
+
+#: pixplugin/admin/settings.php:462
+msgid "Boxed container with shadow."
+msgstr ""
+
+#: pixplugin/admin/settings.php:473
+msgid "Page"
+msgstr ""
+
+#: pixplugin/admin/settings.php:474
+msgid "Page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:505 pixplugin/admin/settings.php:581
+#: pixplugin/admin/settings.php:690 pixplugin/admin/settings.php:799
+#: pixplugin/admin/settings.php:908 pixplugin/admin/settings.php:1017
+msgid "Container width without sidebar."
+msgstr ""
+
+#: pixplugin/admin/settings.php:518 pixplugin/admin/settings.php:1159
+msgid "Blog"
+msgstr ""
+
+#: pixplugin/admin/settings.php:519
+msgid "Blog page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:549
+msgid "Post"
+msgstr ""
+
+#: pixplugin/admin/settings.php:550
+msgid "Single Post layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:596 pixplugin/admin/settings.php:1036
+msgid "Shop"
+msgstr ""
+
+#: pixplugin/admin/settings.php:597
+msgid "Shop page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:627
+msgid "Product Category"
+msgstr ""
+
+#: pixplugin/admin/settings.php:628
+msgid "Product Category page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:658
+msgid "Product"
+msgstr ""
+
+#: pixplugin/admin/settings.php:659
+msgid "Product page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:707
+#: pixplugin/widgets/pix-taxonomy-widget.php:89
+msgid "Team Category"
+msgstr ""
+
+#: pixplugin/admin/settings.php:708
+msgid "Team Category page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:739 pixplugin/admin/settings.php:848
+#: pixplugin/admin/settings.php:957
+msgid "Columns count."
+msgstr ""
+
+#: pixplugin/admin/settings.php:754 pixplugin/admin/settings.php:863
+#: pixplugin/admin/settings.php:972
+msgid "Image proportions."
+msgstr ""
+
+#: pixplugin/admin/settings.php:768
+msgid "Team page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:816
+#: pixplugin/widgets/pix-taxonomy-widget.php:92
+msgid "Portfolio Category"
+msgstr ""
+
+#: pixplugin/admin/settings.php:817
+msgid "Portfolio Category page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:877
+msgid "Portfolio page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:925
+#: pixplugin/widgets/pix-taxonomy-widget.php:95
+msgid "Services Category"
+msgstr ""
+
+#: pixplugin/admin/settings.php:926
+msgid "Services Category page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:986
+msgid "Service page layout type."
+msgstr ""
+
+#: pixplugin/admin/settings.php:1047
+msgid "Products Columns"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1051
+msgid "3"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1052
+msgid "4"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1053
+msgid "5"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1054
+msgid "6"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1065
+msgid "Products Per Page"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1067
+msgid "Products number to show per page."
+msgstr ""
+
+#: pixplugin/admin/settings.php:1079
+msgid "Search in Select"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1080
+msgid "Show the search in the select drop-down in the filter."
+msgstr ""
+
+#: pixplugin/admin/settings.php:1091
+msgid "Show Sale Size"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1092
+msgid "Show discount as a percentage."
+msgstr ""
+
+#: pixplugin/admin/settings.php:1103
+msgid "Products Hover Slider"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1104
+msgid "Show product images on hover."
+msgstr ""
+
+#: pixplugin/admin/settings.php:1115
+msgid "Product Buttons on Hover"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1116
+msgid "Always show when off."
+msgstr ""
+
+#: pixplugin/admin/settings.php:1127
+msgid "Price Range"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1129
+msgid "Max"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1143
+msgid "Step"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1170
+msgid "Display Style"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1174
+msgid "Classic"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1175
+msgid "Grid"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1186
+msgid "Sidebar Background"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1190
+msgid "No"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1191
+msgid "Gray with Padding"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1202
+msgid "Display Date"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1213
+msgid "Display Author"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1224
+msgid "Display Comments"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1235
+msgid "Display Categories"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1246
+msgid "Display Icons"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1247
+msgid "Before date, author and comments."
+msgstr ""
+
+#: pixplugin/admin/settings.php:1258
+msgid "Display Tags"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1269
+msgid "Display Share"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1287
+msgid "Header Catalog"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1312
+msgid "Menu Banner"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1326
+msgid "Use Section for Menu"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1340
+msgid "WooCommerce Catalog"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1360
+msgid "Footer"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1378
+msgid "Footer Section"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1391
+msgid "Copyright Text"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1429
+msgid "Email of the user who made the review"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1430
+msgid "* Name of the user who made the review"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1431
+msgid "* Date and time of the review"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1432
+msgid "Phone number if supplied with the request"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1433
+msgid "Review text"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1434
+msgid "A link to the admin panel showing pending reviews"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1435
+msgid "A link to confirm this review. Only include this in admin notifications"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1436
+msgid "A link to reject this review. Only include this in admin notifications"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1437
+msgid "The name of this website"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1438
+msgid "A link to this website"
+msgstr ""
+
+#: pixplugin/admin/settings.php:1439
+msgid "Current date and time"
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterAdmin.php:46
+msgid "Select categories"
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterAdmin.php:56
+#: pixplugin/classes/class.PixFilterAdmin.php:134
+#: pixplugin/include/post_type.php:78
+#: pixplugin/widgets/pix-product-filter-widget.php:33
+msgid "Cars"
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterAdmin.php:60
+#: pixplugin/classes/class.PixFilterAdmin.php:138
+#: pixplugin/include/meta_boxes.php:114
+#: pixplugin/widgets/pix-product-filter-widget.php:37
+msgid "Price"
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterResult.php:434
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterResult.php:435
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterResult.php:438
+#: pixplugin/classes/class.PixFilterResult.php:439
+msgid "..."
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterResult.php:484
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: pixplugin/classes/class.PixFilterResult.php:553
+msgid "Select Doctor"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:76
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:80
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:91
+msgid "sub item"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:108
+msgid "Move up"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:123
+msgid "Move down"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:129
+msgid "Edit menu item"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:137
+msgid "URL"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:144
+msgid "Navigation Label"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:150
+msgid "Title Attribute"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:157
+msgid "Open link in a new tab"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:162
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:168
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:186
+msgid "Mega Menu"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:195
+msgid "Woo Catalog"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:208
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:212
+msgid "Move"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:213
+msgid "Up one"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:214
+msgid "Down one"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:217
+msgid "To the top"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:224
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: pixplugin/classes/class.PixNavMenu.Walker.Edit.php:241
+msgid "Remove"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:8
+msgid "Field Details"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:9
+msgid "Banner Details"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:46
+msgid "Top Text"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:54
+msgid "Countdown"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:70
+msgid "Text Tone"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:74
+msgid "Light"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:75
+msgid "Dark"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:96
+msgid "Field Type"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:100 pixplugin/include/post_type.php:225
+msgid "Select"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:101 pixplugin/include/post_type.php:226
+msgid "Multi Select"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:102 pixplugin/include/post_type.php:227
+msgid "Checkbox"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:103 pixplugin/include/post_type.php:228
+msgid "Radiobutton"
+msgstr ""
+
+#: pixplugin/include/meta_boxes.php:109
+msgid "Values"
+msgstr ""
+
+#: pixplugin/include/post_type.php:31
+msgid "Product Cars base"
+msgstr ""
+
+#: pixplugin/include/post_type.php:45
+msgctxt "slug"
+msgid "cars"
+msgstr ""
+
+#: pixplugin/include/post_type.php:79
+msgid "Car"
+msgstr ""
+
+#: pixplugin/include/post_type.php:91
+msgid "Banner"
+msgstr ""
+
+#: pixplugin/include/post_type.php:164
+msgid "Calculator Fields"
+msgstr ""
+
+#: pixplugin/include/post_type.php:165
+msgid "Calculator Field"
+msgstr ""
+
+#: pixplugin/include/post_type.php:189 pixplugin/include/post_type.php:206
+msgid "Calculator"
+msgstr ""
+
+#: pixplugin/include/post_type.php:204
+msgid "Type"
+msgstr ""
+
+#: pixplugin/include/post_type.php:247 pixplugin/include/post_type.php:260
+msgid "Clear"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:17
+#: pixplugin/widgets/pix-latest-news-widget.php:117
+msgid "Latest News"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:17
+msgid "Display Latest News"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:120
+msgid "all"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:129
+msgid "Style"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:131
+msgid "List"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:132
+msgid "Carousel"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:140
+msgid "All Button Title"
+msgstr ""
+
+#: pixplugin/widgets/pix-latest-news-widget.php:144
+msgid "All Button Url"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:16
+msgid "Pix Product Filter"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:16
+msgid "Display Product Filter"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:123
+msgid "Select Cars Make"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:150
+msgid "Select Model"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:178
+msgid "Select Restyle"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:337
+msgid "Reset"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:368
+msgid "Filter"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:380
+msgid "Show All Cars Levels (3)"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:381
+msgid "Show Makes & Models Levels (2)"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:382
+msgid "Show Makes Level (1)"
+msgstr ""
+
+#: pixplugin/widgets/pix-product-filter-widget.php:386
+msgid "Show Fields Titles"
+msgstr ""
+
+#: pixplugin/widgets/pix-section-widget.php:18
+msgid "PixSection Widget"
+msgstr ""
+
+#: pixplugin/widgets/pix-section-widget.php:20
+msgid "Displays your PixSection in widget"
+msgstr ""
+
+#: pixplugin/widgets/pix-section-widget.php:52
+msgid "Title:"
+msgstr ""
+
+#: pixplugin/widgets/pix-section-widget.php:57
+msgid "Section:"
+msgstr ""
+
+#: pixplugin/widgets/pix-taxonomy-widget.php:20
+msgid "Display Custom Categories"
+msgstr ""
+
+#: pixplugin/widgets/pix-taxonomy-widget.php:24
+msgid "Pix Taxonomy Categories"
+msgstr ""
+
+#: pixplugin/widgets/pix-taxonomy-widget.php:85
+msgid "All"
+msgstr ""
+
+#: pixplugin/widgets/pix-taxonomy-widget.php:87
+msgid "Select Taxonomy Category"
+msgstr ""
+
+#: pixplugin/widgets/pix-taxonomy-widget.php:116
+msgid "All Items Title"
+msgstr ""
+
+#: shortcode.php:30 shortcode.php:41 shortcode.php:52
+msgid "Facebook"
+msgstr ""
+
+#: shortcode.php:31 shortcode.php:42 shortcode.php:53
+msgid "Twitter"
+msgstr ""
+
+#: shortcode.php:32 shortcode.php:43 shortcode.php:54
+msgid "LinkedIn"
+msgstr ""
+
+#: shortcode.php:33 shortcode.php:44 shortcode.php:55
+msgid "Reddit"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Pix-Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://help.pix-theme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Additional functionality for PixTheme template"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PixTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pix-theme.com"
+msgstr ""
