@@ -153,17 +153,12 @@ function pixtheme_show_sidebar($type, $layout, $sidebar) {
 		1 => 'full',
 		2 => 'right',
 		3 => 'left',
-        4 => 'top',
 	);
 	
 	$padding = pixtheme_get_setting('pix-blog-sidebar', 'no-padding');
 
 	if ( isset($layouts[$layout]) && $type === $layouts[$layout] ) {
-	    if($layout == 4){
-	        echo '<div class="col-xx-12 col-xl-12 col-lg-12 col-md-12 d-xl-block pl-0 pr-0"><div class="pix__filter pix-filter-top pix-'.esc_attr($padding).'">';
-        } else {
-	        echo '<div class="col-xx-2 col-xl-3 col-lg-4 col-md-4 d-xl-block pl-0 pr-0"><div class="pix-sidebar pix-'.esc_attr($padding).'">';
-        }
+		echo '<div class="col-xx-2 col-xl-3 col-lg-4 col-md-4 d-xl-block pl-0 pr-0"><div class="pix-sidebar pix-'.esc_attr($padding).'">';
 		if ( is_active_sidebar( $sidebar ) ) : dynamic_sidebar( $sidebar ); endif;
 		echo '</div></div>';
 	} else {
@@ -194,7 +189,7 @@ function pixtheme_limit_words($string, $word_limit, $wrapper = '') {
         return '';
     } else {
  	    $ellipsis = str_word_count(trim($string)) <= $word_limit ? '' : '...';
-        return $wrapper_start . esc_html(implode(' ', array_slice($words, 0, $word_limit))) . $ellipsis . $wrapper_end;
+        return $wrapper_start . implode(' ', array_slice($words, 0, $word_limit)) . $ellipsis . $wrapper_end;
     }
 }
 
@@ -414,7 +409,6 @@ function pixtheme_breadcrumbs() {
 	if ( is_home() || is_front_page() ) {
 
 		if ($show_on_home == 1) echo '<div class="pix-breadcrumbs-path">' . sprintf($link, $home_link, $text['home']) . '</div>';
-		
 
 	} else {
 
@@ -422,7 +416,6 @@ function pixtheme_breadcrumbs() {
 		if ( $show_home_link == 1 /*&& (!is_page() && !$parent_id) && !is_404()*/ ) echo sprintf($link, $home_link, $text['home']);
 
 		if ( is_category() ) {
-		    
             $cat = get_category(get_query_var('cat'), false);
             if ($cat->parent != 0) {
                 $cats = get_category_parents($cat->parent, TRUE, $delimiter);
@@ -610,7 +603,7 @@ function pixtheme_breadcrumbs() {
             pix_show_current(get_the_title(), $show_current);
 
         } elseif ( is_page() && !$parent_id ) {
-		    
+
             pix_show_current(get_the_title(), $show_current);
 
         } elseif ( is_page() && $parent_id ) {

@@ -160,6 +160,16 @@ class PixTheme_EL_Pix_Price_Table extends Widget_Base {
 			]
 		);
 		$this->add_control(
+			'features_subtitle',
+			[
+				'label' => esc_html__( 'Features Subtitle', 'pitstop' ),
+				'type' => Controls_Manager::TEXT,
+                'condition' => [
+                    'style' => 'pix-price-table',
+                ]
+			]
+		);
+		$this->add_control(
 			'compare_features',
 			[
 				'label' => esc_html__( 'Features for Comparison', 'pitstop' ),

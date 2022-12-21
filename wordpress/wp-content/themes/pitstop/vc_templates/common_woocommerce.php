@@ -17,7 +17,6 @@ $swiper_arr = $carousel_arr = array();
 $out = $style = $select_type = $title = $bg_color = $navigation = $css_animation = $animate = $animate_data = $banner_out = $filter_class = $labels = $nav_out = $nav_header_out = '';
 $banner_id = $banner_id_2 = 0;
 $banner_position = 'right';
-$show_quick_view = $show_wishlist = $show_compare = $show_quantity = 'on';
 $atts = vc_map_get_attributes( $this->getShortcode(), $atts );
 $carousel_arr = pixtheme_vc_get_params_array($atts, 'slider');
 $swiper_arr = pixtheme_vc_get_params_array($atts, 'swiper');
@@ -31,8 +30,6 @@ $data_swiper = empty($swiper_options_arr) ? '' : 'data-swiper-options=\''.json_e
 $cols = isset($swiper_options_arr['slidesPerView']) != '' ? $swiper_options_arr['slidesPerView'] : 3;
 $swiper_class = !empty($swiper_options_arr) ? 'swiper-container' : 'pix-col-'.esc_attr($cols);
 $product_class = pixtheme_get_setting('pix-woo-hover-buttons', 'on') == 'off' ? 'pix-buttons-always-show' : '';
-
-$page_enable = isset($swiper_options_arr['pagination']) && !$swiper_options_arr['pagination'] ? 'disabled' : '';
 
 $labels_default = [
     'popular' => esc_html__('Best Sellers', 'pitstop'),
@@ -227,7 +224,7 @@ if ($wp_query->have_posts()) {
 
     $i = $offset = 0;
     global $yith_woocompare;
-    $products_compare_list = class_exists( 'YITH_Woocompare' ) ? $yith_woocompare->obj->products_list : [];
+    $products_compare_list = $yith_woocompare->obj->products_list;
     while ($wp_query->have_posts()) :
         $wp_query->the_post();
         global $product;
@@ -300,18 +297,8 @@ if ($wp_query->have_posts()) {
             $rating_html = '<div class="star-rating"></div>';
         }
         
-        $quick_view = $show_quick_view != 'off' ? '
-        <a class="pix__quickView pix-tooltip-show" href="#" data-fancybox="quick-view" data-product-id="'.esc_attr($product->get_id()).'">
-            <i class="pix-flaticon-magnifying-glass"></i>
-            '.pixtheme_tooltip(esc_html__('Quick view', 'pitstop')).'
-        </a>' : '';
-        $wishlist = $show_wishlist != 'off' && class_exists( 'YITH_WCWL' ) ? do_shortcode('[yith_wcwl_add_to_wishlist]') : '';
-        $compare = $show_compare != 'off' && class_exists( 'YITH_Woocompare' ) ? '
-        <a href="#" class="pix-compare-btn pix-tooltip-show '.esc_attr($compare).'" data-product_id="'.esc_attr($product->get_id()).'">
-            <i class="pix-flaticon-statistics"></i>
-            '.pixtheme_tooltip(esc_html__('Compare', 'pitstop')).'
-        </a>' : '';
-        $quantity_input = $show_quantity != 'off' ? '<input type="number" min="1" value="1">' : '';
+        $quick_view = $wishlist = $compare = '';
+        
         
         
         if($css_animation != '') {
@@ -367,10 +354,16 @@ if ($wp_query->have_posts()) {
 	                            </div>
 	                        </div>
 	                        <div class="pix-product-icons">
-	                            '.$quick_view.'
-	                            '.$wishlist.'
-	                            '.$compare.'
-	                            '.$quantity_input;
+	                            <a class="pix__quickView pix-tooltip-show" href="#" data-fancybox="quick-view" data-product-id="'.esc_attr($product->get_id()).'">
+	                                <i class="pix-flaticon-magnifying-glass"></i>
+	                                '.pixtheme_tooltip(esc_html__('Quick view', 'pitstop')).'
+	                            </a>
+	                            '.do_shortcode('[yith_wcwl_add_to_wishlist]').'
+	                            <a href="#" class="pix-compare-btn pix-tooltip-show '.esc_attr($compare).'" data-product_id="'.esc_attr($product->get_id()).'">
+	                                <i class="pix-flaticon-statistics"></i>
+	                                '.pixtheme_tooltip(esc_html__('Compare', 'pitstop')).'
+	                            </a>
+	                            <input type="number" min="1" value="1">';
 	                        $out .= apply_filters('woocommerce_loop_add_to_cart_link', sprintf('<a href="%s" rel="nofollow" data-product_id="%s" data-product_sku="%s" data-quantity="%s" class="pix-tooltip-show ajax_add_to_cart %s product_type_%s"><i class="pix-flaticon-shopping-bag-3"></i>'.pixtheme_tooltip(esc_html__('Add to cart', 'pitstop')).'</a>', esc_url($product->add_to_cart_url()), esc_attr($product->get_id()), esc_attr($product->get_sku()), esc_attr(isset($quantity) ? $quantity : 1), $product->is_purchasable() && $product->is_in_stock() ? 'add_to_cart_button' : '', esc_attr($product->get_type())), $product);
 	                        $out .= '
 	                        </div>
@@ -400,10 +393,17 @@ if ($wp_query->have_posts()) {
 	                        </div>
 	                    </div>
 	                    <div class="pix-product-icons">
-                            '.$quick_view.'
-                            '.$wishlist.'
-                            '.$compare.'
-                            '.$quantity_input;
+	                        <a class="pix__quickView pix-tooltip-show" href="#" data-fancybox="quick-view" data-product-id="'.esc_attr($product->get_id()).'">
+	                            <i class="pix-flaticon-magnifying-glass"></i>
+	                            '.pixtheme_tooltip(esc_html__('Quick view', 'pitstop')).'
+	                        </a>
+	                        '.do_shortcode('[yith_wcwl_add_to_wishlist]').'
+	                        <a href="#" class="pix-compare-btn pix-tooltip-show '.esc_attr($compare).'" data-product_id="'.esc_attr($product->get_id()).'" >
+	                            <i class="pix-flaticon-statistics"></i>
+	                            '.pixtheme_tooltip(esc_html__('Compare', 'pitstop')).'
+	                        </a>
+	                        
+	                        <input type="number" min="1" value="1">';
 	                        $out .= apply_filters('woocommerce_loop_add_to_cart_link', sprintf('<a href="%s" rel="nofollow" data-product_id="%s" data-product_sku="%s" data-quantity="%s" class="pix-tooltip-show ajax_add_to_cart %s product_type_%s"><i class="pix-flaticon-shopping-bag-3"></i>'.pixtheme_tooltip(esc_html__('Add to cart', 'pitstop')).'</a>',
 	                            esc_url($product->add_to_cart_url()),
 	                            esc_attr($product->get_id()),
@@ -435,7 +435,7 @@ if ($wp_query->have_posts()) {
 wp_reset_postdata();
 
 $out .= '
-    <div class="pix-swiper-pagination swiper-pagination pix-slider-items-paging '.esc_attr($page_enable).'"></div>
+    <div class="swiper-pagination"></div>
 </section>';
 
 

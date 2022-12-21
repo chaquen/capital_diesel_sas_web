@@ -1,0 +1,43 @@
+
+
+.vsb-main{
+	width: 100%;
+}
+
+.vsb-main button {
+    border-radius: 4px;
+    font-size: inherit;
+    padding: 15px;
+    display: flex;
+}
+
+.vsb-menu{
+    position: absolute;
+    width: 100%;
+    top: auto !important;
+    left: 0 !important;
+    /*border-top-left-radius: 0;*/
+    /*border-top-right-radius: 0;*/
+    margin-top: -1px;
+}
+
+.vsb-main .title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: 1;
+}
+
+html .vsb-js-search-zone{
+    width: calc(100% - 14px);
+    padding: 5px;
+}
+html .pix-filter-box .vsb-js-search-zone{
+    width: calc(100% - 5px);
+}
+html .vsb-js-search-zone + p{
+    font-size: 12px !important;
+    margin-bottom: 15px;
+}

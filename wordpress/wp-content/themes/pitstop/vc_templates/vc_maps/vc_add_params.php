@@ -257,10 +257,6 @@
                 'title' => esc_html__('Restyle', 'pitstop'),
                 'placeholder' => esc_html__('Car Restyle', 'pitstop'),
             ),
-            'versions' => array(
-                'title' => esc_html__('Version', 'pitstop'),
-                'placeholder' => esc_html__('Car Version', 'pitstop'),
-            ),
         );
 	
 	    $woo_pa = wc_get_attribute_taxonomies();
@@ -275,8 +271,6 @@
 			$woo_pa_visible[] = 'models';
 			$woo_key[] = 'restyles';
 			$woo_pa_visible[] = 'restyles';
-			$woo_key[] = 'versions';
-			$woo_pa_visible[] = 'versions';
 		}
 	    $attrs = get_option('price');
 		if($attrs['filter-visible'] != 'hide') {
@@ -311,10 +305,6 @@
             'attribute_name' => 'restyles',
             'attribute_label' => esc_html__('Restyles', 'pitstop'),
         );
-        $versions = array(
-            'attribute_name' => 'versions',
-            'attribute_label' => esc_html__('Versions', 'pitstop'),
-        );
         $price = array(
             'attribute_name' => 'price',
             'attribute_label' => esc_html__('Price', 'pitstop'),
@@ -323,7 +313,6 @@
         array_unshift($woo_pa, (object)$cars);
         array_unshift($woo_pa, (object)$models);
         array_unshift($woo_pa, (object)$restyles);
-        array_unshift($woo_pa, (object)$versions);
         array_unshift($woo_pa, (object)$price);
 	    
         //return implode(';', $woo_pa_visible).'<br>'.implode(';', $woo_key);

@@ -411,63 +411,6 @@
                 ),
             )
         );
-		
-		$wp_customize->add_setting( 'pixtheme_header_currency' , array(
-            'default'     => '1',
-            'transport'   => 'postMessage',
-            'sanitize_callback' => 'sanitize_text_field'
-        ) );
-        $wp_customize->add_control(
-            'pixtheme_header_currency',
-            array(
-                'label'    => esc_html__( 'Currency', 'pitstop' ),
-                'section'  => 'pixtheme_header_settings_elements',
-                'settings' => 'pixtheme_header_currency',
-                'type'     => 'select',
-                'choices'  => array(
-                    '1'  => esc_html__( 'On', 'pitstop' ),
-                    '0' => esc_html__( 'Off', 'pitstop' ),
-                ),
-            )
-        );
-		
-		$wp_customize->add_setting( 'pixtheme_header_compare' , array(
-            'default'     => '1',
-            'transport'   => 'postMessage',
-            'sanitize_callback' => 'sanitize_text_field'
-        ) );
-        $wp_customize->add_control(
-            'pixtheme_header_compare',
-            array(
-                'label'    => esc_html__( 'Compare', 'pitstop' ),
-                'section'  => 'pixtheme_header_settings_elements',
-                'settings' => 'pixtheme_header_compare',
-                'type'     => 'select',
-                'choices'  => array(
-                    '1'  => esc_html__( 'On', 'pitstop' ),
-                    '0' => esc_html__( 'Off', 'pitstop' ),
-                ),
-            )
-        );
-		
-		$wp_customize->add_setting( 'pixtheme_header_wishlist' , array(
-            'default'     => '1',
-            'transport'   => 'postMessage',
-            'sanitize_callback' => 'sanitize_text_field'
-        ) );
-        $wp_customize->add_control(
-            'pixtheme_header_wishlist',
-            array(
-                'label'    => esc_html__( 'Wishlist', 'pitstop' ),
-                'section'  => 'pixtheme_header_settings_elements',
-                'settings' => 'pixtheme_header_wishlist',
-                'type'     => 'select',
-                'choices'  => array(
-                    '1'  => esc_html__( 'On', 'pitstop' ),
-                    '0' => esc_html__( 'Off', 'pitstop' ),
-                ),
-            )
-        );
 
 		$wp_customize->add_setting( 'pixtheme_header_minicart' , array(
 				'default'     => '1',
@@ -480,25 +423,6 @@
                 'label'    => esc_html__( 'Minicart', 'pitstop' ),
                 'section'  => 'pixtheme_header_settings_elements',
                 'settings' => 'pixtheme_header_minicart',
-                'type'     => 'select',
-                'choices'  => array(
-                    '1'  => esc_html__( 'On', 'pitstop' ),
-                    '0' => esc_html__( 'Off', 'pitstop' ),
-                ),
-            )
-        );
-
-		$wp_customize->add_setting( 'pixtheme_header_account' , array(
-				'default'     => '1',
-				'transport'   => 'postMessage',
-				'sanitize_callback' => 'sanitize_text_field'
-		) );
-		$wp_customize->add_control(
-            'pixtheme_header_account',
-            array(
-                'label'    => esc_html__( 'Account', 'pitstop' ),
-                'section'  => 'pixtheme_header_settings_elements',
-                'settings' => 'pixtheme_header_account',
                 'type'     => 'select',
                 'choices'  => array(
                     '1'  => esc_html__( 'On', 'pitstop' ),
@@ -541,26 +465,6 @@
                 'choices'  => array(
                     '1'  => esc_html__( 'On', 'pitstop' ),
                     '0' => esc_html__( 'Off', 'pitstop' ),
-                ),
-            )
-		);
-
-		$wp_customize->add_setting( 'pixtheme_header_catalog_height' , array(
-            'default'     => 'pix-catalog-100',
-            'transport'   => 'postMessage',
-            'sanitize_callback' => 'sanitize_text_field'
-		) );
-		$wp_customize->add_control(
-            'pixtheme_header_catalog_height',
-            array(
-                'label'    => esc_html__( 'Catalog Height', 'pitstop' ),
-                'section'  => 'pixtheme_header_settings_elements',
-                'settings' => 'pixtheme_header_catalog_height',
-                'type'     => 'select',
-                'choices'  => array(
-                    'pix-catalog-100' => esc_html__( '100%', 'pitstop' ),
-                    'pix-catalog-overlay'  => esc_html__( 'With Vertical Scroll', 'pitstop' ),
-                    'pix-catalog-hide'  => esc_html__( 'Hide Subcategories', 'pitstop' ),
                 ),
             )
 		);

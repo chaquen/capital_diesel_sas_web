@@ -204,7 +204,7 @@ function pixtheme_woo_shop_loop_item_price_close() {
 };
 
 
-add_filter( 'loop_shop_per_page', function( $cols ){ return pixtheme_get_option('pitstop_products_per_page','15'); }, 20 );
+add_filter( 'loop_shop_per_page', function( $cols ){ return class_exists( 'PixThemeSettings' ) ? pixtheme_get_setting('pix-woo-per-page','15') : '15'; }, 20 );
 
 
 add_filter('loop_shop_columns', 'pixtheme_loop_columns');

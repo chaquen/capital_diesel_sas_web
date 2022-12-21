@@ -79,13 +79,6 @@ jQuery(function ($) {
 
 
     /* ================= Second menu ================= */
-    $(document).ready(function() {
-        //console.log($('.pix__secondMenu > ul').height());
-        if($('.pix-header-bottom').hasClass('pix-catalog-100')){
-            $('.pix__secondMenuBanner').css('min-height', $('.pix__secondMenu > ul').height());
-        }
-    });
-    
 	$('.pix__secondMenu > a').on('mouseover touchstart touch', function () {
 		$(this).next().addClass('show');
 	});
@@ -244,35 +237,29 @@ jQuery(function ($) {
 
 	if( $('.pix-header.sticky').hasClass('pix-levels') ){
         if ( $(window).scrollTop() > 0 ){
-            $('.pix-header-placeholder').addClass('pix-levels').addClass('fixed');
             $('.pix-header.sticky').addClass('fixed');
         }
         $(window).scroll(function() {
             if ($(window).scrollTop() > 0){
-                $('.pix-header-placeholder').addClass('pix-levels').addClass('fixed');
                 $('.pix-header.sticky').addClass('fixed');
             } else {
-                $('.pix-header.sticky').removeClass('pix-levels').removeClass('fixed');
-                $('.pix-header-placeholder').removeClass('fixed');
+                $('.pix-header.sticky').removeClass('fixed');
             }
         });
         var classes = $('.pix-header .pix-header-menu').attr('class');
         var style = getComputedStyle(document.body);
         var height = style.getPropertyValue('--pix-header-height').replace ( /[^\d.]/g, '' );
         if ( $(window).scrollTop() > height ){
-            $('.pix-header-placeholder').addClass('pix-levels').addClass('fixed');
             $('.pix-header.sticky').addClass('fixed');
             $('.pix-header .pix-header-menu').removeClass().addClass('pix-header-menu');
         }
         $(window).scroll(function() {
             if ($(window).scrollTop() > height){
-                $('.pix-header-placeholder').addClass('pix-levels').addClass('fixed');
                 $('.pix-header.sticky').addClass('fixed');
                 $('.pix-header .pix-header-menu').removeClass().addClass('pix-header-menu');
             } else {
                 $('.pix-header.sticky').removeClass('fixed');
                 $('.pix-header .pix-header-menu').removeClass().addClass(classes);
-                $('.pix-header-placeholder').removeClass('pix-levels').removeClass('fixed');
             }
         });
     } else {
@@ -634,10 +621,10 @@ jQuery(function ($) {
                 }
             });
         
-            pixSwiper['sw' + i].on('resize', function ($slider) {
-                if ($slider.params.slidesPerColumn > 1) {
+            pixSwiper['sw' + i].on('resize', function (slider) {
+                if (slider.params.slidesPerColumn > 1) {
                     var max = 0;
-                    $.each($slider.slides, function () {
+                    $.each(slider.slides, function () {
                         max = $(this).height() > max ? $(this).height() : max;
                     });
                     
@@ -1234,67 +1221,5 @@ jQuery(function ($) {
         }
         $li.toggleClass('open').children('ul').toggle(200);
     });
-    
-    
-    
-    
-    // Notify when a scroll-item gets within, or moves beyond, 500px from the visible scroll surface.
-    var opts = {
-        threshold:0.9,
-    };
-    
-    var previousY = 0,
-        previousRatio = 0
-        i = 0;
-    
-    var handleIntersect = entries => {
-        entries.forEach(entry => {
-            var currentY = entry.boundingClientRect.y;
-            var currentRatio = entry.intersectionRatio;
-            var isIntersecting = entry.isIntersecting;
-            i++;
-            
-            console.log("i: "+i);
-            console.log("currentY: "+currentY);
-            console.log("previousY: "+previousY);
-            console.log("currentRatio: "+currentRatio);
-            console.log("previousRatio: "+previousRatio);
-            console.log("isIntersecting: "+isIntersecting);
-            
-            // Scrolling down/up
-            if (currentY < previousY) {
-                if (currentRatio > previousRatio && isIntersecting) {
-                    console.log("Scrolling down enter");
-                } else {
-                    console.log("Scrolling down leave");
-                    document.getElementsByClassName('product-sticky-form')[0].classList.remove("hidden");
-                }
-            } else if (currentY > previousY && isIntersecting) {
-                if (currentRatio < previousRatio) {
-                    console.log("Scrolling up leave");
-                } else {
-                    console.log("Scrolling up enter");
-                    document.getElementsByClassName('product-sticky-form')[0].classList.add("hidden");
-                }
-            }
-            
-            console.log("-----");
-        
-            previousY = currentY;
-            previousRatio = currentRatio;
-        });
-    }
-    
-    var observer = new IntersectionObserver(handleIntersect, opts)
-    
-    // Set up observer on the items
-    function query(selector) {
-        return Array.from(document.querySelectorAll(selector));
-    }
-    
-    query(".single-product .summary .single_add_to_cart_button").forEach(function(scrollItem) {
-        observer.observe(scrollItem);
-    });
-    
-});
 
+});

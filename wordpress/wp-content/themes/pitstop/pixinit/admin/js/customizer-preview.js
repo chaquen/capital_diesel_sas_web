@@ -460,77 +460,18 @@ jQuery(function($){
         } );
     } );
 
-    api( 'pixtheme_header_currency', function( value ) {
-        value.bind( function( to ) {
-            if ( to == '1' ) {
-                var currency = '<form method="post" action="" class="woocommerce-currency-switcher-form woocs_show_flags">\n' +
-                     '              <input type="hidden" name="woocommerce-currency-switcher" value="USD">\n' +
-                     '              <select name="woocommerce-currency-switcher" data-width="100%" data-flag-position="right" class="woocommerce-currency-switcher" onchange="woocs_redirect(this.value);void(0);">\n' +
-                     '                  <option class="woocs_option_img_USD" value="USD" selected="selected" data-imagesrc="https://pitstop.true-emotions.studio/wp-content/plugins/woocommerce-currency-switcher/img/no_flag.png" data-icon="https://pitstop.true-emotions.studio/wp-content/plugins/woocommerce-currency-switcher/img/no_flag.png" data-description="USA dollar">USD, $</option>\n' +
-                     '                  <option class="woocs_option_img_EUR" value="EUR" data-imagesrc="https://pitstop.true-emotions.studio/wp-content/plugins/woocommerce-currency-switcher/img/no_flag.png" data-icon="https://pitstop.true-emotions.studio/wp-content/plugins/woocommerce-currency-switcher/img/no_flag.png" data-description="European Euro">EUR, €</option>\n' +
-                     '              </select>\n' +
-                     '          </form>';
-                $('.pix-header .main-menu-elements li.pix-header-currency').html(currency);
-            } else {
-                $( '.pix-header .main-menu-elements li.pix-header-currency').html('');
-            }
-        } );
-    } );
-
-    api( 'pixtheme_header_compare', function( value ) {
-        value.bind( function( to ) {
-            if ( to == '1' ) {
-                var compare = '<span>\n' +
-                              '    <a href="#" class="compare added"><i class="pix-flaticon-statistics"></i></a>\n' +
-                              '</span>';
-                $('.pix-header .main-menu-elements li#compare').html(compare);
-            } else {
-                $( '.pix-header .main-menu-elements li#compare').html('');
-            }
-        } );
-    } );
-
-    api( 'pixtheme_header_wishlist', function( value ) {
-        value.bind( function( to ) {
-            if ( to == '1' ) {
-                var wishlist = '<span>\n' +
-                               '    <a href="#"><i class="pix-flaticon-like"></i></a>\n' +
-                               '</span>';
-                $('.pix-header .main-menu-elements li#like').html(wishlist);
-            } else {
-                $( '.pix-header .main-menu-elements li#like').html('');
-            }
-        } );
-    } );
-
     api( 'pixtheme_header_minicart', function( value ) {
         value.bind( function( to ) {
             if ( to == '1' ) {
-                // var minicart = '<a href="#">\n' +
-                //     '               <div class="pix-cart-items">\n' +
-                //     '                   <i class="fas fa-shopping-basket"></i>\n' +
-                //     '                   <span class="pix-cart-count">0</span>\n' +
-                //     '               </div>\n' +
-                //     '           </a>';
-                var minicart = '<span>\n' +
-                               '    <a href="#pix4"><i class="pix-flaticon-shopping-bag-3"></i></a>\n' +
-                               '</span>';
-                $('.pix-header .main-menu-elements li#cart').html(minicart);
+                var minicart = '<a href="#">\n' +
+                    '               <div class="pix-cart-items">\n' +
+                    '                   <i class="fas fa-shopping-basket"></i>\n' +
+                    '                   <span class="pix-cart-count">0</span>\n' +
+                    '               </div>\n' +
+                    '           </a>';
+                $('.pix-header .main-menu-elements li.cart').html(minicart);
             } else {
-                $( '.pix-header .main-menu-elements li#cart').html('');
-            }
-        } );
-    } );
-    
-    api( 'pixtheme_header_account', function( value ) {
-        value.bind( function( to ) {
-            if ( to == '1' ) {
-                var account = '<span>\n' +
-                               '    <a href="#pix5"><i class="pix-flaticon-user"></i></a>\n' +
-                               '</span>';
-                $('.pix-header .main-menu-elements li#user').html(account);
-            } else {
-                $( '.pix-header .main-menu-elements li#user').html('');
+                $( '.pix-header .main-menu-elements li.cart').html('');
             }
         } );
     } );

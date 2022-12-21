@@ -2,10 +2,6 @@
 /* CUSTOM ADMIN CSS (ADD YOUR CSS HERE!) */
 /*//////////////////////////////////////////////////////////////////////////////////////////*/
 
-.vc_license-activation-notice,
-.vc_admin_label.admin_label_awb_type{
-    display: none !important;
-}
 
 .pix-help-links {
     display: grid;
@@ -107,7 +103,7 @@ a.pix-button:focus:visited {
     margin-bottom: 0.2em !important;
 }
 .pix-margin-bottom-xs + .pix-margin-top-xs{
-    /*margin-top: -0.5em !important;*/
+    margin-top: -0.5em !important;
 }
 
 #post_formats {
@@ -258,7 +254,9 @@ html .pix-vc-segmented-button input{
     max-width: 100%;
     height: auto;
 }
-
+.vc_admin_label.admin_label_awb_type{
+    display: none !important;
+}
 .wpb_element_wrapper{
     position: relative;
 }
@@ -308,9 +306,9 @@ html .pix-vc-segmented-button input{
 }
 .pix-btn-icon.pix-image-upload,
 .pix-btn-icon.pix-reset{
-    margin-left: 0;
+    margin-left: 3px;
     margin-right: 1px;
-    padding: 6px 8px 5px;
+    padding: 7px 3px 5px 8px;
     top: 3px;
     position: relative;
 }
@@ -320,9 +318,7 @@ html .pix-vc-segmented-button input{
 }
 .pix-btn-icon i{
     font-size: 15px;
-}
-.pix-margin-top-xs input[type=text]{
-    max-width: 155px;
+    padding-right: 5px;
 }
 .pix-bg img{
 	max-width: 200px;

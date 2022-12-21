@@ -5,7 +5,7 @@ $product_cat = 0;
 $orderby = false;
 if ( is_product() ) {
     $pix_layout = pixtheme_get_layout(get_post_type(), get_the_ID());
-} elseif( is_shop() || is_archive() ){
+} elseif( is_shop() ){
     $pix_layout = pixtheme_get_layout('shop');
     
     global $PixFilterResult;
@@ -17,8 +17,6 @@ if ( is_product() ) {
             $this->$key = $val;
         } elseif( $key == 'orderby' && $val != '' ){
             $orderby = true;
-        } elseif( strpos($key, 'filter') !== false ){
-            $orderby = false;
         } elseif( $key == 'model' && $val != '' ){
             $args_shop['make'] = $val;
         } elseif( $key == 'href' ){
@@ -41,17 +39,13 @@ get_header(); ?>
     <div class="<?php echo esc_attr($pix_width_class)?>">
         <?php do_action( 'pix_woocommerce_before_shop_loop' ); ?>
 		<div class="row mr-0 mb-80 ml-0 pix-bg-white">
-            <?php
-                if(is_product() && pixtheme_get_setting('pix-woo-single-sticky', 'on') == 'on'){
-                    do_action( 'pix_woocommerce_before_single_product' );
-                }
-            ?>
+
             <?php pixtheme_show_sidebar( 'left', $pix_layout['layout'], $pix_layout['sidebar'] ); ?>
 
             <div class="rtd <?php if ( $pix_layout['layout'] != 1 ) : ?>col-xx-10 col-xl-9 col-lg-8<?php endif; ?> col-12 <?php echo esc_attr($pix_layout['class'])?> pl-0 pr-0">
                 <input type="hidden" id="pix-product-category" name="category" value="<?php echo esc_attr($product_cat) ?>">
                 <?php
-                    if( !is_search() && !$orderby && !is_customize_preview() && is_shop() && !empty($args_shop) && class_exists('PixThemeSettings')){
+                    if( !is_search() && !$orderby && is_shop() && !empty($args_shop) && class_exists('PixThemeSettings')){
                         $pix_out = '';
                         $pix_query = new WP_Query( $PixFilterResult->pix_query( $args_shop ) );
                         $pix_filter = $PixFilterResult;

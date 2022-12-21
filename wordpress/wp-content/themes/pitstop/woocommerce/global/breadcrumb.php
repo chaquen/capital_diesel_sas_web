@@ -28,19 +28,16 @@ if ( ! empty( $breadcrumb ) ) {
 
 		echo wp_kses($before, 'post');
 
-		if ( ! empty( $crumb[1] ) && sizeof( $breadcrumb ) !== ($key + 1) ) {
+		if ( ! empty( $crumb[1] ) && sizeof( $breadcrumb ) !== $key + 1 ) {
 			echo '<a href="' . esc_url( $crumb[1] ) . '">' . esc_html( $crumb[0] ) . '</a>';
 		} elseif(pixtheme_get_option('tab_breadcrumbs_current', 0)) {
-		    if ( sizeof( $breadcrumb ) == 2 ) {
-                echo wp_kses($delimiter, 'post');
-            }
 			echo esc_html( $crumb[0] );
 		} else {
 		    echo '';
         }
 
 		echo wp_kses($after, 'post');
-  
+
 		if ( sizeof( $breadcrumb ) > $key + 2 ) {
 			echo wp_kses($delimiter, 'post');
 		}

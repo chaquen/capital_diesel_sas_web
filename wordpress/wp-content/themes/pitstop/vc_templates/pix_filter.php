@@ -47,7 +47,7 @@ if ( $filters !== NULL && !empty($filters) ) {
             $filter_out = '
 				<div class="pix-filter-select">
 					'.$label_out.'
-	                <select id="ajax-make" class="pix-count" name="ajax-make" data-placeholder="'.esc_html($val['name']).'" data-type="select" data-field="make" data-order="'.esc_attr($order).'" data-step="'.esc_attr($param_step).'" '.esc_attr($disabled).'>
+	                <select id="ajax-make" class="pix-count" name="ajax-make" data-placeholder="'.esc_attr__('Select Make', 'pitstop').'" data-type="select" data-field="make" data-order="'.esc_attr($order).'" data-step="'.esc_attr($param_step).'" '.esc_attr($disabled).'>
 	                    '.($out_makes).'
 	                </select>
                 </div>';
@@ -64,7 +64,7 @@ if ( $filters !== NULL && !empty($filters) ) {
 	
 	        $filter_out = '
 				<div class="pix-filter-select">
-	                <select class="pix-filter pix-count" id="pix-model" name="pix-model" data-placeholder="'.esc_html($val['name']).'" data-type="select" data-field="model" data-order="'.esc_attr($order).'" data-step="'.esc_attr($param_step).'">
+	                <select class="pix-filter pix-count" id="pix-model" name="pix-model" data-placeholder="'.esc_attr__('Select Model', 'pitstop').'" data-type="select" data-field="model" data-order="'.esc_attr($order).'" data-step="'.esc_attr($param_step).'">
 	                </select>
                 </div>';
 	
@@ -80,23 +80,7 @@ if ( $filters !== NULL && !empty($filters) ) {
 	
 	         $filter_out = '
 				<div class="pix-filter-select">
-	                <select class="pix-filter pix-count" id="pix-restyle" name="pix-restyle" data-placeholder="'.esc_html($val['name']).'" data-type="select" data-field="restyle" data-order="'.esc_attr($order).'" data-step="'.esc_attr($param_step).'">
-	                </select>
-                </div>';
-	
-	        if($val['row'] == '2'){
-		        $filters_arr_2[] = $filter_out;
-	        } else {
-		        $filters_arr[] = $filter_out;
-	        }
-
-        } elseif($val['id'] == 'versions' && $val['show']) {
-            
-            $out_makes = '';
-	
-	         $filter_out = '
-				<div class="pix-filter-select">
-	                <select class="pix-filter pix-count" id="pix-version" name="pix-version" data-placeholder="'.esc_html($val['name']).'" data-type="select" data-field="version" data-order="'.esc_attr($order).'" data-step="'.esc_attr($param_step).'">
+	                <select class="pix-filter pix-count" id="pix-restyle" name="pix-restyle" data-placeholder="'.esc_attr__('Select Restyle', 'pitstop').'" data-type="select" data-field="restyle" data-order="'.esc_attr($order).'" data-step="'.esc_attr($param_step).'">
 	                </select>
                 </div>';
 	

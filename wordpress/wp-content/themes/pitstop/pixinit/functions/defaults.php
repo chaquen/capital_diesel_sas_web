@@ -182,18 +182,13 @@ function pixtheme_header_settings_var( $post_ID=0 ){
     $pitstop['header_sticky_width'] = pixtheme_get_option('header_sticky_width', '');
     $pitstop['header_sticky_mobile'] = pixtheme_get_option('header_sticky_mobile', '');
     $pitstop['header_menu_pos'] = pixtheme_get_option('header_menu_pos', 'pix-text-center');
-    $pitstop['header_catalog_height'] = pixtheme_get_option('header_catalog_height', 'pix-catalog-100');
 
 
     /// Header menu settings
     $pitstop['header_menu'] = pixtheme_get_option('header_menu', '1');
 
     /// Header widgets
-    $pitstop['header_currency'] = pixtheme_get_option('header_currency', '1');
-    $pitstop['header_compare'] = pixtheme_get_option('header_compare', '1');
-    $pitstop['header_wishlist'] = pixtheme_get_option('header_wishlist', '1');
-    $pitstop['header_minicart'] = pixtheme_get_option('header_minicart', '1');
-    $pitstop['header_account'] = pixtheme_get_option('header_account', '1');
+    $pitstop['header_minicart'] = pixtheme_get_option('header_minicart', '0');
     $pitstop['header_search'] = pixtheme_get_option('header_search', '1');
     $pitstop['header_socials'] = pixtheme_get_option('header_socials', '1');
     $pitstop['header_button'] = pixtheme_get_option('header_button', '0');

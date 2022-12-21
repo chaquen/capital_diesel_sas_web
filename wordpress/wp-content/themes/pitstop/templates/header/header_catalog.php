@@ -19,7 +19,6 @@
 	$pixtheme_logo_stl = $pixtheme_logo_stl != '' ? 'style="'.($pixtheme_logo_stl).'"' : '';
 
 	$pixtheme_logo_text = pixtheme_get_option('general_settings_logo_text') != '' ? '<div class="logo-text">'.pixtheme_get_option('general_settings_logo_text').'</div>' : '';
-	
 
 ?>
 
@@ -46,12 +45,11 @@
             
             <nav class="pix-header-icons">
                 <ul class="main-menu-elements">
-                <?php if(class_exists('WOOCS') && $pixtheme_header['header_currency']) : ?>
+                <?php if(class_exists('WOOCS')) : ?>
                     <li class="pix-header-currency">
                         <?php echo do_shortcode('[woocs]'); ?>
                     </li>
                 <?php endif; ?>
-                <?php if (class_exists('YITH_Woocompare') && $pixtheme_header['header_compare']) : ?>
                     <?php
                         global $yith_woocompare;
                         $compare_class = isset($yith_woocompare->obj) && count($yith_woocompare->obj->products_list) > 0 ? '' : 'empty';
@@ -62,8 +60,7 @@
                             <span class="badge"><?php echo count($yith_woocompare->obj->products_list) ?></span>
                         </span>
                     </li>
-                <?php endif; ?>
-                <?php if (class_exists('YITH_WCWL') && $pixtheme_header['header_wishlist']) : ?>
+                <?php if (class_exists('YITH_WCWL')) : ?>
                     <?php
                         $wish_class = yith_wcwl_count_products() > 0 ? '' : 'empty';
                     ?>
@@ -88,7 +85,7 @@
                         </div>
                     </li>
                 <?php endif; ?>
-                <?php if ($pixtheme_header['header_account']) : ?>
+
                     <li id="user" <?php if( is_user_logged_in() ) { echo 'class="logged-in"'; } ?>>
                         <span>
                             <?php if( !is_user_logged_in() || has_nav_menu( 'account_nav' ) ) : ?>
@@ -102,16 +99,6 @@
                             <div class="pix-header-user-tabs"><a class="active" href="#pix-userLogin"><?php esc_html_e('Login', 'pitstop') ?></a><a
                                         href="#pix-userRegister"><?php esc_html_e('Register', 'pitstop') ?></a></div>
                             <div class="pix-header-user-panel active" id="pix-userLogin">
-                                <?php
-                                wp_login_form(
-                                    array(
-                                        'echo' => true,
-                                        'label_username' => __( 'Your Username ' ),
-                                        'label_password' => __( 'Your Password' ),
-                                        'label_remember' => __( 'Remember Me' )
-                                    )
-                                );
-                                ?>
                                 <form name="loginform" id="loginform" action="<?php esc_url( home_url() ) ?>/wp-login.php" method="post">
                                     <div class="form-group mb-10">
                                         <label><?php esc_html_e('Username or email', 'pitstop') ?><span>*</span></label>
@@ -167,13 +154,13 @@
                               endif;
                         ?>
                     </li>
-                <?php endif; ?>
+                    
 				</ul>
 			</nav>
    
 		</div>
       <!-- second line header-->
-      <div class="pix-header-bottom <?php echo esc_attr($pixtheme_header['header_background_bottom']) ?> <?php echo esc_attr( $pixtheme_header_transparent_bottom ) ?> <?php echo esc_attr( $pixtheme_header['header_catalog_height'] ) ?>">
+      <div class="pix-header-bottom <?php echo esc_attr($pixtheme_header['header_background_bottom']) ?> <?php echo esc_attr( $pixtheme_header_transparent_bottom ) ?>">
         <div class="<?php echo esc_attr($pixtheme_header['header_layout_bottom']) ?>">
           <div class="row justify-content-between align-items-center">
             <div class="col-lg-3 col-sm-3">
@@ -220,8 +207,7 @@
                         </li>
                         <li>
                             <div class="row">
-                                <div class="<?php echo pixtheme_get_setting('pix-catalog-banner') != '' ? 'col-xl-9 col-sm-6' : 'col-xl-12 col-sm-12' ?>">
-                                    <div class="pix-masonry-catalog">
+                                <div class="<?php echo pixtheme_get_setting('pix-catalog-banner') != '' ? 'col-xl-9 col-sm-6' : 'col-xl-12 col-sm-12' ?> pix-masonry-catalog">
                         <?php
                         $woo_sub_args = array(
                              'taxonomy'     => 'product_cat',
@@ -243,34 +229,33 @@
                             
                             ?>
                             
-                                        <div>
-                                            <div class="pix__secondMenu-img"><img src="<?php echo esc_url($image_src) ?>" alt="<?php echo esc_attr($subcat->name) ?>"></div>
-                                            <a href="<?php echo get_category_link( $subcat->term_id ) ?>"><b><?php echo esc_attr($subcat->name) ?></b></a>
-                                            
-                                            <?php
-                                            $woo_sub_sub_args = array(
-                                                 'taxonomy'     => 'product_cat',
-                                                 'orderby'      => 'menu_order',
-                                                 'parent'       => $subcat->term_id,
-                                            );
-                                            $woo_sub_subcategories = get_categories( $woo_sub_sub_args );
-                                            
-                                            if($woo_sub_subcategories){
-                                                echo '<ul>';
-                                                foreach ($woo_sub_subcategories as $sub_subcat) {
-                                                    ?>
-                                                        <li><a href="<?php echo get_category_link( $sub_subcat->term_id ) ?>"><?php echo esc_attr($sub_subcat->name) ?></a></li>
-                                                    <?php
-                                                }
-                                                echo '</ul>';
+                                    <div>
+                                        <div class="pix__secondMenu-img"><img src="<?php echo esc_url($image_src) ?>" alt="<?php echo esc_attr($subcat->name) ?>"></div>
+                                        <a href="<?php echo get_category_link( $subcat->term_id ) ?>"><b><?php echo esc_attr($subcat->name) ?></b></a>
+                                        
+                                        <?php
+                                        $woo_sub_sub_args = array(
+                                             'taxonomy'     => 'product_cat',
+                                             'orderby'      => 'menu_order',
+                                             'parent'       => $subcat->term_id,
+                                        );
+                                        $woo_sub_subcategories = get_categories( $woo_sub_sub_args );
+                                        
+                                        if($woo_sub_subcategories){
+                                            echo '<ul>';
+                                            foreach ($woo_sub_subcategories as $sub_subcat) {
+                                                ?>
+                                                    <li><a href="<?php echo get_category_link( $sub_subcat->term_id ) ?>"><?php echo esc_attr($sub_subcat->name) ?></a></li>
+                                                <?php
                                             }
-                                            ?>
-                                        </div>
+                                            echo '</ul>';
+                                        }
+                                        ?>
+                                    </div>
                             
                             <?php
                         }
                         ?>
-                                    </div>
                                 </div>
                                 <?php if(pixtheme_get_setting('pix-catalog-banner') != '') : ?>
                                 <div class="col-xl-3 col-sm-6">

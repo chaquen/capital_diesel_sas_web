@@ -305,10 +305,7 @@ function pixtheme_sidebar_options(){
  
 	// SIDEBAR
 	$selected_sidebar_layout = get_post_meta(get_the_ID(), 'pix_page_layout', true);
-	$selected_sidebar_layout_option = '';
-    if( class_exists("WooCommerce") && wc_get_page_id('shop') == get_the_ID() ){
-	    $selected_sidebar_layout_option = '<option value="4" '.selected( $selected_sidebar_layout, 4, false ).'>'.esc_html__('Top Sidebar', 'pitstop').'</option>';
-    }
+    
     
     // SIDEBAR CONTENT
     $selected_sidebar = get_post_meta(get_the_ID(), 'pix_selected_sidebar', true);
@@ -343,7 +340,6 @@ function pixtheme_sidebar_options(){
 		<option value="1" <?php if ($selected_sidebar_layout == 1):?>selected="selected"<?php endif?>><?php echo esc_html__('Without Sidebar', 'pitstop')?></option>
 		<option value="2" <?php if ($selected_sidebar_layout == 2):?>selected="selected"<?php endif?>><?php echo esc_html__('Right Sidebar', 'pitstop')?></option>
 		<option value="3" <?php if ($selected_sidebar_layout == 3):?>selected="selected"<?php endif?>><?php echo esc_html__('Left Sidebar', 'pitstop')?></option>
-        <?php echo $selected_sidebar_layout_option; ?>
 	</select>
  
 	

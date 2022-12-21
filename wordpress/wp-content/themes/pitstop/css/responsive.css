@@ -431,10 +431,6 @@
         opacity: 0 !important;
     }
     
-    .pix-tooltip-show .pix-tooltip{
-        display: none !important;
-    }
-    
     .pix-box-name, .pix-item-title,
     .news-card-centered__text{
         padding: 1.5rem;
@@ -821,16 +817,10 @@
 
 
 
-
-
 @media (max-width: 991px) {
     .pix-header,
     .pix-main-menu {
         display: none
-    }
-    
-    html .pix-header-placeholder{
-        display: none;
     }
     
     html .search-container form.searchform div:after {
@@ -1056,10 +1046,6 @@
         margin-right: 0;
         /*padding-left: 25px;*/
         /*padding-right: 25px;*/
-    }
-    .pix-nav.left-right{
-        right: -20px;
-        left: -20px;
     }
 
     .pix-dealership-col {
@@ -1528,41 +1514,6 @@
     .pix-footer .pix-footer-bottom-row.vc_row .pix-colored-column .wpb_content_element{
         margin-bottom: 15px;
     }
-    
-    
-    
-    
-    .product-sticky-form {
-        padding: 10px 20px;
-    }
-    .product-sticky-form__inner {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        flex-direction: column;
-        width: 100%;
-    }
-    .product-sticky-form__content-wrapper {
-        margin-bottom: 10px;
-        font-weight: 700;
-        font-size: 16px;
-    }
-    .product-sticky-form__image-wrapper{
-        display: none;
-    }
-    .product-sticky-form__add-to-cart {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        width: 100%;
-    }
-    .product-sticky-form__price{
-        font-size: 16px;
-    }
-    .product-sticky-form__add-to-cart button{
-        min-width: 170px;
-    }
-  
 }
 
 

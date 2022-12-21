@@ -18,7 +18,10 @@
 	$pixtheme_logo_stl = $pixtheme_logo_stl != '' ? 'style="'.($pixtheme_logo_stl).'"' : '';
 
 	$pixtheme_logo_text = pixtheme_get_option('general_settings_logo_text') != '' ? '<div class="logo-text">'.pixtheme_get_option('general_settings_logo_text').'</div>' : '';
-	
+
+	if($pixtheme_header['header_sticky'] != ''){
+	    echo '<div class="pix-header-placeholder"></div>';
+    }
 ?>
 
 	<header class="pix-header <?php echo esc_attr($pixtheme_header['header_background']) ?> <?php echo esc_attr( $pixtheme_header_transparent ) ?> <?php echo esc_attr($pixtheme_header['header_sticky']) ?> <?php echo esc_attr($pixtheme_header['header_sticky_width']) ?> <?php if ($pixtheme_header['header_bar']) : ?>header-topbar-view<?php endif; ?>">

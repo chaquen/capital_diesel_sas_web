@@ -1,0 +1,5231 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Pitstop\n"
+"POT-Creation-Date: 2021-09-09 16:24+0300\n"
+"PO-Revision-Date: 2022-12-02 22:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Colombia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: es_CO\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: templates_el/pix_posts.php:249 vc_templates/common_posts_block.php:94
+msgid " comments"
+msgstr "comentarios"
+
+#: footer.php:44
+msgid " Studio"
+msgstr ""
+
+#: pixinit/elementor/class-extension.php:132
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: pixinit/elementor/class-extension.php:158
+#: pixinit/elementor/class-extension.php:185
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: templates/post-parts/content.php:34
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: pixinit/functions/comment_walker.php:47
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: pixinit/functions/functions.php:364
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#: templates/header/header6.php:223
+msgid "&copy; 2013-2018 "
+msgstr ""
+
+#: pixinit/functions/comment_walker.php:47
+msgid "(Edit)"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:156
+#: vc_templates/vc_maps/vc_common.php:2335
+msgid "1"
+msgstr ""
+
+#: templates/post-parts/content.php:34 templates_el/pix_posts.php:251
+#: vc_templates/common_posts_block.php:96
+msgid "1 comment"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:157
+#: vc_templates/vc_maps/vc_common.php:2203
+#: vc_templates/vc_maps/vc_common.php:2336
+msgid "2"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2204
+#: vc_templates/vc_maps/vc_common.php:2337
+msgid "3"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2205
+#: vc_templates/vc_maps/vc_common.php:2338
+msgid "4"
+msgstr ""
+
+#: templates/header/bg_image.php:118
+msgid "404"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:83
+msgid "40px"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2206
+#: vc_templates/vc_maps/vc_common.php:2339
+msgid "5"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2207
+#: vc_templates/vc_maps/vc_common.php:2340
+msgid "6"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2341
+msgid "7"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2208
+#: vc_templates/vc_maps/vc_common.php:2342
+msgid "8"
+msgstr ""
+
+#: comments.php:64
+#, php-format
+msgid ""
+"<a href=\"%1$s\" aria-label=\"Logged in as %2$s. Edit your profile.\">Logged "
+"in as %2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:281
+msgid ""
+"<a href=\"https://data.true-emotions.studio/images/google_fonts_embed.png\" "
+"target=\"_blank\" data-lightbox=\"embed\">Get Fonts Embed String</a>"
+msgstr ""
+
+#: pixinit/functions/comment_walker.php:36
+#, php-format
+msgid "<h3 class=\"fn\">%s</h3>"
+msgstr ""
+
+#: templates_el/pix_tab_acc.php:40 templates_el/pix_tab_acc.php:147
+#: vc_templates/vc_maps/vc_common.php:1070
+#: vc_templates/vc_maps/vc_common.php:1175
+msgid "Accordion"
+msgstr ""
+
+#: pixinit/functions/index.php:105
+msgid "Account Navigation"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:381 pixinit/functions/woo-ajax.php:421
+#: templates_el/pix_woo.php:537 templates_el/pix_woo.php:577
+#: vc_templates/common_woocommerce.php:367
+#: vc_templates/common_woocommerce.php:407 woocommerce/loop/add-to-cart.php:27
+msgid "Add to cart"
+msgstr "Agregar al carrito"
+
+#: pixinit/admin/customizer/general.php:151
+#: pixinit/admin/customizer/header.php:236
+#: pixinit/admin/customizer/header.php:277
+#: pixinit/admin/customizer/header.php:318 templates_el/pix_banner.php:160
+#: templates_el/pix_banner.php:251 templates_el/pix_icon_box.php:160
+#: templates_el/pix_icon_box.php:251 templates_el/pix_reviews.php:70
+#: vc_templates/vc_maps/vc_common.php:582
+#: vc_templates/vc_maps/vc_common.php:664
+#: vc_templates/vc_maps/vc_common.php:1562
+msgid "Additional"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:822
+msgid "Additional Color"
+msgstr ""
+
+#: templates_el/pix_price_table.php:278 vc_templates/vc_maps/vc_common.php:2772
+msgid "Additional Information"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:521
+msgid "Address"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:148
+msgid "After"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:92
+#: pixinit/elementor/widgets/social-icons.php:198
+#: templates_el/pix_banner.php:85 templates_el/pix_banner.php:101
+#: templates_el/pix_button.php:159 templates_el/pix_icon_box.php:85
+#: templates_el/pix_icon_box.php:101 templates_el/pix_video.php:62
+#: vc_templates/vc_maps/vc_common.php:429
+#: vc_templates/vc_maps/vc_common.php:510
+#: vc_templates/vc_maps/vc_common.php:526
+#: vc_templates/vc_maps/vc_common.php:1694
+#: vc_templates/vc_maps/vc_common.php:2005
+msgid "Alignment"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:190
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:246
+#: vc_templates/common_carousel.php:131 vc_templates/common_isotope.php:9
+#: vc_templates/vc_maps/vc_common.php:2166
+msgid "All"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: pixinit/import/plugins.php:175
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:189
+#: templates/header/header_catalog.php:168
+msgid "All products"
+msgstr ""
+
+#: footer.php:42 templates/header/header6.php:223
+msgid "All Rights Reserved"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2164
+msgid "All Text"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:130 vc_templates/vc_maps/vc_common.php:863
+msgid "Amount"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:763
+msgid "Amount Box"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:866
+msgid "Amount."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:215
+msgid "Angle "
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:223
+msgid "Angle Direction"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:8
+#: vc_templates/vc_maps/vc_add_animate.php:14
+#: vc_templates/vc_maps/vc_add_animate.php:17
+#: vc_templates/vc_maps/vc_add_animate.php:30
+#: vc_templates/vc_maps/vc_add_animate.php:43
+#: vc_templates/vc_maps/vc_add_animate.php:56
+#: vc_templates/vc_maps/vc_add_animate.php:69
+#: vc_templates/vc_maps/vc_add_animate.php:77
+#: vc_templates/vc_maps/vc_add_animate.php:80
+#: vc_templates/vc_maps/vc_add_animate.php:93
+#: vc_templates/vc_maps/vc_add_animate.php:106
+#: vc_templates/vc_maps/vc_add_animate.php:119
+#: vc_templates/vc_maps/vc_add_animate.php:132
+#: vc_templates/vc_maps/vc_add_animate.php:145
+#: vc_templates/vc_maps/vc_add_animate.php:158
+msgid "Animation"
+msgstr ""
+
+#: loop.php:15
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: pixinit/functions/functions.php:361
+#, php-format
+msgid "Archive \"%s\""
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:139
+#: templates_el/pix_woo.php:136
+msgid "Arrows"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2478
+msgid "Arrows Inside"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2998
+msgid "Arrows on Sides"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2997
+msgid "Arrows on Top"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2479
+msgid "Arrows Outside"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: templates_el/pix_button.php:59 vc_templates/vc_maps/vc_common.php:336
+msgid "As Link"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:160
+msgid "Ascending"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:143
+msgid "Author"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1656
+msgid "Author link"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:757
+msgid "Auto"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Auto parts E-commerce template."
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:119
+msgid "Auto Play"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:270
+#: vc_templates/vc_maps/vc_add_swiper.php:201
+msgid "Autoplay"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:282
+#: vc_templates/vc_maps/vc_add_swiper.php:212
+msgid "Autoplay Delay"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:211 templates_el/pix_woo.php:120
+#: vc_templates/vc_maps/vc_common.php:2984
+msgid "Background"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:269 templates_el/pix_banner.php:246
+#: templates_el/pix_icon_box.php:246 vc_templates/vc_maps/vc_common.php:659
+msgid "Background Color"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:719
+#: pixinit/admin/customizer/header.php:735 templates_el/pix_banner.php:49
+#: templates_el/pix_icon_box.php:49 vc_templates/vc_maps/vc_common.php:475
+msgid "Background Image"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:770
+msgid "Background Repeat"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:750
+msgid "Background Size"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:19
+#: pixinit/elementor/widgets/banner.php:39 templates_el/pix_woo.php:159
+#: vc_templates/vc_maps/vc_common.php:3018
+#: vc_templates/vc_maps/vc_common.php:3079
+#: vc_templates/vc_maps/vc_common.php:3087
+msgid "Banner"
+msgstr ""
+
+#: templates_el/pix_woo.php:169 vc_templates/vc_maps/vc_common.php:3027
+msgid "Banner 2"
+msgstr ""
+
+#: templates_el/pix_woo.php:179 vc_templates/vc_maps/vc_common.php:3039
+msgid "Banner Position"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:147
+msgid "Before"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:115
+msgid "Before Title Text"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:388
+#: pixinit/import/plugins.php:172
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:378
+#: pixinit/import/plugins.php:171
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates_el/pix_woo.php:85 templates_el/pix_woo.php:232
+#: vc_templates/common_woocommerce.php:35
+#: vc_templates/vc_maps/vc_common.php:2952
+msgid "Best Sellers"
+msgstr "Más vendidos"
+
+#: pixinit/elementor/widgets/button.php:125
+msgid "Big"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:825
+#: pixinit/admin/customizer/header.php:234
+#: pixinit/admin/customizer/header.php:275
+#: pixinit/admin/customizer/header.php:316 templates_el/pix_banner.php:162
+#: templates_el/pix_banner.php:253 templates_el/pix_icon_box.php:162
+#: templates_el/pix_icon_box.php:253 templates_el/pix_reviews.php:72
+#: templates_el/pix_woo.php:125 vc_templates/vc_maps/vc_common.php:584
+#: vc_templates/vc_maps/vc_common.php:666
+#: vc_templates/vc_maps/vc_common.php:1564
+#: vc_templates/vc_maps/vc_common.php:2988
+msgid "Black"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:228
+msgid "Black Tone"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:22
+msgid "Blog Sidebar"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:919
+#: vc_templates/vc_maps/vc_add_shadows.php:54
+msgid "Blur"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:143
+msgid "Body Type"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2417
+msgid "Book An Appointment"
+msgstr ""
+
+#: pixinit/import/plugins.php:134
+msgid "Booked Appointments"
+msgstr ""
+
+#: templates/header/header3.php:65 templates/header/header4.php:76
+#: templates/header/header4.php:113 templates/header/header5.php:76
+#: templates/header/header5.php:113
+msgid "Booking"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:419
+msgid "Booking Disable"
+msgstr ""
+
+#: templates_el/pix_banner.php:116 templates_el/pix_icon_box.php:116
+#: vc_templates/vc_maps/vc_common.php:541
+msgid "Border"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:840
+msgid "Border Width"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:351
+msgid "Borders"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:359
+msgid "Both"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:968
+msgid "Both Center"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:969
+msgid "Both Left"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:970
+msgid "Both Right"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:358 templates_el/pix_banner.php:331
+#: templates_el/pix_icon_box.php:331 vc_templates/vc_maps/vc_common.php:731
+msgid "Bottom"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:310
+msgid "Bottom Background Color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:123
+msgid "Bottom Curve"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:319
+msgid "Bottom Decor Opacity"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:331
+msgid "Bottom Decor Points"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:72
+msgid "Bottom Layout"
+msgstr ""
+
+#: templates_el/pix_title.php:122 vc_templates/vc_maps/vc_common.php:262
+msgid "Bottom Padding"
+msgstr ""
+
+#: pixinit/elementor/widgets/title.php:81
+msgid "Bottom padding"
+msgstr ""
+
+#: pixinit/elementor/widgets/title.php:67
+msgid "Bottom padding style"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:333
+msgid "Bottom Transparent"
+msgstr ""
+
+#: templates_el/pix_banner.php:71 templates_el/pix_button.php:69
+#: templates_el/pix_cform7.php:53 templates_el/pix_icon_box.php:71
+#: templates_el/pix_points.php:42 templates_el/pix_posts.php:52
+#: templates_el/pix_price_table.php:85 templates_el/pix_reviews.php:51
+#: templates_el/pix_special_offers.php:35 templates_el/pix_team.php:47
+#: templates_el/pix_video.php:88 vc_templates/vc_maps/vc_common.php:497
+msgid "Box Shape"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2122
+#: vc_templates/vc_maps/vc_common.php:2285
+#: vc_templates/vc_maps/vc_common.php:2918
+msgid "Box Style"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:58
+#: pixinit/admin/customizer/header.php:78
+#: pixinit/admin/customizer/header.php:117
+msgid "Boxed"
+msgstr ""
+
+#: templates_el/pix_cform7.php:67 templates_el/pix_price_table.php:133
+#: vc_templates/vc_maps/vc_common.php:159
+#: vc_templates/vc_maps/vc_common.php:2222
+#: vc_templates/vc_maps/vc_common.php:2641
+msgid "Boxes Gap"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:1007
+#: vc_templates/vc_maps/vc_common.php:988
+#: vc_templates/vc_maps/vc_common.php:1310
+#: vc_templates/vc_maps/vc_common.php:1411
+#: vc_templates/vc_maps/vc_common.php:1544
+#: vc_templates/vc_maps/vc_common.php:1720
+#: vc_templates/vc_maps/vc_common.php:1923
+#: vc_templates/vc_maps/vc_common.php:2229
+#: vc_templates/vc_maps/vc_common.php:2363
+#: vc_templates/vc_maps/vc_common.php:2595
+msgid "Boxes Shape"
+msgstr ""
+
+#: templates_el/pix_price_table.php:48 vc_templates/vc_maps/vc_common.php:2556
+msgid "Boxes Type"
+msgstr ""
+
+#: templates_el/pix_brands.php:89
+msgid "Brand link"
+msgstr ""
+
+#: templates_el/pix_brands.php:80 vc_templates/vc_maps/vc_common.php:2514
+msgid "Brand Title"
+msgstr ""
+
+#: templates_el/pix_brands.php:102 vc_templates/vc_maps/vc_common.php:2453
+#: vc_templates/vc_maps/vc_common.php:2502
+msgid "Brands"
+msgstr ""
+
+#: templates_el/pix_brands.php:43 vc_templates/vc_maps/vc_common.php:2468
+msgid "Brands per page"
+msgstr ""
+
+#: pixinit/functions/woo.php:252
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Inicio"
+
+#: pixinit/admin/customizer/header.php:1026
+msgid "Breadcrumbs Show Current Page"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:1006
+msgid "Breadcrumbs Vertical Position"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:314
+#: pixinit/admin/customizer/general.php:680
+#: pixinit/admin/customizer/header.php:461
+#: pixinit/elementor/widgets/button.php:19
+#: pixinit/elementor/widgets/button.php:39 templates_el/pix_banner.php:307
+#: templates_el/pix_icon_box.php:307 templates_el/pix_tab_acc.php:108
+#: vc_templates/vc_maps/vc_common.php:314
+#: vc_templates/vc_maps/vc_common.php:707
+#: vc_templates/vc_maps/vc_common.php:1154
+msgid "Button"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:551
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:141
+msgid "Button Link"
+msgstr ""
+
+#: templates_el/pix_banner.php:288 templates_el/pix_button.php:46
+#: templates_el/pix_icon_box.php:288 vc_templates/vc_maps/vc_common.php:332
+#: vc_templates/vc_maps/vc_common.php:698
+#: vc_templates/vc_maps/vc_common.php:1134
+msgid "Button link"
+msgstr ""
+
+#: templates_el/pix_price_table.php:118 vc_templates/vc_maps/vc_common.php:2626
+msgid "Button Position"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:536 templates_el/pix_filter.php:77
+#: templates_el/pix_price_table.php:111 templates_el/pix_price_table.php:201
+#: vc_templates/vc_maps/vc_common.php:2619
+#: vc_templates/vc_maps/vc_common.php:2702
+#: vc_templates/vc_maps/vc_common.php:2855
+msgid "Button Text"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:133
+#: templates_el/pix_button.php:37 vc_templates/vc_maps/vc_common.php:2621
+msgid "Button text"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:325
+msgid "Button text."
+msgstr ""
+
+#: templates_el/pix_video.php:55 vc_templates/vc_maps/vc_common.php:1689
+msgid "Button with Popup"
+msgstr ""
+
+#: templates_el/pix_banner.php:315 templates_el/pix_icon_box.php:315
+#: templates_el/pix_tab_acc.php:119 vc_templates/vc_maps/vc_common.php:715
+#: vc_templates/vc_maps/vc_common.php:1165
+msgid "Button/Link Text"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:783
+msgid "Buttons"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:85
+msgid ""
+"By default, all top-level categories will be shown. If you want to display "
+"only some product categories, select them in the section Query"
+msgstr ""
+
+#: footer.php:44
+msgid "By PixTheme"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:912
+#: vc_templates/vc_maps/vc_common.php:920
+msgid "Calculator"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2434
+msgid "Calendar"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2424
+msgid "Calendar Type"
+msgstr ""
+
+#: templates_el/pix_team.php:258 vc_templates/common_team.php:91
+msgid "call"
+msgstr ""
+
+#: templates_el/controls/pix_el_filter.php:30
+#: templates_el/controls/pix_el_filter.php:106
+#: vc_templates/vc_maps/vc_add_params.php:250
+msgid "Car Make"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:254
+msgid "Car Model"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:258
+msgid "Car Restyle"
+msgstr ""
+
+#: templates_el/pix_brands.php:114 templates_el/pix_icon_box.php:351
+#: templates_el/pix_posts.php:144 templates_el/pix_reviews.php:198
+#: templates_el/pix_special_offers.php:123 templates_el/pix_team.php:183
+#: templates_el/pix_woo.php:194 templates_el/pix_woo_cats.php:81
+#: templates_el/sections/swiper_section.php:11
+#: vc_templates/vc_maps/vc_add_swiper.php:6
+#: vc_templates/vc_maps/vc_add_swiper.php:9
+#: vc_templates/vc_maps/vc_add_swiper.php:18
+#: vc_templates/vc_maps/vc_add_swiper.php:27
+#: vc_templates/vc_maps/vc_add_swiper.php:37
+#: vc_templates/vc_maps/vc_add_swiper.php:47
+#: vc_templates/vc_maps/vc_add_swiper.php:57
+#: vc_templates/vc_maps/vc_add_swiper.php:67
+#: vc_templates/vc_maps/vc_add_swiper.php:80
+#: vc_templates/vc_maps/vc_add_swiper.php:93
+#: vc_templates/vc_maps/vc_add_swiper.php:106
+#: vc_templates/vc_maps/vc_add_swiper.php:120
+#: vc_templates/vc_maps/vc_add_swiper.php:134
+#: vc_templates/vc_maps/vc_add_swiper.php:148
+#: vc_templates/vc_maps/vc_add_swiper.php:164
+#: vc_templates/vc_maps/vc_add_swiper.php:180
+#: vc_templates/vc_maps/vc_add_swiper.php:197
+#: vc_templates/vc_maps/vc_add_swiper.php:208
+#: vc_templates/vc_maps/vc_add_swiper.php:225
+#: vc_templates/vc_maps/vc_add_swiper.php:236
+#: vc_templates/vc_maps/vc_common.php:2277
+msgid "Carousel"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:24
+msgid "Carousel Options"
+msgstr ""
+
+#: templates_el/controls/pix_el_filter.php:29
+#: templates_el/controls/pix_el_filter.php:65
+#: templates_el/controls/pix_el_filter.php:105
+#: templates_el/controls/pix_el_filter.php:140
+#: vc_templates/vc_maps/vc_add_params.php:298
+msgid "Cars"
+msgstr ""
+
+#: templates/header/mobile_cat.php:67
+msgid "Catalog"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:38
+#: pixinit/admin/customizer/header.php:169
+msgid "Catalog Button (2 levels)"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:202
+msgid "Catalog Text"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:108
+#: templates_el/pix_posts.php:76 templates_el/pix_woo.php:99
+#: templates_el/pix_woo_cats.php:37 vc_templates/vc_maps/vc_common.php:1331
+#: vc_templates/vc_maps/vc_common.php:2876
+#: vc_templates/vc_maps/vc_common.php:2965
+msgid "Categories"
+msgstr "Categorias"
+
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:67
+msgid "Category"
+msgstr ""
+
+#: templates_el/pix_woo_cats.php:48 vc_templates/vc_maps/vc_common.php:2883
+msgid "Category Image"
+msgstr ""
+
+#: pixinit/import/plugins.php:81
+msgid "Category Order and Taxonomy Terms Order"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:139
+#: pixinit/elementor/widgets/button.php:100
+#: pixinit/elementor/widgets/social-icons.php:206
+#: templates_el/pix_banner.php:90 templates_el/pix_button.php:164
+#: templates_el/pix_cform7.php:91 templates_el/pix_icon_box.php:90
+#: templates_el/pix_video.php:67 vc_templates/vc_maps/vc_add_gradient.php:150
+#: vc_templates/vc_maps/vc_common.php:241
+#: vc_templates/vc_maps/vc_common.php:434
+#: vc_templates/vc_maps/vc_common.php:515
+#: vc_templates/vc_maps/vc_common.php:967
+#: vc_templates/vc_maps/vc_common.php:1699
+#: vc_templates/vc_maps/vc_common.php:2010
+#: vc_templates/vc_maps/vc_common.php:2070
+#: vc_templates/vc_maps/vc_common.php:2139
+msgid "Center"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:34
+msgid "Centered Logo"
+msgstr ""
+
+#: templates_el/pix_reviews.php:86 vc_templates/vc_maps/vc_common.php:1578
+msgid "Change Color"
+msgstr ""
+
+#: templates_el/pix_price_table.php:104 vc_templates/vc_maps/vc_common.php:2614
+msgid "Change currency"
+msgstr ""
+
+#: templates_el/pix_price_table.php:203 vc_templates/vc_maps/vc_common.php:2704
+msgid "Change Global button text"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:25
+#: vc_templates/vc_maps/vc_add_animate.php:114
+msgid "Change the animation duration in seconds."
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:94 pixinit/functions/woo-ajax.php:175
+msgid "checkout"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:98
+msgid "Children Categories"
+msgstr ""
+
+#: pixinit/elementor/widgets/cform7.php:55
+msgid "Choose form"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:47
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:86
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:54
+msgid "Choose Image"
+msgstr ""
+
+#: pixinit/admin/index.php:27
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:51
+msgid "Classic - Accent color"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:53
+msgid "Classic - Black color"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:52
+msgid "Classic - Compliment color"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:117
+msgid "Clear"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:117
+msgid "Clear gallery"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:69
+#: pixinit/elementor/widgets/button.php:70
+msgid "Click here"
+msgstr ""
+
+#: templates_el/pix_points.php:85
+msgid "Click to enter text"
+msgstr ""
+
+#: templates_el/pix_tab_acc.php:47 vc_templates/vc_maps/vc_common.php:1075
+msgid "Collapse"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:428
+#: pixinit/admin/customizer/general.php:816
+#: pixinit/admin/customizer/general.php:959
+#: pixinit/elementor/widgets/social-icons.php:78
+#: pixinit/elementor/widgets/social-icons.php:91
+#: templates_el/pix_amount_box.php:98 templates_el/pix_banner.php:234
+#: templates_el/pix_button.php:146 templates_el/pix_icon_box.php:234
+#: vc_templates/vc_maps/vc_add_shadows.php:74
+#: vc_templates/vc_maps/vc_common.php:417
+#: vc_templates/vc_maps/vc_common.php:648
+#: vc_templates/vc_maps/vc_common.php:825
+msgid "Color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:196
+msgid "Color For Gradient"
+msgstr ""
+
+#: templates_el/pix_button.php:150 vc_templates/vc_maps/vc_common.php:421
+msgid "Colored"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:118
+#: pixinit/admin/customizer/header.php:214
+msgid "Colors"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:78
+msgid "Column Gap"
+msgstr ""
+
+#: templates_el/pix_price_table.php:187 templates_el/pix_price_table.php:195
+#: vc_templates/vc_maps/vc_common.php:2690
+msgid "Column title"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2199
+#: vc_templates/vc_maps/vc_common.php:2331
+msgid "Columns"
+msgstr ""
+
+#: comments.php:68
+msgid "Comment"
+msgstr ""
+
+#: comments.php:26
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: pixinit/functions/functions.php:367
+#, php-format
+msgid "Comments page %s"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgctxt "comments title"
+msgid "<span>%s</span> Comment"
+msgid_plural "<span>%s</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/functions/woo-ajax.php:378 pixinit/functions/woo-ajax.php:417
+#: pixinit/functions/woo.php:178 pixinit/functions/woo_single.php:99
+#: templates_el/pix_woo.php:534 templates_el/pix_woo.php:573
+#: vc_templates/common_woocommerce.php:364
+#: vc_templates/common_woocommerce.php:403
+msgid "Compare"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1090
+msgid "Concept"
+msgstr ""
+
+#: templates_el/pix_cform7.php:44 vc_templates/vc_maps/vc_common.php:928
+#: vc_templates/vc_maps/vc_common.php:953
+msgid "Contact Form"
+msgstr ""
+
+#: pixinit/import/plugins.php:39 vc_templates/vc_maps/vc_common.php:945
+msgid "Contact Form 7"
+msgstr ""
+
+#: pixinit/elementor/widgets/cform7.php:18
+#: pixinit/elementor/widgets/cform7.php:38
+msgid "Contact form 7"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:756
+msgid "Contain"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:92
+msgid "Container Shape"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:149
+#: pixinit/elementor/widgets/carousel/logos-carousel.php:46
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:53
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:44
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:56
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:54
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:58
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:58
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:46
+#: pixinit/elementor/widgets/title.php:37 templates_el/pix_amount_box.php:28
+#: templates_el/pix_amount_box.php:138 templates_el/pix_banner.php:28
+#: templates_el/pix_banner.php:341 templates_el/pix_brands.php:28
+#: templates_el/pix_button.php:28 templates_el/pix_cform7.php:37
+#: templates_el/pix_filter.php:37 templates_el/pix_icon_box.php:28
+#: templates_el/pix_icon_box.php:341 templates_el/pix_points.php:28
+#: templates_el/pix_posts.php:30 templates_el/pix_price_table.php:28
+#: templates_el/pix_reviews.php:28 templates_el/pix_reviews.php:134
+#: templates_el/pix_special_offers.php:28 templates_el/pix_tab_acc.php:28
+#: templates_el/pix_team.php:28 templates_el/pix_team.php:98
+#: templates_el/pix_title.php:28 templates_el/pix_video.php:28
+#: templates_el/pix_video.php:144 templates_el/pix_woo.php:38
+#: templates_el/pix_woo_cats.php:30 vc_templates/vc_maps/vc_common.php:284
+#: vc_templates/vc_maps/vc_common.php:741
+#: vc_templates/vc_maps/vc_common.php:871
+#: vc_templates/vc_maps/vc_common.php:1124
+#: vc_templates/vc_maps/vc_common.php:1210
+#: vc_templates/vc_maps/vc_common.php:1460
+#: vc_templates/vc_maps/vc_common.php:1766
+msgid "Content"
+msgstr ""
+
+#: templates_el/pix_banner.php:325 templates_el/pix_icon_box.php:325
+#: vc_templates/vc_maps/vc_common.php:725
+msgid "Content Position"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:755
+msgid "Cover"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:301
+#: vc_templates/vc_maps/vc_common.php:441
+#: vc_templates/vc_maps/vc_common.php:748
+#: vc_templates/vc_maps/vc_common.php:878
+#: vc_templates/vc_maps/vc_common.php:1381
+#: vc_templates/vc_maps/vc_common.php:2262
+msgid "Css"
+msgstr ""
+
+#: templates_el/pix_price_table.php:102 vc_templates/vc_maps/vc_common.php:2611
+msgid "Currency"
+msgstr ""
+
+#: pixinit/elementor/widgets/social-icons.php:83
+#: pixinit/elementor/widgets/title.php:72
+#: vc_templates/vc_maps/vc_add_icons.php:31
+msgid "Custom"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:34
+msgid "Custom 1"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:37
+msgid "Custom 2"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:40
+msgid "Custom 3"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:43
+msgid "Custom 4"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:46
+msgid "Custom 5"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:91
+msgid "Custom Area"
+msgstr ""
+
+#: templates_el/sections/section_params.php:9
+msgid "Custom Control"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:129
+msgid "Custom Icon 1"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:149
+msgid "Custom Icon 2"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:169
+msgid "Custom Icon 3"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2088
+#: vc_templates/vc_maps/vc_common.php:2094
+msgid "Custom IDs"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:56
+msgid "Custom Query"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:139
+msgid "Custom URL 1"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:159
+msgid "Custom URL 2"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:179
+msgid "Custom URL 3"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:249
+#: pixinit/admin/customizer/header.php:949 templates_el/pix_button.php:151
+#: vc_templates/vc_maps/vc_add_gradient.php:112
+#: vc_templates/vc_maps/vc_add_gradient.php:177
+#: vc_templates/vc_maps/vc_common.php:295
+#: vc_templates/vc_maps/vc_common.php:422
+msgid "Dark"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:142
+msgid "Date"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:695
+#: pixinit/admin/customizer/general.php:729 templates_el/pix_title.php:103
+#: vc_templates/vc_maps/vc_add_gradient.php:257
+#: vc_templates/vc_maps/vc_add_gradient.php:269
+#: vc_templates/vc_maps/vc_add_gradient.php:281
+#: vc_templates/vc_maps/vc_add_gradient.php:293
+#: vc_templates/vc_maps/vc_add_gradient.php:303
+#: vc_templates/vc_maps/vc_add_gradient.php:315
+#: vc_templates/vc_maps/vc_add_gradient.php:327
+#: vc_templates/vc_maps/vc_add_gradient.php:339
+#: vc_templates/vc_maps/vc_add_gradient.php:351
+#: vc_templates/vc_maps/vc_common.php:255
+msgid "Decor"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:33
+#: pixinit/admin/customizer/header.php:168 pixinit/admin/functions.php:125
+#: pixinit/admin/post-fields.php:394 pixinit/elementor/widgets/button.php:123
+#: pixinit/elementor/widgets/title.php:71
+#: vc_templates/vc_maps/vc_add_gradient.php:82
+#: vc_templates/vc_maps/vc_add_gradient.php:109
+#: vc_templates/vc_maps/vc_add_gradient.php:174
+#: vc_templates/vc_maps/vc_common.php:9
+msgid "Default"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1862
+msgid "Default 100%"
+msgstr ""
+
+#: templates_el/pix_video.php:104 templates_el/pix_video.php:116
+#: vc_templates/vc_maps/vc_common.php:1736
+#: vc_templates/vc_maps/vc_common.php:1871
+msgid "Default 500px"
+msgstr ""
+
+#: pixinit/admin/functions.php:124 pixinit/admin/post-fields.php:420
+#: vc_templates/vc_maps/vc_common.php:8
+msgid "Default Calendar"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:13
+msgid "Default Sidebar"
+msgstr ""
+
+#: pixinit/elementor/widgets/title.php:46
+msgid "Default title"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:35
+#: vc_templates/vc_maps/vc_add_animate.php:124
+msgid "Delay"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:38
+#: vc_templates/vc_maps/vc_add_animate.php:127
+msgid "Delay before the animation starts in seconds."
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:120
+msgid ""
+"Delay between transitions (in ms). For e.g: 3000. Leave blank to disabled. "
+"Input 1 to make smooth transition."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:97
+msgid "Departments"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1102
+msgid "Deployment"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:159
+msgid "Descending"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:125
+#: vc_templates/vc_maps/vc_common.php:1845
+msgid "Description"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1096
+msgid "Design"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:303
+#: vc_templates/vc_maps/vc_common.php:443
+#: vc_templates/vc_maps/vc_common.php:750
+#: vc_templates/vc_maps/vc_common.php:880
+#: vc_templates/vc_maps/vc_common.php:1383
+#: vc_templates/vc_maps/vc_common.php:2264
+msgid "Design options"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1185
+msgid "Dictum interdum aenean magna vestibulum lectus?"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:204
+msgid "Direction"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:10
+#: vc_templates/vc_maps/vc_add_shadows.php:121
+msgid "Disable"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: pixinit/admin/customizer/services.php:35
+msgid "Display Related Services"
+msgstr ""
+
+#: pixinit/admin/customizer/services.php:47
+msgid "Display Share on Services"
+msgstr ""
+
+#: templates_el/pix_video.php:49 vc_templates/vc_maps/vc_common.php:1683
+msgid "Display Type"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:51
+#: vc_templates/vc_maps/vc_add_animate.php:140
+msgid ""
+"Distance to start the animation (related to the browser bottom) in pixels."
+msgstr ""
+
+#: templates_el/pix_title.php:80
+msgid "DIV"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:150
+msgid "Dots"
+msgstr ""
+
+#: templates_el/pix_price_table.php:53 vc_templates/vc_maps/vc_common.php:2561
+msgid "Double"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:22
+#: vc_templates/vc_maps/vc_add_animate.php:111
+msgid "Duration"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:506
+msgid "E-mail"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:19
+msgid "Elegant"
+msgstr ""
+
+#: pixinit/elementor/class-extension.php:134
+#: pixinit/elementor/class-extension.php:160
+msgid "Elementor"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:371
+msgid "Elements"
+msgstr ""
+
+#: comments.php:55 comments.php:56 templates/header/header_catalog.php:124
+#: templates_el/pix_team.php:114 vc_templates/vc_maps/vc_common.php:1472
+msgid "Email"
+msgstr ""
+
+#: templates_el/pix_video.php:54 vc_templates/vc_maps/vc_common.php:1688
+msgid "Embedded Video"
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:340 templates_el/pix_woo.php:494
+#: vc_templates/common_woocommerce.php:324
+msgid "Ends in:"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:155
+#: vc_templates/vc_maps/vc_add_params.php:156
+msgid "Engine Capacity"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:132
+msgid "Enter amount number"
+msgstr ""
+
+#: templates_el/pix_price_table.php:280 vc_templates/vc_maps/vc_common.php:2775
+msgid "Enter information"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:744
+#: vc_templates/vc_maps/vc_common.php:874
+msgid "Enter information."
+msgstr ""
+
+#: templates_el/pix_brands.php:45
+msgid "Enter number of columns. Default 5."
+msgstr ""
+
+#: templates_el/pix_tab_acc.php:63 templates_el/pix_tab_acc.php:133
+msgid "Enter text used as title of bar"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1119
+#: vc_templates/vc_maps/vc_common.php:1205
+#: vc_templates/vc_maps/vc_common.php:1268
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: templates_el/pix_brands.php:37 templates_el/pix_video.php:135
+msgid "Enter text used as title of carousel."
+msgstr ""
+
+#: templates_el/pix_banner.php:266 templates_el/pix_icon_box.php:266
+#: vc_templates/vc_maps/vc_common.php:678
+msgid "Enter text used as title of icon."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1038
+#: vc_templates/vc_maps/vc_common.php:1127
+#: vc_templates/vc_maps/vc_common.php:1213
+#: vc_templates/vc_maps/vc_common.php:1650
+msgid "Enter text."
+msgstr ""
+
+#: templates/header/header_catalog.php:301
+msgid "Enter the name or part number"
+msgstr "Ingrese el nombre o número de parte"
+
+#: vc_templates/vc_maps/vc_common.php:1275
+msgid "Enter value of bar."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:20
+#: vc_templates/vc_maps/vc_common.php:1087
+#: vc_templates/vc_maps/vc_common.php:1177
+#: vc_templates/vc_maps/vc_common.php:1244
+msgid "Enter values for graph - title and value."
+msgstr ""
+
+#: templates_el/pix_title.php:38
+msgid "Enter your pre-title"
+msgstr ""
+
+#: templates_el/pix_title.php:46
+msgid "Enter your title"
+msgstr ""
+
+#: pixinit/import/plugins.php:113
+msgid "Envato Market"
+msgstr ""
+
+#: pixinit/functions/functions.php:365
+msgid "Error 404"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:288
+#: vc_templates/vc_maps/vc_add_gradient.php:334
+msgid "Example: 0,100 50,50 100,100"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: templates_el/pix_posts.php:105 vc_templates/vc_maps/vc_common.php:1350
+#: vc_templates/vc_maps/vc_common.php:2389
+msgid "Eye"
+msgstr ""
+
+#: templates_el/pix_reviews.php:143 templates_el/pix_team.php:128
+#: vc_templates/vc_maps/vc_common.php:1484
+#: vc_templates/vc_maps/vc_common.php:1626
+msgid "Facebook"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:79
+msgid "Facebook URL"
+msgstr ""
+
+#: templates_el/pix_woo.php:87 templates_el/pix_woo.php:234
+#: vc_templates/common_woocommerce.php:37
+#: vc_templates/vc_maps/vc_common.php:2954
+msgid "Featured"
+msgstr "Destacados"
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:190
+msgid "Featured products"
+msgstr "Productos destacados"
+
+#: templates_el/pix_price_table.php:271 vc_templates/vc_maps/vc_common.php:2763
+msgid "Features"
+msgstr "Caracteristicas"
+
+#: templates_el/pix_price_table.php:175 vc_templates/vc_maps/vc_common.php:2675
+msgid "Features for Comparison"
+msgstr ""
+
+#: templates_el/pix_price_table.php:165 vc_templates/vc_maps/vc_common.php:2663
+msgid "Features Subtitle"
+msgstr ""
+
+#: templates_el/pix_price_table.php:155 vc_templates/vc_maps/vc_common.php:2652
+msgid "Features Title"
+msgstr ""
+
+#: templates_el/pix_filter.php:45 vc_templates/vc_maps/vc_common.php:2820
+msgid "Fields"
+msgstr ""
+
+#: templates_el/pix_banner.php:155 templates_el/pix_icon_box.php:155
+#: templates_el/pix_reviews.php:65 vc_templates/vc_maps/vc_common.php:577
+msgid "Fill Color"
+msgstr ""
+
+#: templates_el/pix_banner.php:129 templates_el/pix_icon_box.php:129
+#: vc_templates/vc_maps/vc_common.php:553
+#: vc_templates/vc_maps/vc_common.php:835
+msgid "Fill on Hover"
+msgstr ""
+
+#: templates_el/pix_banner.php:131 templates_el/pix_icon_box.php:131
+#: vc_templates/vc_maps/vc_common.php:556
+#: vc_templates/vc_maps/vc_common.php:838
+msgid "Fill the background with the main color on hover"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2134
+msgid "Filter Alignment"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2147
+msgid "Filter Style"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2176
+msgid "Filter Title"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2087
+msgid "First posts"
+msgstr ""
+
+#: templates_el/pix_price_table.php:209 vc_templates/vc_maps/vc_common.php:2709
+msgid "First Price"
+msgstr ""
+
+#: templates_el/pix_price_table.php:63 vc_templates/vc_maps/vc_common.php:2571
+msgid "First Selector"
+msgstr ""
+
+#: templates_el/pix_price_table.php:65 vc_templates/vc_maps/vc_common.php:2574
+msgid "First tab button text"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:831
+msgid "Fixed Image"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:13
+msgid "Flaticon"
+msgstr ""
+
+#: templates_el/pix_banner.php:59 templates_el/pix_icon_box.php:59
+msgid "Flip"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:486
+msgid "Flip Box"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:331
+#: vc_templates/vc_maps/vc_common.php:599
+#: vc_templates/vc_maps/vc_common.php:776
+#: vc_templates/vc_maps/vc_common.php:2742
+msgid "Font"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:16
+msgid "Font Awesome"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:40 templates_el/pix_banner.php:177
+#: templates_el/pix_icon_box.php:177 templates_el/pix_price_table.php:245
+msgid "Font Icon/SVG"
+msgstr ""
+
+#: templates_el/pix_button.php:132 vc_templates/vc_maps/vc_common.php:405
+msgid "Font Size"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:264
+msgid "Fonts"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:363 templates_el/pix_price_table.php:123
+#: vc_templates/vc_maps/vc_common.php:2631
+msgid "Footer"
+msgstr ""
+
+#: pixinit/functions/index.php:106
+msgid "Footer Navigation"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:162
+msgid "For Boxed Container on Home Template"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:110
+msgid ""
+"For multirow layout ( Number of slides per column > 1) is currently not "
+"compatible with loop mode (loop: true)"
+msgstr ""
+
+#: pixinit/functions/woo.php:231
+msgid "from"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:147
+msgid "Fuel"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:59
+#: pixinit/admin/customizer/header.php:79
+#: pixinit/admin/customizer/header.php:118 templates_el/pix_cform7.php:93
+#: vc_templates/vc_maps/vc_common.php:969
+msgid "Full Width"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:128
+msgid "Gallery"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2349
+msgid "Gap"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:6
+#: pixinit/admin/customizer/header.php:14
+msgid "General Settings"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:393 templates_el/pix_banner.php:75
+#: templates_el/pix_button.php:73 templates_el/pix_cform7.php:57
+#: templates_el/pix_icon_box.php:75 templates_el/pix_points.php:46
+#: templates_el/pix_posts.php:56 templates_el/pix_price_table.php:89
+#: templates_el/pix_reviews.php:55 templates_el/pix_special_offers.php:39
+#: templates_el/pix_team.php:51 templates_el/pix_video.php:92
+#: vc_templates/vc_maps/vc_common.php:150
+#: vc_templates/vc_maps/vc_common.php:347
+#: vc_templates/vc_maps/vc_common.php:501
+#: vc_templates/vc_maps/vc_common.php:992
+#: vc_templates/vc_maps/vc_common.php:1314
+#: vc_templates/vc_maps/vc_common.php:1415
+#: vc_templates/vc_maps/vc_common.php:1548
+#: vc_templates/vc_maps/vc_common.php:1724
+#: vc_templates/vc_maps/vc_common.php:1927
+#: vc_templates/vc_maps/vc_common.php:2233
+#: vc_templates/vc_maps/vc_common.php:2367
+#: vc_templates/vc_maps/vc_common.php:2599
+msgid "Global"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:313 pixinit/admin/post-fields.php:327
+#: pixinit/admin/post-fields.php:339
+msgid "Global Settings"
+msgstr ""
+
+#: templates_el/pix_button.php:38 vc_templates/vc_maps/vc_common.php:324
+msgid "Go"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:280
+msgid "Google Fonts Embed"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1784
+#: vc_templates/vc_maps/vc_common.php:1795
+msgid "Google Map"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:168
+#: pixinit/admin/customizer/general.php:823 templates_el/pix_banner.php:161
+#: templates_el/pix_banner.php:235 templates_el/pix_banner.php:252
+#: templates_el/pix_icon_box.php:161 templates_el/pix_icon_box.php:235
+#: templates_el/pix_icon_box.php:252 templates_el/pix_reviews.php:71
+#: vc_templates/vc_maps/vc_add_gradient.php:189
+#: vc_templates/vc_maps/vc_add_gradient.php:200
+#: vc_templates/vc_maps/vc_add_gradient.php:218
+#: vc_templates/vc_maps/vc_add_gradient.php:231
+#: vc_templates/vc_maps/vc_add_gradient.php:240
+#: vc_templates/vc_maps/vc_common.php:583
+#: vc_templates/vc_maps/vc_common.php:649
+#: vc_templates/vc_maps/vc_common.php:665
+#: vc_templates/vc_maps/vc_common.php:1563
+msgid "Gradient"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:869
+msgid "Gradient Color"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:183
+#: pixinit/admin/customizer/header.php:885
+msgid "Gradient Direction"
+msgstr ""
+
+#: templates/portfolio/custom.php:15
+msgid "Graduation"
+msgstr ""
+
+#: templates_el/pix_brands.php:61 templates_el/pix_posts.php:66
+#: vc_templates/vc_maps/vc_common.php:1323
+#: vc_templates/vc_maps/vc_common.php:2041
+#: vc_templates/vc_maps/vc_common.php:2242
+#: vc_templates/vc_maps/vc_common.php:2376
+#: vc_templates/vc_maps/vc_common.php:2494
+msgid "Greyscale Images"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2023
+msgid "Grid"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:98
+msgid "Group Delay Offset"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:302
+#: pixinit/admin/customizer/general.php:464 templates_el/pix_title.php:74
+#: templates_el/pix_title.php:91 vc_templates/vc_maps/vc_common.php:210
+#: vc_templates/vc_maps/vc_common.php:225
+msgid "H1"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:303
+#: pixinit/admin/customizer/general.php:482 templates_el/pix_title.php:75
+#: templates_el/pix_title.php:92 vc_templates/vc_maps/vc_common.php:211
+#: vc_templates/vc_maps/vc_common.php:226
+msgid "H2"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:304
+#: pixinit/admin/customizer/general.php:500 templates_el/pix_title.php:76
+#: templates_el/pix_title.php:93 vc_templates/vc_maps/vc_common.php:212
+#: vc_templates/vc_maps/vc_common.php:227
+msgid "H3"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:305
+#: pixinit/admin/customizer/general.php:518 templates_el/pix_title.php:77
+#: templates_el/pix_title.php:94 vc_templates/vc_maps/vc_common.php:213
+#: vc_templates/vc_maps/vc_common.php:228
+msgid "H4"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:306
+#: pixinit/admin/customizer/general.php:536 templates_el/pix_title.php:78
+#: templates_el/pix_title.php:95 vc_templates/vc_maps/vc_common.php:214
+#: vc_templates/vc_maps/vc_common.php:229
+msgid "H5"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:307
+#: pixinit/admin/customizer/general.php:554 templates_el/pix_title.php:79
+#: templates_el/pix_title.php:96 vc_templates/vc_maps/vc_common.php:215
+#: vc_templates/vc_maps/vc_common.php:230
+msgid "H6"
+msgstr ""
+
+#: templates_el/pix_price_table.php:122 vc_templates/vc_maps/vc_common.php:2630
+msgid "Header"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:212
+msgid "Header Logo"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:1087
+msgid "Header Margin Bottom"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:70
+msgid "Header Menu height"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:262
+msgid "Header On/Off"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:1067
+msgid "Header Padding Bottom"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:1047
+msgid "Header Padding Top"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:62
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:65
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:63
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:67
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:67
+msgid "Heading"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:766
+#: pixinit/elementor/widgets/banner.php:212
+#: pixinit/elementor/widgets/carousel/logos-carousel.php:89
+#: templates_el/pix_video.php:102 vc_templates/vc_maps/vc_add_gradient.php:261
+#: vc_templates/vc_maps/vc_add_gradient.php:307
+#: vc_templates/vc_maps/vc_common.php:1734
+msgid "Height"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:3096
+msgid "Height in px"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:141
+#: pixinit/elementor/widgets/carousel/base-carousel.php:152
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:86
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:97
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:108
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:88
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:100
+#: templates_el/pix_woo.php:137 vc_templates/vc_maps/vc_common.php:2141
+#: vc_templates/vc_maps/vc_common.php:2313
+#: vc_templates/vc_maps/vc_common.php:2480
+#: vc_templates/vc_maps/vc_common.php:3000
+msgid "Hide"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:993
+msgid "Hide Both"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:992
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3602
+#: pixinit/admin/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:991
+msgid "Hide Title"
+msgstr ""
+
+#: pixinit/functions/functions.php:360
+msgid "Home"
+msgstr "Inicio"
+
+#: pixinit/admin/customizer/general.php:879
+#: pixinit/admin/customizer/header.php:793
+#: vc_templates/vc_maps/vc_add_shadows.php:34
+msgid "Horizontal Position"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1247
+msgid "Hosting providers"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:136
+msgid "Hover"
+msgstr ""
+
+#: pixinit/elementor/widgets/social-icons.php:260
+msgid "Hover Animation"
+msgstr ""
+
+#: pixinit/elementor/widgets/social-icons.php:106
+#: vc_templates/vc_maps/vc_common.php:1557
+msgid "Hover Color"
+msgstr ""
+
+#: templates_el/pix_reviews.php:82 vc_templates/vc_maps/vc_common.php:1574
+msgid "Hover Effect"
+msgstr ""
+
+#: templates_el/pix_posts.php:99 vc_templates/vc_maps/vc_common.php:1345
+#: vc_templates/vc_maps/vc_common.php:2384
+msgid "Hover Icon"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:395
+msgid "Hover Info"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:185
+msgid "Hover Overlay color"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:171
+msgid "Hover Text background color"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:157
+msgid "Hover Text border color"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:143
+msgid "Hover Text color"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://pitstop.true-emotions.studio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://true-emotions.studio/"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:205
+#: pixinit/elementor/widgets/button.php:82
+#: pixinit/elementor/widgets/carousel/logos-carousel.php:70
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:143
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:179
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:207
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:235
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:263
+#: pixinit/elementor/widgets/social-icons.php:71
+msgid "https://your-link.com"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:96
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:64
+msgid "https://youtu.be/QQMFPjNM3pU"
+msgstr ""
+
+#: templates/header/header_catalog.php:138
+msgid "I agree to the terms of the"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1037
+#: vc_templates/vc_maps/vc_common.php:1126
+#: vc_templates/vc_maps/vc_common.php:1212
+#: vc_templates/vc_maps/vc_common.php:1649
+#: vc_templates/vc_maps/vc_common.php:1967
+msgid "I am test text block. Click edit button to change this text."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:201
+msgid "I am Title"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:22
+msgid "Icomoon"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:134
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:158
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:186
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:214
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:242
+#: pixinit/elementor/widgets/social-icons.php:49
+#: pixinit/elementor/widgets/social-icons.php:190
+#: templates_el/pix_amount_box.php:57 templates_el/pix_banner.php:194
+#: templates_el/pix_icon_box.php:194 templates_el/pix_price_table.php:262
+#: vc_templates/vc_maps/vc_add_icons.php:86
+msgid "Icon"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:593
+msgid "Icon 1"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:636
+msgid "Icon 2"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:679
+msgid "Icon 3"
+msgstr ""
+
+#: templates_el/pix_banner.php:218 templates_el/pix_icon_box.php:218
+#: vc_templates/vc_maps/vc_common.php:633
+msgid "Icon Background"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:454
+msgid "Icon Box"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:94 templates_el/pix_banner.php:230
+#: templates_el/pix_icon_box.php:230 vc_templates/vc_maps/vc_common.php:644
+#: vc_templates/vc_maps/vc_common.php:821
+msgid "Icon Color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:72
+msgid "Icon library"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:143 templates_el/pix_amount_box.php:81
+#: vc_templates/vc_maps/vc_common.php:809
+msgid "Icon Position"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:67 templates_el/pix_banner.php:204
+#: templates_el/pix_icon_box.php:204 vc_templates/vc_maps/vc_common.php:620
+#: vc_templates/vc_maps/vc_common.php:796
+msgid "Icon Size"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:159
+msgid "Icon Spacing"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:35 templates_el/pix_banner.php:172
+#: templates_el/pix_icon_box.php:172 templates_el/pix_price_table.php:240
+#: vc_templates/vc_maps/vc_common.php:594
+#: vc_templates/vc_maps/vc_common.php:771
+#: vc_templates/vc_maps/vc_common.php:2737
+msgid "Icon Type"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1138
+#: vc_templates/vc_maps/vc_common.php:1217
+msgid "ID"
+msgstr ""
+
+#: templates_el/pix_woo.php:62 templates_el/pix_woo.php:69
+#: vc_templates/vc_maps/vc_common.php:2934
+#: vc_templates/vc_maps/vc_common.php:2939
+msgid "IDs"
+msgstr ""
+
+#: templates_el/pix_banner.php:303 templates_el/pix_icon_box.php:303
+#: vc_templates/vc_maps/vc_common.php:710
+msgid "If Overlay the whole box is a link. Don't use links in content"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:153
+msgid ""
+"If you don't want to stretch content in column with row setting 'Stretch row "
+"and content'."
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:170
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:31
+#: pixinit/elementor/widgets/carousel/logos-carousel.php:56
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:132
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:93
+#: templates_el/pix_amount_box.php:39 templates_el/pix_amount_box.php:47
+#: templates_el/pix_banner.php:176 templates_el/pix_banner.php:184
+#: templates_el/pix_brands.php:73 templates_el/pix_icon_box.php:176
+#: templates_el/pix_icon_box.php:184 templates_el/pix_points.php:35
+#: templates_el/pix_price_table.php:244 templates_el/pix_price_table.php:252
+#: templates_el/pix_reviews.php:113 templates_el/pix_special_offers.php:66
+#: templates_el/pix_team.php:77 templates_el/pix_video.php:78
+#: vc_templates/vc_maps/vc_common.php:1005
+#: vc_templates/vc_maps/vc_common.php:1440
+#: vc_templates/vc_maps/vc_common.php:1606
+#: vc_templates/vc_maps/vc_common.php:1709
+#: vc_templates/vc_maps/vc_common.php:1917
+#: vc_templates/vc_maps/vc_common.php:2507
+msgid "Image"
+msgstr ""
+
+#: templates_el/pix_points.php:12 vc_templates/vc_maps/vc_common.php:1910
+msgid "Image Points"
+msgstr ""
+
+#: templates_el/pix_posts.php:127 vc_templates/vc_maps/vc_common.php:1369
+#: vc_templates/vc_maps/vc_common.php:2250
+#: vc_templates/vc_maps/vc_common.php:2396
+msgid "Image Proportions"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:117
+msgid "Image Sign"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:120
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:107
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:92
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:92
+msgid "Image Size"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1796
+msgid "Image with Link"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:598
+#: vc_templates/vc_maps/vc_common.php:605
+#: vc_templates/vc_maps/vc_common.php:775
+#: vc_templates/vc_maps/vc_common.php:782
+#: vc_templates/vc_maps/vc_common.php:2748
+msgid "Image/SVG"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:75
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:78
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:76
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:80
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:80
+#: pixinit/elementor/widgets/title.php:59
+msgid "Indented"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:109
+msgid "Infinite Loop"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:100
+msgid "Infinity loop"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:574
+#: pixinit/admin/customizer/header.php:621
+msgid "Info 1"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:575
+#: pixinit/admin/customizer/header.php:664
+msgid "Info 2"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:576
+#: pixinit/admin/customizer/header.php:707
+msgid "Info 3"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:570
+msgid "Info Sections"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:477
+msgid "Info Texts"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:124
+msgid "Input \"-1\" or leave empty to show all posts."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2096
+msgid ""
+"Input items IDs. First id is large image. (example: 307,304,302,301,300)"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2941
+msgid "Input products ID.  (example: 307,304,302,301,300)"
+msgstr ""
+
+#: templates_el/pix_woo.php:71
+msgid "Input products ID. example: 307,304,302,301,300"
+msgstr ""
+
+#: templates_el/pix_reviews.php:157 templates_el/pix_team.php:142
+#: vc_templates/vc_maps/vc_common.php:1496
+#: vc_templates/vc_maps/vc_common.php:1640
+msgid "Instagram"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:99
+msgid "Instagram URL"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:335
+#: pixinit/import/plugins.php:160
+msgid "Install Plugins"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:334
+#: pixinit/import/plugins.php:159
+msgid "Install Required Plugins"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:337
+#: pixinit/import/plugins.php:161
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2114
+msgid "Isotope"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:412
+msgid "Italic"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:172
+msgid "Item"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:131
+msgid "Item Background Color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2789
+msgid "Item link"
+msgstr ""
+
+#: templates_el/pix_posts.php:87 templates_el/pix_woo.php:144
+#: vc_templates/vc_maps/vc_common.php:1338
+#: vc_templates/vc_maps/vc_common.php:2215
+#: vc_templates/vc_maps/vc_common.php:2356
+#: vc_templates/vc_maps/vc_common.php:3006
+msgid "Items Count"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:85
+msgid "Items in Group"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:88
+msgid "Items number in animated group."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2217
+#: vc_templates/vc_maps/vc_common.php:2358
+msgid "Items number to show. Leave empty to show all items."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:61
+#: vc_templates/vc_maps/vc_add_animate.php:150
+msgid "Iteration"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:108
+msgid "Justified"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:73 templates_el/pix_banner.php:210
+#: templates_el/pix_button.php:104 templates_el/pix_button.php:121
+#: templates_el/pix_button.php:138 templates_el/pix_icon_box.php:210
+#: vc_templates/vc_maps/vc_add_gradient.php:15
+#: vc_templates/vc_maps/vc_add_gradient.php:32
+#: vc_templates/vc_maps/vc_add_gradient.php:51
+#: vc_templates/vc_maps/vc_add_gradient.php:67
+#: vc_templates/vc_maps/vc_common.php:377
+#: vc_templates/vc_maps/vc_common.php:394
+#: vc_templates/vc_maps/vc_common.php:411
+#: vc_templates/vc_maps/vc_common.php:626
+#: vc_templates/vc_maps/vc_common.php:802
+msgid "L"
+msgstr ""
+
+#: templates_el/pix_tab_acc.php:61 templates_el/pix_tab_acc.php:131
+#: templates_el/pix_woo.php:61 vc_templates/vc_maps/vc_common.php:1117
+#: vc_templates/vc_maps/vc_common.php:1203
+#: vc_templates/vc_maps/vc_common.php:1266
+#: vc_templates/vc_maps/vc_common.php:2933
+#: vc_templates/vc_maps/vc_common.php:2949
+msgid "Label"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: templates_el/pix_woo.php:80
+msgid "Labels"
+msgstr ""
+
+#: pixinit/elementor/class-init-widgets.php:49
+msgid "Lamira"
+msgstr ""
+
+#: templates_el/pix_posts.php:133 vc_templates/vc_maps/vc_common.php:1374
+#: vc_templates/vc_maps/vc_common.php:2255
+#: vc_templates/vc_maps/vc_common.php:2401
+msgid "Landscape"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2065
+msgid "Large Image Position"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:145
+msgid "Last modified date"
+msgstr ""
+
+#: templates/header/bg_image.php:120
+msgid "Latest Posts"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1841
+msgid "Latitude, Longtitude (Example: 40.6700,-73.9400)"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1838
+msgid "LatLng"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:52
+msgid "Layout"
+msgstr ""
+
+#: pixinit/elementor/widgets/native/section.php:39
+msgid ""
+"Leave empty normal background settings for use global section background"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:109
+msgid "Leave empty to choose All categories"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2899
+msgid "Leave empty to show all."
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:213
+msgid "Leave empty to use auto height (100%)"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:124
+msgid "Leave empty to use original category name"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:138
+#: pixinit/elementor/widgets/button.php:96
+#: pixinit/elementor/widgets/social-icons.php:202
+#: templates_el/pix_amount_box.php:85 templates_el/pix_banner.php:89
+#: templates_el/pix_banner.php:105 templates_el/pix_button.php:163
+#: templates_el/pix_cform7.php:90 templates_el/pix_icon_box.php:89
+#: templates_el/pix_icon_box.php:105 templates_el/pix_video.php:66
+#: templates_el/pix_woo.php:183 vc_templates/vc_maps/vc_add_gradient.php:149
+#: vc_templates/vc_maps/vc_common.php:240
+#: vc_templates/vc_maps/vc_common.php:433
+#: vc_templates/vc_maps/vc_common.php:514
+#: vc_templates/vc_maps/vc_common.php:530
+#: vc_templates/vc_maps/vc_common.php:813
+#: vc_templates/vc_maps/vc_common.php:966
+#: vc_templates/vc_maps/vc_common.php:1698
+#: vc_templates/vc_maps/vc_common.php:2009
+#: vc_templates/vc_maps/vc_common.php:2069
+#: vc_templates/vc_maps/vc_common.php:2138
+#: vc_templates/vc_maps/vc_common.php:3043
+msgid "Left"
+msgstr ""
+
+#: templates_el/pix_woo.php:498 vc_templates/common_woocommerce.php:328
+msgid "Left in Stock:"
+msgstr ""
+
+#: templates_el/pix_points.php:77 vc_templates/vc_maps/vc_common.php:1959
+msgid "Left Position"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:342
+msgid "Left Sidebar"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:159
+msgid "Left/Right Padding"
+msgstr ""
+
+#: templates_el/pix_button.php:115 vc_templates/vc_maps/vc_common.php:388
+msgid "Left/Right Paddings"
+msgstr ""
+
+#: templates/portfolio/custom.php:16
+msgid "Length of Work"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:122
+msgid "Lifted Corners"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:248
+#: pixinit/admin/customizer/header.php:948 templates_el/pix_button.php:152
+#: vc_templates/vc_maps/vc_add_gradient.php:110
+#: vc_templates/vc_maps/vc_add_gradient.php:175
+#: vc_templates/vc_maps/vc_common.php:296
+#: vc_templates/vc_maps/vc_common.php:423
+msgid "Light"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:387
+msgid "Line height"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:313
+#: pixinit/admin/customizer/general.php:662 pixinit/admin/post-fields.php:141
+#: pixinit/elementor/widgets/banner.php:200
+#: pixinit/elementor/widgets/button.php:77
+#: pixinit/elementor/widgets/carousel/logos-carousel.php:64
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:171
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:199
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:227
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:255
+#: pixinit/elementor/widgets/social-icons.php:63
+#: templates_el/pix_banner.php:286 templates_el/pix_brands.php:87
+#: templates_el/pix_button.php:44 templates_el/pix_icon_box.php:286
+#: templates_el/pix_price_table.php:294 templates_el/pix_reviews.php:171
+#: templates_el/pix_special_offers.php:95 templates_el/pix_tab_acc.php:77
+#: vc_templates/vc_maps/vc_common.php:329
+#: vc_templates/vc_maps/vc_common.php:695
+#: vc_templates/vc_maps/vc_common.php:1042
+#: vc_templates/vc_maps/vc_common.php:1131
+#: vc_templates/vc_maps/vc_common.php:1508
+#: vc_templates/vc_maps/vc_common.php:1654
+#: vc_templates/vc_maps/vc_common.php:1811
+#: vc_templates/vc_maps/vc_common.php:2520
+#: vc_templates/vc_maps/vc_common.php:2787
+msgid "Link"
+msgstr ""
+
+#: templates_el/pix_banner.php:301 templates_el/pix_icon_box.php:301
+#: templates_el/pix_tab_acc.php:104 vc_templates/vc_maps/vc_common.php:702
+#: vc_templates/vc_maps/vc_common.php:1150
+msgid "Link Type"
+msgstr ""
+
+#: templates_el/pix_reviews.php:164 templates_el/pix_team.php:149
+#: vc_templates/vc_maps/vc_common.php:1502
+msgid "Linkedin"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:1049
+msgid "Loader Image"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1832
+msgid "Locations"
+msgstr ""
+
+#: templates/header/header_catalog.php:99
+msgid "Login"
+msgstr ""
+
+#: templates/header/header_catalog.php:115
+msgid "login"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:13 templates/header/header1.php:39
+#: templates/header/header2.php:94 templates/header/header3.php:42
+#: templates/header/header4.php:38 templates/header/header5.php:38
+#: templates/header/header6.php:39 templates/header/header6.php:42
+#: templates/header/header6.php:124 templates/header/header6.php:127
+#: templates/header/header_catalog.php:37 templates/header/mobile+.php:15
+#: templates/header/mobile.php:15 templates/header/mobile_cat.php:62
+msgid "Logo"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:220
+msgid "Logo Light"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:88
+msgid "Logo Text"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/logos-carousel.php:21
+msgid "Logos Carousel"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:164
+#: vc_templates/vc_maps/vc_add_swiper.php:97
+msgid "Loop"
+msgstr ""
+
+#: templates/header/header_catalog.php:118
+msgid "Lost your password?"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:72 templates_el/pix_banner.php:209
+#: templates_el/pix_button.php:103 templates_el/pix_button.php:120
+#: templates_el/pix_button.php:137 templates_el/pix_icon_box.php:209
+#: vc_templates/vc_maps/vc_add_gradient.php:14
+#: vc_templates/vc_maps/vc_add_gradient.php:31
+#: vc_templates/vc_maps/vc_add_gradient.php:50
+#: vc_templates/vc_maps/vc_add_gradient.php:66
+#: vc_templates/vc_maps/vc_common.php:376
+#: vc_templates/vc_maps/vc_common.php:393
+#: vc_templates/vc_maps/vc_common.php:410
+#: vc_templates/vc_maps/vc_common.php:625
+#: vc_templates/vc_maps/vc_common.php:801
+msgid "M"
+msgstr ""
+
+#: pixinit/import/plugins.php:45
+msgid "Mailchimp"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:891
+msgid "Mailchimp Box"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:134
+#: pixinit/admin/customizer/header.php:235
+#: pixinit/admin/customizer/header.php:276
+#: pixinit/admin/customizer/header.php:317 templates_el/pix_banner.php:159
+#: templates_el/pix_banner.php:250 templates_el/pix_icon_box.php:159
+#: templates_el/pix_icon_box.php:250 templates_el/pix_reviews.php:69
+#: vc_templates/vc_maps/vc_common.php:581
+#: vc_templates/vc_maps/vc_common.php:663
+#: vc_templates/vc_maps/vc_common.php:1561
+msgid "Main"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:821 pixinit/admin/post-fields.php:208
+msgid "Main Color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:202
+msgid "Main title."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:249
+msgid "Make"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:127
+msgid "Makes"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:116
+msgid "Manage"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:116
+msgid "Manage gallery"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:57
+msgid "Manual Selection"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1868
+msgid "Map Height"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1801
+msgid "Map Image"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1791
+msgid "Map Type"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1859
+msgid "Map Width"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1821
+msgid "Marker Image"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:48
+msgid "Max Width"
+msgstr ""
+
+#: templates_el/pix_team.php:170 vc_templates/vc_maps/vc_common.php:1435
+msgid "Members"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:146
+msgid "Menu order"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:131
+msgid "Menu Position"
+msgstr ""
+
+#: templates_el/pix_banner.php:330 templates_el/pix_icon_box.php:330
+#: vc_templates/vc_maps/vc_common.php:730
+msgid "Middle"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:159
+#: vc_templates/vc_maps/vc_add_params.php:160
+msgid "Mileage"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:69
+msgid "Min Height"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:423
+msgid "Minicart"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:149
+msgid "Mobile"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:105
+msgid "Mobile Logo"
+msgstr ""
+
+#: pixinit/functions/index.php:107
+msgid "Mobile Navigation"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:253
+msgid "Model"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:131
+#: vc_templates/vc_maps/vc_add_params.php:302
+msgid "Models"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:99 templates_el/pix_banner.php:236
+#: templates_el/pix_icon_box.php:236 vc_templates/vc_maps/vc_common.php:650
+#: vc_templates/vc_maps/vc_common.php:826
+msgid "Monochrome"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1180
+msgid "Mus imperdiet, consectetuer adipiscing?"
+msgstr ""
+
+#: templates/header/header_catalog.php:94
+msgid "My Account"
+msgstr ""
+
+#: pixinit/functions/woo_single.php:116
+msgid "N/A"
+msgstr ""
+
+#: comments.php:52 comments.php:53
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:101
+#: templates_el/pix_reviews.php:120 templates_el/pix_team.php:84
+#: vc_templates/vc_maps/vc_common.php:1446
+#: vc_templates/vc_maps/vc_common.php:1612
+msgid "Name"
+msgstr ""
+
+#: templates_el/pix_reviews.php:97 vc_templates/vc_maps/vc_common.php:1589
+msgid "Name Style"
+msgstr ""
+
+#: templates_el/pix_woo.php:132 templates_el/sections/swiper_section.php:152
+#: vc_templates/vc_maps/vc_add_swiper.php:84
+#: vc_templates/vc_maps/vc_common.php:2308
+#: vc_templates/vc_maps/vc_common.php:2475
+#: vc_templates/vc_maps/vc_common.php:2994
+msgid "Navigation"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2311
+msgid "Navigation Arrows"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:87
+msgid "Navigation arrows < >"
+msgstr ""
+
+#: templates_el/pix_woo.php:88 vc_templates/vc_maps/vc_common.php:2955
+msgid "New"
+msgstr ""
+
+#: templates_el/pix_woo.php:235 vc_templates/common_woocommerce.php:38
+msgid "New Products"
+msgstr "Nuevos Productos"
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:192
+msgid "New products"
+msgstr "Nuevo producto"
+
+#: comments.php:28
+msgid "Newer Comments"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:198
+msgid "Newest"
+msgstr ""
+
+#: single-pix-portfolio.php:130 single-pix-team.php:133
+msgid "Next"
+msgstr ""
+
+#: templates/post-single/content.php:73
+msgid "next"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:714
+#: pixinit/admin/customizer/general.php:864
+#: pixinit/admin/customizer/header.php:97
+#: pixinit/admin/customizer/header.php:187
+#: pixinit/admin/customizer/header.php:836
+#: pixinit/admin/customizer/header.php:1031 templates_el/pix_posts.php:103
+#: vc_templates/vc_maps/vc_common.php:1348
+#: vc_templates/vc_maps/vc_common.php:2387
+msgid "No"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:67
+msgid "No Active Fonts"
+msgstr ""
+
+#: templates_el/pix_woo.php:28 vc_templates/vc_maps/vc_common.php:41
+msgid "No Banner"
+msgstr ""
+
+#: pixinit/functions/functions.php:488 pixinit/functions/functions.php:583
+msgid "No Categories"
+msgstr ""
+
+#: templates_el/pix_woo_cats.php:107 vc_templates/common_woo_categories.php:24
+msgid ""
+"No categories selected. To fix this, please login to your WP Admin area and "
+"set the categories you want to show by editing this shortcode and setting "
+"one or more categories in the multi checkbox field \"Categories\"."
+msgstr ""
+
+#: templates_el/pix_posts.php:247 vc_templates/common_posts_block.php:92
+msgid "No comments"
+msgstr ""
+
+#: pixinit/elementor/widgets/cform7.php:58
+msgid "No contact form selected"
+msgstr ""
+
+#: vc_templates/common_services_cat.php:21
+msgid ""
+"No departments selected. To fix this, please login to your WP Admin area and "
+"set the departments you want to show by editing this shortcode and setting "
+"one or more departments in the multi checkbox field \"Departments\"."
+msgstr ""
+
+#: pixinit/admin/functions.php:186 pixinit/admin/post-fields.php:332
+msgid "No Footer"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:74
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:77
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:75
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:79
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:79
+#: pixinit/elementor/widgets/title.php:58
+msgid "No indent"
+msgstr ""
+
+#: templates_el/pix_banner.php:142 templates_el/pix_icon_box.php:142
+#: vc_templates/vc_maps/vc_add_gradient.php:12
+#: vc_templates/vc_maps/vc_add_gradient.php:29
+#: vc_templates/vc_maps/vc_add_gradient.php:48
+#: vc_templates/vc_maps/vc_add_gradient.php:64
+#: vc_templates/vc_maps/vc_common.php:565
+msgid "No Padding"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:775
+msgid "No Repeat"
+msgstr ""
+
+#: templates_el/pix_title.php:131 vc_templates/vc_maps/vc_common.php:269
+msgid "No Wrap"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:348
+msgid "None"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:411
+#: pixinit/admin/customizer/header.php:57
+#: pixinit/admin/customizer/header.php:77
+#: pixinit/elementor/widgets/banner.php:72
+msgid "Normal"
+msgstr ""
+
+#: loop.php:13
+msgid "Not Found"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:144
+msgid "Not Stretch Content Alignment"
+msgstr ""
+
+#: search.php:37
+msgid "Nothing Found"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:123
+msgid "Number of items to show"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:72
+msgid "Number of slides per column"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:73
+msgid ""
+"Number of slides per column, for multirow layout ( Number of slides per "
+"column > 1) is currently not compatible with loop mode (loop: true)"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:33
+msgid ""
+"Number of slides per view (slides visible at the same time on slider's "
+"container)."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:64
+#: vc_templates/vc_maps/vc_add_animate.php:153
+msgid "Number of times the animation is repeated."
+msgstr ""
+
+#: pixinit/admin/post-fields.php:28
+msgid "Object"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:413
+msgid "Oblique"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:1032
+#: pixinit/admin/customizer/header.php:356
+#: pixinit/admin/customizer/header.php:391
+#: pixinit/admin/customizer/header.php:410
+#: pixinit/admin/customizer/header.php:429
+#: pixinit/admin/customizer/header.php:448
+#: pixinit/admin/customizer/header.php:467
+#: pixinit/admin/customizer/responsive.php:25
+#: pixinit/admin/customizer/services.php:41
+#: pixinit/admin/customizer/services.php:53
+#: vc_templates/vc_maps/vc_add_gradient.php:148
+msgid "Off"
+msgstr ""
+
+#: templates_el/pix_special_offers.php:88 templates_el/pix_tab_acc.php:70
+#: templates_el/pix_tab_acc.php:140
+msgid "Offer Content"
+msgstr ""
+
+#: templates_el/pix_special_offers.php:110
+#: vc_templates/vc_maps/vc_common.php:1000
+msgid "Offers"
+msgstr ""
+
+#: pixinit/elementor/widgets/social-icons.php:82
+msgid "Official Color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:48
+#: vc_templates/vc_maps/vc_add_animate.php:137
+msgid "Offset"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_animate.php:101
+msgid "Offset delay before the next group animation starts in seconds."
+msgstr ""
+
+#: comments.php:27
+msgid "Older Comments"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:390
+#: pixinit/admin/customizer/header.php:409
+#: pixinit/admin/customizer/header.php:428
+#: pixinit/admin/customizer/header.php:447
+#: pixinit/admin/customizer/header.php:466
+#: pixinit/admin/customizer/responsive.php:26
+#: pixinit/admin/customizer/services.php:40
+#: pixinit/admin/customizer/services.php:52
+msgid "On"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:111
+#: vc_templates/vc_maps/vc_add_gradient.php:176
+msgid "on Colored"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:12
+msgid "On Hover"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:138
+msgid "on Mobile"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:124
+msgid "on Tablet"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:99
+#: pixinit/admin/customizer/header.php:189
+msgid "On Up Scroll"
+msgstr ""
+
+#: pixinit/import/plugins.php:63
+msgid "One Click Demo Import"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:976
+#: vc_templates/vc_maps/vc_add_gradient.php:236
+#: vc_templates/vc_maps/vc_add_shadows.php:81
+msgid "Opacity"
+msgstr ""
+
+#: templates_el/pix_title.php:63
+msgid "Options"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2083
+msgid "Order"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:139
+msgid "Order by"
+msgstr ""
+
+#: templates_el/pix_posts.php:132 vc_templates/vc_maps/vc_common.php:1373
+#: vc_templates/vc_maps/vc_common.php:2254
+#: vc_templates/vc_maps/vc_common.php:2400
+msgid "Original"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:994
+msgid "Other"
+msgstr ""
+
+#: single-pix-team.php:39
+msgid "Our Doctors"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:63
+msgid "Our news"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:54
+msgid "Outline - Accent color"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:56
+msgid "Outline - Black color"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:55
+msgid "Outline - Compliment color"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:1013
+msgid "Over"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:119
+msgid "Overflow Visible"
+msgstr ""
+
+#: templates_el/pix_banner.php:306 templates_el/pix_icon_box.php:306
+#: vc_templates/vc_maps/vc_add_gradient.php:344
+#: vc_templates/vc_maps/vc_common.php:706
+msgid "Overlay"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:852 templates_el/pix_video.php:114
+#: vc_templates/vc_maps/vc_common.php:1745
+msgid "Overlay Color"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:123
+msgid "Overlay color"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:913
+msgid "Overlay Opacity"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:25
+#: vc_templates/vc_maps/vc_add_gradient.php:60
+msgid "Padding Bottom"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:8
+#: vc_templates/vc_maps/vc_add_gradient.php:44
+msgid "Padding Top"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:173
+msgid "Page"
+msgstr ""
+
+#: pixinit/functions/functions.php:366
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:1027
+msgid "Page Loader"
+msgstr ""
+
+#: 404.php:11
+msgid "Page not found"
+msgstr ""
+
+#: templates_el/pix_filter.php:68 vc_templates/vc_maps/vc_common.php:2847
+msgid "Page with Result"
+msgstr ""
+
+#: page.php:32 templates/post-parts/content.php:57
+#: templates/post-single/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:140
+#: vc_templates/vc_maps/vc_add_swiper.php:71
+msgid "Pagination"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2312
+msgid "Pagination Dots"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:74
+msgid "Pagination dots ..."
+msgstr ""
+
+#: templates/header/header_catalog.php:108
+#: templates/header/header_catalog.php:132
+msgid "Password"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:129
+msgid "Pause on Hover"
+msgstr ""
+
+#: templates_el/pix_points.php:60 vc_templates/vc_maps/vc_common.php:1940
+msgid "Percent"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:491 templates_el/pix_team.php:107
+#: vc_templates/vc_maps/vc_common.php:1466
+msgid "Phone"
+msgstr ""
+
+#: pixinit/elementor/class-extension.php:187
+msgid "PHP"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:119
+msgid "Pinterest URL"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: pixinit/import/import.php:6 vc_templates/vc_maps/vc_common.php:194
+#: vc_templates/vc_maps/vc_common.php:317
+#: vc_templates/vc_maps/vc_common.php:457
+#: vc_templates/vc_maps/vc_common.php:766
+#: vc_templates/vc_maps/vc_common.php:894
+#: vc_templates/vc_maps/vc_common.php:915
+#: vc_templates/vc_maps/vc_common.php:948
+#: vc_templates/vc_maps/vc_common.php:984
+#: vc_templates/vc_maps/vc_common.php:1061
+#: vc_templates/vc_maps/vc_common.php:1238
+#: vc_templates/vc_maps/vc_common.php:1292
+#: vc_templates/vc_maps/vc_common.php:1396
+#: vc_templates/vc_maps/vc_common.php:1525
+#: vc_templates/vc_maps/vc_common.php:1673
+#: vc_templates/vc_maps/vc_common.php:1787
+#: vc_templates/vc_maps/vc_common.php:1913
+#: vc_templates/vc_maps/vc_common.php:1985
+#: vc_templates/vc_maps/vc_common.php:2001
+#: vc_templates/vc_maps/vc_common.php:2026
+#: vc_templates/vc_maps/vc_common.php:2117
+#: vc_templates/vc_maps/vc_common.php:2280
+#: vc_templates/vc_maps/vc_common.php:2420
+#: vc_templates/vc_maps/vc_common.php:2456
+#: vc_templates/vc_maps/vc_common.php:2540
+#: vc_templates/vc_maps/vc_common.php:2816
+#: vc_templates/vc_maps/vc_common.php:2872
+#: vc_templates/vc_maps/vc_common.php:2914
+#: vc_templates/vc_maps/vc_common.php:3060
+#: vc_templates/vc_maps/vc_common.php:3082
+msgid "Pitstop"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:3057
+#: vc_templates/vc_maps/vc_common.php:3065
+msgid "Pix Section"
+msgstr ""
+
+#: pixinit/import/plugins.php:105
+msgid "Pix-Settings"
+msgstr ""
+
+#: pixinit/classes/elementor.class.php:63 pixinit/functions/elementor.php:65
+msgid "Pix-Theme"
+msgstr ""
+
+#: templates_el/pix_points.php:61 vc_templates/vc_maps/vc_common.php:1941
+msgid "Pixels"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:18
+#: vc_templates/vc_maps/vc_add_gradient.php:35
+#: vc_templates/vc_maps/vc_add_gradient.php:54
+#: vc_templates/vc_maps/vc_add_gradient.php:70
+#: vc_templates/vc_maps/vc_add_gradient.php:85
+#: vc_templates/vc_maps/vc_add_gradient.php:100
+#: vc_templates/vc_maps/vc_add_gradient.php:114
+#: vc_templates/vc_maps/vc_add_gradient.php:122
+#: vc_templates/vc_maps/vc_add_gradient.php:135
+#: vc_templates/vc_maps/vc_add_gradient.php:154
+#: vc_templates/vc_maps/vc_add_gradient.php:163
+#: vc_templates/vc_maps/vc_add_gradient.php:179
+msgid "PixSettings"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PixTheme"
+msgstr ""
+
+#: templates_el/pix_title.php:54
+msgid "Place your text here"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: templates/post-parts/blog-video.php:19
+msgid "Play"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:1027
+#: pixinit/admin/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: pixinit/functions/functions.php:23
+msgid "Please, set Primary Menu."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:1214
+#: pixinit/admin/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:394
+#: pixinit/admin/class-tgm-plugin-activation.php:3252
+#: pixinit/import/plugins.php:174
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates_el/pix_posts.php:104 vc_templates/vc_maps/vc_common.php:1349
+#: vc_templates/vc_maps/vc_common.php:2388
+msgid "Plus"
+msgstr ""
+
+#: templates_el/pix_points.php:56 vc_templates/vc_maps/vc_common.php:1936
+msgid "Point Units"
+msgstr ""
+
+#: templates_el/pix_points.php:91 templates_el/pix_points.php:122
+#: vc_templates/common_points.php:14 vc_templates/vc_maps/vc_common.php:1948
+msgid "Points"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:192
+#: templates_el/pix_price_table.php:231 vc_templates/vc_maps/vc_common.php:2730
+msgid "Popular"
+msgstr ""
+
+#: templates_el/pix_brands.php:51 vc_templates/vc_maps/vc_common.php:2486
+msgid "Popup Images"
+msgstr ""
+
+#: templates_el/pix_points.php:83 vc_templates/vc_maps/vc_common.php:1965
+msgid "Popup Text"
+msgstr ""
+
+#: templates_el/pix_video.php:53 vc_templates/vc_maps/vc_common.php:1687
+msgid "Popup Window"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:80
+msgid "Portfolio"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:83
+msgid "Portfolio Categories"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:43
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: pixinit/elementor/class-init-widgets.php:124
+msgid "Portfolios"
+msgstr ""
+
+#: templates_el/pix_posts.php:134 vc_templates/vc_maps/vc_common.php:1375
+#: vc_templates/vc_maps/vc_common.php:2256
+#: vc_templates/vc_maps/vc_common.php:2402
+msgid "Portrait"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:109
+#: templates_el/pix_reviews.php:127 templates_el/pix_team.php:91
+#: vc_templates/vc_maps/vc_common.php:236
+#: vc_templates/vc_maps/vc_common.php:1453
+#: vc_templates/vc_maps/vc_common.php:1619
+msgid "Position"
+msgstr ""
+
+#: templates/post-parts/content.php:34
+msgid "Post a Comment"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:95
+msgid "Post Author"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:106
+msgid "Post Categories"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:84
+msgid "Post Date"
+msgstr ""
+
+#: templates_el/pix_posts.php:12 vc_templates/vc_maps/vc_common.php:1289
+msgid "Posts Block"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:19
+msgid "Posts Carousel"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2031
+#: vc_templates/vc_maps/vc_common.php:2187
+#: vc_templates/vc_maps/vc_common.php:2298
+msgid "Posts Type"
+msgstr ""
+
+#: pixinit/functions/functions.php:363
+#, php-format
+msgid "Posts with tag \"%s\""
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:308
+#: pixinit/admin/customizer/general.php:572
+#: vc_templates/vc_maps/vc_common.php:277
+msgid "Pre title"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: templates_el/pix_title.php:35
+msgid "Pre-title"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:117
+msgid "Preset"
+msgstr ""
+
+#: single-pix-portfolio.php:122 single-pix-team.php:125
+msgid "Previous"
+msgstr ""
+
+#: templates/post-single/content.php:74
+msgid "previous"
+msgstr ""
+
+#: pixinit/functions/woo_single.php:144
+#: templates_el/controls/pix_el_filter.php:25
+#: templates_el/controls/pix_el_filter.php:26
+#: templates_el/controls/pix_el_filter.php:69
+#: templates_el/controls/pix_el_filter.php:101
+#: templates_el/controls/pix_el_filter.php:102
+#: templates_el/controls/pix_el_filter.php:144
+#: vc_templates/vc_maps/vc_add_params.php:139
+#: vc_templates/vc_maps/vc_add_params.php:140
+#: vc_templates/vc_maps/vc_add_params.php:245
+#: vc_templates/vc_maps/vc_add_params.php:246
+#: vc_templates/vc_maps/vc_add_params.php:310
+msgid "Price"
+msgstr ""
+
+#: templates_el/pix_price_table.php:308 vc_templates/vc_maps/vc_common.php:2682
+msgid "Price Boxes"
+msgstr ""
+
+#: templates_el/pix_price_table.php:223 vc_templates/vc_maps/vc_common.php:2723
+msgid "Price Subtext"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2537
+msgid "Price Table"
+msgstr ""
+
+#: pixinit/functions/index.php:102
+msgid "Primary Left Navigation"
+msgstr ""
+
+#: pixinit/functions/index.php:101
+msgid "Primary Navigation"
+msgstr ""
+
+#: pixinit/functions/index.php:103
+msgid "Primary Right Navigation"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1255
+msgid "Private companies and clients"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:19
+msgid "Product Categories Carousel"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2869
+msgid "Product Categories Grid"
+msgstr ""
+
+#: templates_el/pix_price_table.php:286 vc_templates/vc_maps/vc_common.php:2780
+msgid "Product ID"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:82
+msgid "Product Price sidebar"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:73
+msgid "Product sidebar"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:66
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:64
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:68
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:68
+#: vc_templates/vc_maps/vc_common.php:122
+msgid "Products"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:19
+msgid "Products Big Double Slider"
+msgstr ""
+
+#: templates_el/pix_woo.php:57 vc_templates/vc_maps/vc_common.php:2929
+msgid "Products by"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:18
+msgid "Products Carousel with Filter"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:125
+msgid "Products Categories"
+msgstr "Categorias de productos"
+
+#: templates_el/pix_filter.php:12 vc_templates/vc_maps/vc_common.php:2813
+msgid "Products Filter"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:19
+msgid "Products Horizontal Cards Carousel"
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:54 pixinit/functions/woo-ajax.php:137
+msgid "Products in cart"
+msgstr "Producto en el carrito"
+
+#: templates_el/pix_woo_cats.php:57 vc_templates/vc_maps/vc_common.php:2890
+msgid "Products Number"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:185
+msgid "Products type"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:19
+msgid "Products Vertical Cards Carousel"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1628
+#: vc_templates/vc_maps/vc_common.php:1635
+#: vc_templates/vc_maps/vc_common.php:1642
+msgid "Profile link"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1235
+msgid "Progress Bar"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:37
+msgid "Project Place"
+msgstr ""
+
+#: templates_el/pix_woo.php:320 templates_el/pix_woo.php:337
+#: vc_templates/common_woocommerce.php:124
+#: vc_templates/common_woocommerce.php:141 vc_templates/pix_banner.php:22
+msgid "Promo"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:45
+msgid "Query"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:53
+msgid "Query type"
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:373 pixinit/functions/woo-ajax.php:412
+#: pixinit/functions/woo.php:176 templates_el/pix_woo.php:529
+#: templates_el/pix_woo.php:568 vc_templates/common_woocommerce.php:359
+#: vc_templates/common_woocommerce.php:398
+msgid "Quick view"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:147
+msgid "Quote"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:147
+msgid "Random"
+msgstr ""
+
+#: pixinit/functions/woo_single.php:136
+msgid "Rating"
+msgstr ""
+
+#: pixinit/functions/functions.php:146
+msgid "Read More"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: templates_el/pix_price_table.php:288 vc_templates/vc_maps/vc_common.php:2782
+msgid "Redirect to checkout"
+msgstr ""
+
+#: pixinit/import/plugins.php:51
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: templates/header/header_catalog.php:100
+msgid "Register"
+msgstr ""
+
+#: templates/header/header_catalog.php:142
+msgid "register"
+msgstr ""
+
+#: single-pix-portfolio.php:36
+msgid "Related Posts"
+msgstr ""
+
+#: templates/header/header_catalog.php:113
+msgid "Remember me"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:776
+msgid "Repeat"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:777
+msgid "Repeat X"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:778
+msgid "Repeat Y"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2167
+msgid "Replace All with your text"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: comments.php:48
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: vc_templates/pix_calculator.php:118
+msgid "Reset"
+msgstr ""
+
+#: pixinit/admin/customizer/responsive.php:6
+#: pixinit/admin/customizer/responsive.php:20
+msgid "Responsive"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:257
+msgid "Restyle"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:306
+msgid "Restyles"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:49
+msgid "Retina Logo should be 2x large than max width"
+msgstr ""
+
+#: 404.php:18
+msgid "Return to previous page"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:392
+#: pixinit/import/plugins.php:173
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:393
+#: pixinit/admin/class-tgm-plugin-activation.php:920
+#: pixinit/admin/class-tgm-plugin-activation.php:2626
+#: pixinit/admin/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1647
+msgid "Review Text"
+msgstr ""
+
+#: templates_el/pix_reviews.php:12 templates_el/pix_reviews.php:185
+#: vc_templates/vc_maps/vc_common.php:1522
+#: vc_templates/vc_maps/vc_common.php:1601
+msgid "Reviews"
+msgstr ""
+
+#: pixinit/import/plugins.php:91
+msgid "Revolution Slider"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:137
+#: pixinit/elementor/widgets/button.php:104
+#: pixinit/elementor/widgets/social-icons.php:210
+#: templates_el/pix_amount_box.php:87 templates_el/pix_banner.php:91
+#: templates_el/pix_banner.php:106 templates_el/pix_button.php:165
+#: templates_el/pix_cform7.php:92 templates_el/pix_icon_box.php:91
+#: templates_el/pix_icon_box.php:106 templates_el/pix_video.php:68
+#: templates_el/pix_woo.php:184 vc_templates/vc_maps/vc_add_gradient.php:151
+#: vc_templates/vc_maps/vc_common.php:242
+#: vc_templates/vc_maps/vc_common.php:435
+#: vc_templates/vc_maps/vc_common.php:516
+#: vc_templates/vc_maps/vc_common.php:531
+#: vc_templates/vc_maps/vc_common.php:815
+#: vc_templates/vc_maps/vc_common.php:968
+#: vc_templates/vc_maps/vc_common.php:1700
+#: vc_templates/vc_maps/vc_common.php:2011
+#: vc_templates/vc_maps/vc_common.php:2071
+#: vc_templates/vc_maps/vc_common.php:2140
+#: vc_templates/vc_maps/vc_common.php:3044
+msgid "Right"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:341
+msgid "Right Sidebar"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:803
+#: pixinit/admin/customizer/general.php:1014 templates_el/pix_banner.php:78
+#: templates_el/pix_banner.php:223 templates_el/pix_button.php:76
+#: templates_el/pix_cform7.php:60 templates_el/pix_icon_box.php:78
+#: templates_el/pix_icon_box.php:223 templates_el/pix_points.php:49
+#: templates_el/pix_posts.php:59 templates_el/pix_price_table.php:92
+#: templates_el/pix_reviews.php:58 templates_el/pix_special_offers.php:42
+#: templates_el/pix_team.php:54 templates_el/pix_video.php:95
+#: vc_templates/vc_maps/vc_add_gradient.php:98
+#: vc_templates/vc_maps/vc_common.php:153
+#: vc_templates/vc_maps/vc_common.php:350
+#: vc_templates/vc_maps/vc_common.php:504
+#: vc_templates/vc_maps/vc_common.php:638
+#: vc_templates/vc_maps/vc_common.php:995
+#: vc_templates/vc_maps/vc_common.php:1317
+#: vc_templates/vc_maps/vc_common.php:1418
+#: vc_templates/vc_maps/vc_common.php:1551
+#: vc_templates/vc_maps/vc_common.php:1727
+#: vc_templates/vc_maps/vc_common.php:1930
+#: vc_templates/vc_maps/vc_common.php:2236
+#: vc_templates/vc_maps/vc_common.php:2370
+#: vc_templates/vc_maps/vc_common.php:2602
+msgid "Round"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:802
+#: pixinit/admin/customizer/general.php:1013 templates_el/pix_banner.php:77
+#: templates_el/pix_button.php:75 templates_el/pix_cform7.php:59
+#: templates_el/pix_icon_box.php:77 templates_el/pix_points.php:48
+#: templates_el/pix_posts.php:58 templates_el/pix_price_table.php:91
+#: templates_el/pix_reviews.php:57 templates_el/pix_special_offers.php:41
+#: templates_el/pix_team.php:53 templates_el/pix_video.php:94
+#: vc_templates/vc_maps/vc_add_gradient.php:97
+#: vc_templates/vc_maps/vc_common.php:152
+#: vc_templates/vc_maps/vc_common.php:349
+#: vc_templates/vc_maps/vc_common.php:503
+#: vc_templates/vc_maps/vc_common.php:994
+#: vc_templates/vc_maps/vc_common.php:1316
+#: vc_templates/vc_maps/vc_common.php:1417
+#: vc_templates/vc_maps/vc_common.php:1550
+#: vc_templates/vc_maps/vc_common.php:1726
+#: vc_templates/vc_maps/vc_common.php:1929
+#: vc_templates/vc_maps/vc_common.php:2235
+#: vc_templates/vc_maps/vc_common.php:2369
+#: vc_templates/vc_maps/vc_common.php:2601
+msgid "Rounded"
+msgstr ""
+
+#: templates_el/controls/pix_el_filter.php:209
+#: vc_templates/vc_maps/vc_add_params.php:370
+#: vc_templates/vc_maps/vc_add_params.php:371
+msgid "Row"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:218
+#: vc_templates/vc_maps/vc_add_swiper.php:152
+#: vc_templates/vc_maps/vc_common.php:2048
+msgid "Rows"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:71 templates_el/pix_banner.php:208
+#: templates_el/pix_button.php:102 templates_el/pix_button.php:119
+#: templates_el/pix_button.php:136 templates_el/pix_icon_box.php:208
+#: vc_templates/vc_maps/vc_add_gradient.php:13
+#: vc_templates/vc_maps/vc_add_gradient.php:30
+#: vc_templates/vc_maps/vc_add_gradient.php:49
+#: vc_templates/vc_maps/vc_add_gradient.php:65
+#: vc_templates/vc_maps/vc_common.php:375
+#: vc_templates/vc_maps/vc_common.php:392
+#: vc_templates/vc_maps/vc_common.php:409
+#: vc_templates/vc_maps/vc_common.php:624
+#: vc_templates/vc_maps/vc_common.php:800
+msgid "S"
+msgstr ""
+
+#: pixinit/admin/customizer/class.customizer.fonts.php:129
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:195
+msgid "Sale"
+msgstr ""
+
+#: vc_templates/common_carousel.php:221 vc_templates/common_isotope.php:217
+#: vc_templates/common_isotope.php:259 vc_templates/common_isotope.php:313
+msgid "sale"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:191
+msgid "Sale products"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:32
+msgid "Sale!"
+msgstr ""
+
+#: templates_el/pix_woo.php:86 templates_el/pix_woo.php:233
+#: vc_templates/common_woocommerce.php:36
+#: vc_templates/vc_maps/vc_common.php:2953
+msgid "Sales"
+msgstr "Descuentos"
+
+#: templates_el/sections/swiper_section.php:233
+#: vc_templates/vc_maps/vc_add_swiper.php:168
+msgid "Scroll by"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1889
+msgid "Scroll Wheel"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:404 searchform.php:7
+#: templates/header/header4.php:123 templates/header/header5.php:123
+#: templates/header/header_catalog.php:312 templates_el/pix_posts.php:106
+#: vc_templates/vc_maps/vc_common.php:1351
+#: vc_templates/vc_maps/vc_common.php:2390
+msgid "Search"
+msgstr "Buscar"
+
+#: pixinit/admin/customizer/header.php:37
+msgid "Search (2 levels)"
+msgstr ""
+
+#: pixinit/functions/functions.php:362
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: templates_el/pix_price_table.php:216 vc_templates/vc_maps/vc_common.php:2716
+msgid "Second Price"
+msgstr ""
+
+#: templates_el/pix_price_table.php:74 vc_templates/vc_maps/vc_common.php:2583
+msgid "Second Selector"
+msgstr ""
+
+#: templates_el/pix_price_table.php:76 vc_templates/vc_maps/vc_common.php:2586
+msgid "Second tab button text"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1251
+msgid "Security companies"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:34
+msgid "Security Level"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2430
+#: vc_templates/vc_maps/vc_common.php:2437
+msgid "Select appointment calendar to show"
+msgstr ""
+
+#: templates_el/pix_woo.php:161 vc_templates/vc_maps/vc_common.php:3021
+#: vc_templates/vc_maps/vc_common.php:3090
+msgid "Select Banner to show"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:144
+msgid "Select Body Type"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:923
+msgid "Select calculator to show"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:128
+msgid "Select Car Make"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:132
+msgid "Select Car Model"
+msgstr ""
+
+#: templates_el/pix_woo.php:101 templates_el/pix_woo_cats.php:39
+#: vc_templates/vc_maps/vc_common.php:86 vc_templates/vc_maps/vc_common.php:100
+#: vc_templates/vc_maps/vc_common.php:114
+#: vc_templates/vc_maps/vc_common.php:128
+#: vc_templates/vc_maps/vc_common.php:2879
+#: vc_templates/vc_maps/vc_common.php:2968
+msgid "Select categories to show"
+msgstr ""
+
+#: templates_el/pix_posts.php:78
+msgid "Select categories to show. If empty, display last posts"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1334
+msgid "Select categories to show. If empty, display last posts."
+msgstr ""
+
+#: templates_el/pix_cform7.php:46 vc_templates/vc_maps/vc_common.php:931
+#: vc_templates/vc_maps/vc_common.php:956
+msgid "Select contact form to show"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2090
+msgid "Select first posts or custom"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:148
+msgid "Select Fuel"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:98
+msgid "Select icon from library."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:76
+msgid "Select icon library."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1804
+#: vc_templates/vc_maps/vc_common.php:1824
+#: vc_templates/vc_maps/vc_common.php:2510
+msgid "Select image from media library."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:477
+#: vc_templates/vc_maps/vc_common.php:607
+#: vc_templates/vc_maps/vc_common.php:784
+#: vc_templates/vc_maps/vc_common.php:1007
+#: vc_templates/vc_maps/vc_common.php:1442
+#: vc_templates/vc_maps/vc_common.php:1608
+#: vc_templates/vc_maps/vc_common.php:1711
+#: vc_templates/vc_maps/vc_common.php:1919
+#: vc_templates/vc_maps/vc_common.php:2750
+msgid "Select image."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2210
+msgid "Select items number per row"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2344
+msgid "Select items number per screen"
+msgstr ""
+
+#: templates_el/pix_filter.php:127 vc_templates/pix_filter.php:50
+msgid "Select Make"
+msgstr "Seleccione marca"
+
+#: templates_el/pix_filter.php:134 vc_templates/pix_filter.php:67
+msgid "Select Model"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2470
+msgid "Select number of columns. Default 5."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1340
+msgid "Select number posts to show. Default 3."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:3008
+msgid "Select number products."
+msgstr ""
+
+#: vc_templates/pix_calculator.php:103
+msgid "Select option"
+msgstr ""
+
+#: pixinit/admin/customizer/services.php:29
+msgid "Select Page For All Services"
+msgstr ""
+
+#: templates_el/pix_filter.php:70
+msgid "Select page to redirect for result"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2850
+msgid "Select page to redirect for results"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:3068
+msgid "Select Pix Section to show"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:80
+msgid "Select Posts"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2034
+#: vc_templates/vc_maps/vc_common.php:2190
+#: vc_templates/vc_maps/vc_common.php:2301
+msgid "Select posts type to show"
+msgstr ""
+
+#: templates_el/pix_woo.php:82 vc_templates/vc_maps/vc_common.php:2957
+msgid "Select product labels to show"
+msgstr ""
+
+#: templates_el/pix_filter.php:140 vc_templates/pix_filter.php:83
+msgid "Select Restyle"
+msgstr ""
+
+#: templates_el/pix_woo.php:171 vc_templates/vc_maps/vc_common.php:3030
+msgid "Select second Banner to show"
+msgstr ""
+
+#: vc_templates/common_appointment.php:46
+msgid "Select Speciality"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:152
+msgid "Select Transmission"
+msgstr ""
+
+#: templates_el/pix_cform7.php:86 vc_templates/vc_maps/vc_common.php:962
+msgid "Send Button Position"
+msgstr ""
+
+#: vc_templates/pix_calculator.php:134
+msgid "Send Result"
+msgstr ""
+
+#: pixinit/admin/customizer/services.php:5 vc_templates/common_isotope.php:10
+#: vc_templates/vc_maps/vc_common.php:94
+msgid "Services"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:54
+msgid "Services Sidebar"
+msgstr ""
+
+#: templates_el/pix_banner.php:144 templates_el/pix_icon_box.php:144
+#: vc_templates/vc_maps/vc_common.php:568
+msgid "Set default padding to 0"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:53
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: templates_el/pix_posts.php:89
+msgid "Set number posts to show, default 3"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:870
+msgid "Set this color for gradient overlay"
+msgstr ""
+
+#: templates_el/pix_woo.php:146 templates_el/pix_woo_cats.php:68
+msgid "Set to 0 to show all"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:858
+msgid "Shadow"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:6
+#: vc_templates/vc_maps/vc_add_shadows.php:14
+#: vc_templates/vc_maps/vc_add_shadows.php:95
+#: vc_templates/vc_maps/vc_add_shadows.php:112
+#: vc_templates/vc_maps/vc_add_shadows.php:125
+#: vc_templates/vc_maps/vc_add_shadows.php:139
+msgid "Shadows"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:796
+#: vc_templates/vc_maps/vc_common.php:142
+#: vc_templates/vc_maps/vc_common.php:343
+msgid "Shape"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "Share:"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:29
+msgid "Shop order"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:64
+msgid "Shop sidebar"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:142
+#: pixinit/elementor/widgets/carousel/base-carousel.php:153
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:87
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:98
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:109
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:87
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:99
+#: vc_templates/vc_maps/vc_add_shadows.php:11
+msgid "Show"
+msgstr ""
+
+#: templates_el/pix_banner.php:118 templates_el/pix_icon_box.php:118
+#: vc_templates/vc_maps/vc_common.php:544
+msgid "Show border around the box"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:990
+msgid "Show Both"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:299
+msgid "Show Bottom Decor"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:1007
+msgid "Show breadcrumbs over or under title"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:84
+msgid "Show Categories Block"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:708
+msgid "Show Decor"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:302
+msgid "Show decor at the bottom of the section."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:256
+msgid "Show decor at the top of the section."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3602
+#: pixinit/admin/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: templates_el/pix_brands.php:65 templates_el/pix_posts.php:68
+#: vc_templates/vc_maps/vc_common.php:1326
+#: vc_templates/vc_maps/vc_common.php:2044
+#: vc_templates/vc_maps/vc_common.php:2497
+msgid "Show greyscale image with colored hover"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2379
+msgid "Show greyscale picture with colored hover"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2245
+msgid "Show greyscale picture with colored hover."
+msgstr ""
+
+#: templates_el/pix_filter.php:59 vc_templates/vc_maps/vc_common.php:2840
+msgid "Show Params Title"
+msgstr ""
+
+#: templates_el/pix_brands.php:55 vc_templates/vc_maps/vc_common.php:2489
+msgid "Show popup with large image on click. The link doesn't work"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:253
+msgid "Show Top Decor"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:97
+msgid "Show Top Filter"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:336 vc_templates/vc_maps/vc_common.php:2152
+msgid "Sidebar"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:346
+msgid "Sidebar Content"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2153
+msgid "Sidebar Out"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:25
+msgid "Simple"
+msgstr ""
+
+#: pixinit/import/plugins.php:75
+msgid "Simple Page Ordering"
+msgstr ""
+
+#: templates_el/pix_price_table.php:52 vc_templates/vc_maps/vc_common.php:2428
+#: vc_templates/vc_maps/vc_common.php:2560
+msgid "Single"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:367
+#: pixinit/elementor/widgets/button.php:119
+#: pixinit/elementor/widgets/social-icons.php:224
+#: vc_templates/vc_maps/vc_common.php:221
+msgid "Size"
+msgstr ""
+
+#: pixinit/functions/woo_single.php:118
+msgid "SKU"
+msgstr ""
+
+#: templates_el/pix_team.php:121 vc_templates/vc_maps/vc_common.php:1478
+msgid "Skype"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1978
+msgid "Slider/Grid"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/logos-carousel.php:77
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:140
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:75
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:270
+msgid "Slides"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:52
+msgid "Slides per swipe."
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:32
+msgid "Slides Per View"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:124
+msgid "Small"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:5
+msgid "Social"
+msgstr ""
+
+#: pixinit/elementor/widgets/social-icons.php:20
+#: pixinit/elementor/widgets/social-icons.php:40
+#: pixinit/elementor/widgets/social-icons.php:121
+msgid "Social Icons"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:442
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:150
+msgid "Socials"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1259
+msgid "Software development companies"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:340
+#: pixinit/import/plugins.php:162
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: search.php:39
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: pixinit/import/plugins.php:168
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/import/plugins.php:165
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/import/plugins.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:156
+msgid "Sort order"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2641
+#: pixinit/admin/post-fields.php:151
+msgid "Source"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:88
+#: templates_el/sections/swiper_section.php:176
+#: vc_templates/vc_maps/vc_add_swiper.php:110
+msgid "Space Between"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_swiper.php:114
+msgid "space between items (px)"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:204
+msgid "Space Between on Mobile"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:190
+msgid "Space Between on Tablet"
+msgstr ""
+
+#: pixinit/elementor/widgets/social-icons.php:243
+msgid "Spacing"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:981
+msgid "Special Offers"
+msgstr ""
+
+#: templates/portfolio/custom.php:14
+msgid "Specialty"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:248
+#: vc_templates/vc_maps/vc_add_swiper.php:184
+msgid "Speed"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:939
+#: vc_templates/vc_maps/vc_add_shadows.php:64
+msgid "Spread"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:801
+#: pixinit/admin/customizer/general.php:1012 templates_el/pix_banner.php:76
+#: templates_el/pix_button.php:74 templates_el/pix_cform7.php:58
+#: templates_el/pix_icon_box.php:76 templates_el/pix_points.php:47
+#: templates_el/pix_posts.php:57 templates_el/pix_posts.php:131
+#: templates_el/pix_price_table.php:90 templates_el/pix_reviews.php:56
+#: templates_el/pix_special_offers.php:40 templates_el/pix_team.php:52
+#: templates_el/pix_video.php:93 vc_templates/vc_maps/vc_add_gradient.php:96
+#: vc_templates/vc_maps/vc_common.php:151
+#: vc_templates/vc_maps/vc_common.php:348
+#: vc_templates/vc_maps/vc_common.php:502
+#: vc_templates/vc_maps/vc_common.php:993
+#: vc_templates/vc_maps/vc_common.php:1315
+#: vc_templates/vc_maps/vc_common.php:1376
+#: vc_templates/vc_maps/vc_common.php:1416
+#: vc_templates/vc_maps/vc_common.php:1549
+#: vc_templates/vc_maps/vc_common.php:1725
+#: vc_templates/vc_maps/vc_common.php:1928
+#: vc_templates/vc_maps/vc_common.php:2234
+#: vc_templates/vc_maps/vc_common.php:2257
+#: vc_templates/vc_maps/vc_common.php:2368
+#: vc_templates/vc_maps/vc_common.php:2403
+#: vc_templates/vc_maps/vc_common.php:2600
+msgid "Square"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2833
+msgid "Step by Step Filter"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:92
+msgid "Sticky"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:112
+msgid "Sticky Layout"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:182
+msgid "Sticky Mobile"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:173
+msgid "Sticky-posts ordering is visible on frontend only"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:28
+msgid "Stroke-Gap-Icons"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:406 templates_el/pix_banner.php:35
+#: templates_el/pix_icon_box.php:35 templates_el/pix_posts.php:37
+#: templates_el/pix_price_table.php:35 templates_el/pix_reviews.php:35
+#: templates_el/pix_team.php:35 templates_el/pix_woo.php:45
+#: vc_templates/vc_maps/vc_common.php:462
+#: vc_templates/vc_maps/vc_common.php:1296
+#: vc_templates/vc_maps/vc_common.php:1400
+#: vc_templates/vc_maps/vc_common.php:1529
+#: vc_templates/vc_maps/vc_common.php:2053
+#: vc_templates/vc_maps/vc_common.php:2544
+msgid "Style"
+msgstr ""
+
+#: templates_el/pix_woo_cats.php:66 vc_templates/vc_maps/vc_common.php:2897
+msgid "Subcategories Count"
+msgstr ""
+
+#: templates_el/pix_price_table.php:193 templates_el/pix_special_offers.php:80
+#: vc_templates/vc_maps/vc_common.php:1029
+#: vc_templates/vc_maps/vc_common.php:2695
+msgid "Subtitle"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2697
+msgid "Subtitle text"
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:88 pixinit/functions/woo-ajax.php:169
+msgid "Subtotal:"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1108
+msgid "Support"
+msgstr ""
+
+#: pixinit/import/plugins.php:69
+msgid "SVG Support"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2741
+msgid "SVG/Image"
+msgstr ""
+
+#: templates_el/pix_tab_acc.php:39 templates_el/pix_tab_acc.php:91
+#: vc_templates/vc_maps/vc_common.php:1069
+#: vc_templates/vc_maps/vc_common.php:1085
+msgid "Tabs"
+msgstr ""
+
+#: templates_el/pix_tab_acc.php:12 vc_templates/vc_maps/vc_common.php:1058
+msgid "Tabs/Accordion"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:206
+msgid "Tag"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/functions/functions.php:207
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:108
+#: vc_templates/vc_maps/vc_common.php:1393
+msgid "Team"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:20
+msgid "Team Big Double Slider"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:111
+msgid "Team Categories"
+msgstr ""
+
+#: pixinit/functions/sidebars.php:32
+msgid "Team Sidebar"
+msgstr ""
+
+#: templates/header/header1.php:76 templates/header/header_top.php:50
+msgid "Test Drive"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:301
+#: pixinit/admin/customizer/general.php:446
+#: pixinit/elementor/widgets/banner.php:58
+#: pixinit/elementor/widgets/button.php:64 templates_el/pix_button.php:35
+#: templates_el/pix_special_offers.php:86 templates_el/pix_tab_acc.php:68
+#: templates_el/pix_tab_acc.php:138 templates_el/pix_title.php:52
+#: vc_templates/vc_maps/vc_common.php:322
+#: vc_templates/vc_maps/vc_common.php:1035
+msgid "Text"
+msgstr ""
+
+#: templates_el/pix_reviews.php:136 templates_el/pix_team.php:100
+msgid "Text about..."
+msgstr ""
+
+#: templates_el/pix_price_table.php:225 vc_templates/vc_maps/vc_common.php:2725
+msgid "Text after price"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:109
+msgid "Text background color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:280
+msgid "Text before title"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:94
+msgid "Text border color"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:105
+#: vc_templates/vc_maps/vc_add_gradient.php:170
+msgid "Text Color"
+msgstr ""
+
+#: pixinit/elementor/widgets/banner.php:79
+msgid "Text color"
+msgstr ""
+
+#: templates_el/pix_banner.php:308 templates_el/pix_icon_box.php:308
+#: templates_el/pix_tab_acc.php:109 vc_templates/vc_maps/vc_common.php:708
+#: vc_templates/vc_maps/vc_common.php:1155
+msgid "Text Link"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:943
+#: vc_templates/vc_maps/vc_common.php:291
+msgid "Text Tone"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:98
+msgid "The cart is empty!"
+msgstr "El carrito esta vacío"
+
+#: pixinit/admin/class-tgm-plugin-activation.php:355
+#: pixinit/import/plugins.php:169
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:395
+#: pixinit/admin/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:373
+#: pixinit/import/plugins.php:167
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:367
+#: pixinit/import/plugins.php:166
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: templates_el/pix_price_table.php:273 vc_templates/vc_maps/vc_common.php:2766
+msgid "The list of Features"
+msgstr ""
+
+#: templates_el/pix_title.php:133 vc_templates/vc_maps/vc_common.php:272
+msgid "The overflowing text won't be moved to a new line."
+msgstr ""
+
+#: 404.php:15
+msgid "The page you are looking for seems to be missing."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:130
+msgid "The value can be negative (example: -50px)"
+msgstr ""
+
+#: pixinit/elementor/class-extension.php:133
+#: pixinit/elementor/class-extension.php:159
+#: pixinit/elementor/class-extension.php:186
+msgid "Theme Lamira"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:243
+msgid "Theme Tone"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates_el/pix_price_table.php:177 vc_templates/vc_maps/vc_common.php:2678
+msgid "This Features is compared with every box options and set enable/disable"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:349
+#: pixinit/import/plugins.php:164
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:343
+#: pixinit/import/plugins.php:163
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/elementor/widgets/carousel/base-posts-carousel.php:144
+#: pixinit/elementor/widgets/carousel/product-categories-carousel.php:123
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:85
+#: pixinit/elementor/widgets/title.php:18
+#: pixinit/elementor/widgets/title.php:44 templates_el/pix_amount_box.php:109
+#: templates_el/pix_banner.php:264 templates_el/pix_brands.php:35
+#: templates_el/pix_filter.php:52 templates_el/pix_icon_box.php:264
+#: templates_el/pix_price_table.php:185 templates_el/pix_special_offers.php:73
+#: templates_el/pix_title.php:44 templates_el/pix_video.php:133
+#: templates_el/pix_woo.php:113 vc_templates/vc_maps/vc_common.php:191
+#: vc_templates/vc_maps/vc_common.php:199
+#: vc_templates/vc_maps/vc_common.php:676
+#: vc_templates/vc_maps/vc_common.php:843
+#: vc_templates/vc_maps/vc_common.php:1011
+#: vc_templates/vc_maps/vc_common.php:1756
+#: vc_templates/vc_maps/vc_common.php:2320
+#: vc_templates/vc_maps/vc_common.php:2461
+#: vc_templates/vc_maps/vc_common.php:2688
+#: vc_templates/vc_maps/vc_common.php:2826
+#: vc_templates/vc_maps/vc_common.php:2977
+msgid "Title"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:929
+msgid "Title & Breadcrumbs"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:963
+msgid "Title & Breadcrumbs Position"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:985
+msgid "Title & Breadcrumbs Show"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:607
+msgid "Title 1"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:650
+msgid "Title 2"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:693
+msgid "Title 3"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:311
+#: pixinit/admin/customizer/general.php:626 templates_el/pix_amount_box.php:122
+#: templates_el/pix_banner.php:278 templates_el/pix_icon_box.php:278
+#: templates_el/pix_posts.php:119 templates_el/pix_reviews.php:103
+#: templates_el/pix_special_offers.php:55 templates_el/pix_team.php:67
+#: vc_templates/vc_maps/vc_common.php:689
+#: vc_templates/vc_maps/vc_common.php:856
+#: vc_templates/vc_maps/vc_common.php:1023
+#: vc_templates/vc_maps/vc_common.php:1363
+#: vc_templates/vc_maps/vc_common.php:1429
+#: vc_templates/vc_maps/vc_common.php:1595
+msgid "Title L"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:971
+msgid "Title Left Breadcrumbs Right"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:70
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:73
+#: pixinit/elementor/widgets/carousel/products-extended-carousel.php:71
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:75
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:75
+#: pixinit/elementor/widgets/title.php:54
+msgid "Title left indent"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:310
+#: pixinit/admin/customizer/general.php:608 templates_el/pix_amount_box.php:121
+#: templates_el/pix_banner.php:277 templates_el/pix_icon_box.php:277
+#: templates_el/pix_posts.php:118 templates_el/pix_reviews.php:102
+#: templates_el/pix_special_offers.php:54 templates_el/pix_team.php:66
+#: vc_templates/vc_maps/vc_common.php:688
+#: vc_templates/vc_maps/vc_common.php:855
+#: vc_templates/vc_maps/vc_common.php:1022
+#: vc_templates/vc_maps/vc_common.php:1362
+#: vc_templates/vc_maps/vc_common.php:1428
+#: vc_templates/vc_maps/vc_common.php:1594
+msgid "Title M"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:972
+msgid "Title Right Breadcrumbs Left"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:309
+#: pixinit/admin/customizer/general.php:590 templates_el/pix_amount_box.php:120
+#: templates_el/pix_banner.php:276 templates_el/pix_icon_box.php:276
+#: templates_el/pix_posts.php:117 templates_el/pix_reviews.php:101
+#: templates_el/pix_special_offers.php:53 templates_el/pix_team.php:65
+#: vc_templates/vc_maps/vc_common.php:687
+#: vc_templates/vc_maps/vc_common.php:854
+#: vc_templates/vc_maps/vc_common.php:1021
+#: vc_templates/vc_maps/vc_common.php:1361
+#: vc_templates/vc_maps/vc_common.php:1427
+#: vc_templates/vc_maps/vc_common.php:1593
+msgid "Title S"
+msgstr ""
+
+#: templates_el/pix_banner.php:272 templates_el/pix_icon_box.php:272
+#: templates_el/pix_posts.php:113 templates_el/pix_title.php:87
+#: vc_templates/vc_maps/vc_common.php:683
+#: vc_templates/vc_maps/vc_common.php:1357
+msgid "Title Size"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:116 templates_el/pix_special_offers.php:49
+#: templates_el/pix_team.php:61 vc_templates/vc_maps/vc_common.php:850
+#: vc_templates/vc_maps/vc_common.php:1017
+#: vc_templates/vc_maps/vc_common.php:1423
+msgid "Title Style"
+msgstr ""
+
+#: templates_el/pix_title.php:70
+msgid "Title Tag"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:312
+#: pixinit/admin/customizer/general.php:644 templates_el/pix_amount_box.php:123
+#: templates_el/pix_banner.php:279 templates_el/pix_icon_box.php:279
+#: templates_el/pix_posts.php:120 templates_el/pix_reviews.php:104
+#: templates_el/pix_special_offers.php:56 templates_el/pix_team.php:68
+#: vc_templates/vc_maps/vc_common.php:690
+#: vc_templates/vc_maps/vc_common.php:857
+#: vc_templates/vc_maps/vc_common.php:1024
+#: vc_templates/vc_maps/vc_common.php:1364
+#: vc_templates/vc_maps/vc_common.php:1430
+#: vc_templates/vc_maps/vc_common.php:1596
+msgid "Title XL"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:846
+msgid "Title."
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/customizer/general.php:190
+#: pixinit/admin/customizer/header.php:892
+#: vc_templates/vc_maps/vc_add_gradient.php:209
+msgid "To Bottom "
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:193
+#: pixinit/admin/customizer/header.php:895
+#: vc_templates/vc_maps/vc_add_gradient.php:212
+msgid "To Bottom Left "
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:192
+#: pixinit/admin/customizer/header.php:894
+#: vc_templates/vc_maps/vc_add_gradient.php:211
+msgid "To Bottom Right "
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/customizer/general.php:189
+#: pixinit/admin/customizer/header.php:891
+#: vc_templates/vc_maps/vc_add_gradient.php:208
+msgid "To Left "
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:188
+#: pixinit/admin/customizer/header.php:890
+#: vc_templates/vc_maps/vc_add_gradient.php:207
+msgid "To Right "
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1510
+msgid "to the profile page"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:191
+#: pixinit/admin/customizer/header.php:893
+#: vc_templates/vc_maps/vc_add_gradient.php:210
+msgid "To Top "
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:195
+#: pixinit/admin/customizer/header.php:897
+#: vc_templates/vc_maps/vc_add_gradient.php:214
+msgid "To Top Left "
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:194
+#: pixinit/admin/customizer/header.php:896
+#: vc_templates/vc_maps/vc_add_gradient.php:213
+msgid "To Top Right "
+msgstr ""
+
+#: templates_el/pix_tab_acc.php:35 vc_templates/vc_maps/vc_common.php:1065
+msgid "Toggle Type"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:357 templates_el/pix_amount_box.php:86
+#: templates_el/pix_banner.php:329 templates_el/pix_icon_box.php:329
+#: vc_templates/vc_maps/vc_common.php:729
+#: vc_templates/vc_maps/vc_common.php:814
+#: vc_templates/vc_maps/vc_common.php:2151
+msgid "Top"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:385
+msgid "Top Bar"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:228
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:251
+msgid "Top Bar Transparent"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:273
+msgid "Top Decor Opacity"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:285
+msgid "Top Decor Points"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:36
+msgid "Top Info (2 levels)"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:35
+msgid "Top Logo (2 levels)"
+msgstr ""
+
+#: pixinit/functions/index.php:104
+msgid "Top Navigation"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:127
+msgid "Top offset"
+msgstr ""
+
+#: templates_el/pix_points.php:70 vc_templates/vc_maps/vc_common.php:1953
+msgid "Top Position"
+msgstr ""
+
+#: templates_el/pix_button.php:98 vc_templates/vc_maps/vc_common.php:371
+msgid "Top/Bottom Paddings"
+msgstr ""
+
+#: vc_templates/pix_calculator.php:127
+msgid "Total:"
+msgstr ""
+
+#: templates_el/pix_reviews.php:87 vc_templates/vc_maps/vc_common.php:1579
+msgid "Transform"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/base-carousel.php:100
+msgid "Transition Duration"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:100
+msgid "Transition Time"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:151
+msgid "Transmission"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:292 templates_el/pix_banner.php:222
+#: templates_el/pix_button.php:86 templates_el/pix_icon_box.php:222
+#: vc_templates/vc_maps/vc_common.php:360
+#: vc_templates/vc_maps/vc_common.php:637
+msgid "Transparent"
+msgstr ""
+
+#: templates_el/pix_reviews.php:150 templates_el/pix_team.php:135
+#: vc_templates/vc_maps/vc_common.php:1490
+#: vc_templates/vc_maps/vc_common.php:1633
+msgid "Twitter"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:89
+msgid "Twitter URL"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2642
+#: pixinit/admin/customizer/header.php:28
+#: pixinit/admin/customizer/header.php:163
+#: pixinit/elementor/widgets/button.php:47
+msgid "Type"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:140 templates_el/pix_banner.php:343
+#: templates_el/pix_icon_box.php:343 templates_el/pix_video.php:146
+msgid "Type your description here"
+msgstr ""
+
+#: pixinit/elementor/widgets/title.php:47
+msgid "Type your title here"
+msgstr ""
+
+#: pixinit/admin/customizer/header.php:1012
+msgid "Under"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: templates_el/pix_title.php:112 vc_templates/vc_maps/vc_common.php:248
+msgid "Uppercase"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1190
+msgid "Urna auctor, turpis eu, curabitur maecenas vitae?"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:347
+msgid "Use"
+msgstr ""
+
+#: templates_el/pix_button.php:61 vc_templates/vc_maps/vc_common.php:339
+msgid "Use as simple link with hover underline"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/posts-carousel.php:127
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:114
+#: pixinit/elementor/widgets/carousel/products-hcards-carousel.php:99
+#: pixinit/elementor/widgets/carousel/products-vcards-carousel.php:99
+msgid "Use Default Thumbnail Size"
+msgstr ""
+
+#: pixinit/elementor/widgets/native/section.php:38
+msgid "Use Global Section Background"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:1034
+msgid "Use on all pages"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:1033
+msgid "Use on main"
+msgstr ""
+
+#: pixinit/admin/index.php:28
+msgid "Use this image"
+msgstr ""
+
+#: templates/header/header_catalog.php:128
+msgid "Username"
+msgstr ""
+
+#: templates/header/header_catalog.php:104
+msgid "Username or email"
+msgstr ""
+
+#: templates/header/header_catalog.php:139
+msgid "users agreement"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1273
+msgid "Value"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_shadows.php:18
+#: vc_templates/vc_maps/vc_common.php:1242
+msgid "Values"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:226
+msgid "Values -360 - 360"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:264
+#: vc_templates/vc_maps/vc_add_gradient.php:310
+msgid "Values 0 - 300"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_gradient.php:239
+#: vc_templates/vc_maps/vc_add_gradient.php:276
+#: vc_templates/vc_maps/vc_add_gradient.php:322
+msgid "Values 0.01 - 0.99"
+msgstr ""
+
+#: templates_el/sections/swiper_section.php:304
+#: vc_templates/vc_maps/vc_add_swiper.php:229
+msgid "Variable Width"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:59
+msgid "VC Entypo"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:49
+msgid "VC Font Awesome"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:62
+msgid "VC Linecons"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:53
+msgid "VC Open Iconic"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_icons.php:56
+msgid "VC Typicons"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1195
+msgid "Vel cursus sagittis sem nullam odio pede?"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:899
+#: pixinit/admin/customizer/header.php:813
+#: vc_templates/vc_maps/vc_add_shadows.php:44
+msgid "Vertical Position"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:139 vc_templates/vc_maps/vc_common.php:1670
+msgid "Video"
+msgstr ""
+
+#: pixinit/elementor/widgets/carousel/products-double-block-carousel.php:94
+#: pixinit/elementor/widgets/carousel/team-double-block-carousel.php:62
+msgid "Video Url"
+msgstr ""
+
+#: pixinit/elementor/widgets/button.php:179
+#: pixinit/elementor/widgets/social-icons.php:177
+msgid "View"
+msgstr ""
+
+#: pixinit/functions/woo-ajax.php:92 pixinit/functions/woo-ajax.php:173
+msgid "view cart"
+msgstr ""
+
+#: templates_el/pix_video.php:180 vc_templates/common_video.php:32
+msgid "Watch the Video"
+msgstr ""
+
+#: comments.php:58 comments.php:59
+msgid "Website"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:349
+msgid "Weight"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:824
+#: pixinit/admin/customizer/header.php:233
+#: pixinit/admin/customizer/header.php:274
+#: pixinit/admin/customizer/header.php:315 templates_el/pix_banner.php:254
+#: templates_el/pix_icon_box.php:254 templates_el/pix_woo.php:124
+#: vc_templates/vc_maps/vc_common.php:667
+#: vc_templates/vc_maps/vc_common.php:2987
+msgid "White"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:746
+msgid "Width"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2427
+msgid "With Departments Select"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:907
+msgid "Without Contact Form"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:340
+msgid "Without Sidebar"
+msgstr ""
+
+#: pixinit/import/plugins.php:127
+msgid "WOOBE - WooCommerce Bulk Editor and Products Manager"
+msgstr ""
+
+#: pixinit/import/plugins.php:21
+msgid "WooCommerce"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:390
+msgid "Woocommerce Layout"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:2911
+msgid "Woocommerce Products"
+msgstr ""
+
+#: pixinit/import/plugins.php:120
+msgid "WOOCS - WooCommerce Currency Switcher"
+msgstr ""
+
+#: pixinit/import/plugins.php:57
+msgid "Wordpress Importer"
+msgstr ""
+
+#: pixinit/admin/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: templates/portfolio/custom.php:17
+msgid "Work Place"
+msgstr ""
+
+#: pixinit/import/plugins.php:98
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1994
+msgid "Wrapper"
+msgstr ""
+
+#: templates_el/pix_amount_box.php:74 templates_el/pix_banner.php:211
+#: templates_el/pix_button.php:105 templates_el/pix_button.php:122
+#: templates_el/pix_button.php:139 templates_el/pix_icon_box.php:211
+#: vc_templates/vc_maps/vc_add_gradient.php:16
+#: vc_templates/vc_maps/vc_add_gradient.php:33
+#: vc_templates/vc_maps/vc_add_gradient.php:52
+#: vc_templates/vc_maps/vc_add_gradient.php:68
+#: vc_templates/vc_maps/vc_common.php:378
+#: vc_templates/vc_maps/vc_common.php:395
+#: vc_templates/vc_maps/vc_common.php:412
+#: vc_templates/vc_maps/vc_common.php:627
+#: vc_templates/vc_maps/vc_common.php:803
+msgid "XL"
+msgstr ""
+
+#: pixinit/admin/post-fields.php:31 vc_templates/vc_maps/vc_add_params.php:135
+msgid "Year"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_add_params.php:136
+msgid "Years"
+msgstr ""
+
+#: pixinit/admin/customizer/general.php:713
+#: pixinit/admin/customizer/general.php:863
+#: pixinit/admin/customizer/header.php:98
+#: pixinit/admin/customizer/header.php:188
+#: pixinit/admin/customizer/header.php:837
+#: pixinit/admin/customizer/header.php:1032
+#: vc_templates/vc_maps/vc_add_params.php:15
+#: vc_templates/vc_maps/vc_add_params.php:53
+#: vc_templates/vc_maps/vc_add_params.php:88
+msgid "Yes"
+msgstr ""
+
+#: pixinit/import/plugins.php:33
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: pixinit/import/plugins.php:27
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: comments.php:63
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: pixinit/functions/comment_walker.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:65
+msgid "Your email address will not be published."
+msgstr ""
+
+#: templates_el/pix_video.php:35 vc_templates/vc_maps/vc_common.php:1677
+msgid "YouTube or Vimeo Link"
+msgstr ""
+
+#: pixinit/admin/customizer/social.php:109
+msgid "YouTube URL"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1877
+msgid "Zoom"
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1880
+msgid "Zoom 0-20. Default 9."
+msgstr ""
+
+#: vc_templates/vc_maps/vc_common.php:1892
+msgid "Zoom map with scroll"
+msgstr ""

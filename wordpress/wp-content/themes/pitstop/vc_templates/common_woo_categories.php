@@ -19,9 +19,6 @@ $data_swiper = empty($swiper_options_arr) ? '' : 'data-swiper-options=\''.json_e
 $col = isset($swiper_options_arr['items']) != '' ? $swiper_options_arr['items'] : 3;
 $swiper_class = !empty($swiper_options_arr) ? 'swiper-container' : 'pix-col-'.esc_attr($col);
 
-$nav_enable = isset($swiper_options_arr['navigation']) && !$swiper_options_arr['navigation'] ? 'disabled' : '';
-$page_enable = isset($swiper_options_arr['pagination']) && !$swiper_options_arr['pagination'] ? 'disabled' : '';
-
 
 if( $cats == '' ):
 	$out = '<p>'.esc_html__('No categories selected. To fix this, please login to your WP Admin area and set the categories you want to show by editing this shortcode and setting one or more categories in the multi checkbox field "Categories".', 'pitstop');
@@ -103,12 +100,13 @@ $out = '
 $out .= '
         </div>
 	</div>
-	<!-- If we need navigation buttons -->
-    <div class="pix-nav left-right high '.esc_attr($nav_enable).'">
+	<div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="pix-nav left-right high">
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
     </div>
-	<div class="pix-swiper-pagination swiper-pagination pix-categories-list-paging '.esc_attr($page_enable).'"></div>
 </div>';
 
 endif;

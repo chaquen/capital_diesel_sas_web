@@ -115,6 +115,10 @@ class PixTheme_EL_Pix_Video extends Widget_Base {
 				'type' => Controls_Manager::COLOR,
 				'description' => esc_html__( 'Default 500px', 'pitstop' ),
 				'default' => '#00000030',
+				'scheme' => [
+					'type' => \Elementor\Scheme_Color::get_type(),
+					'value' => \Elementor\Scheme_Color::COLOR_1,
+				],
 				'selectors' => [
 					'{{WRAPPER}} .title' => 'color: {{VALUE}}',
 				],

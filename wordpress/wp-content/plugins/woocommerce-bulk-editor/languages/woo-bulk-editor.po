@@ -1,0 +1,2585 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:512
+msgid "%s from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:512
+msgid "%s to"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:309
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:21
+msgid "ALL"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:36
+msgid "ATTENTION! Your version of the woocommerce plugin is too obsolete. There is no warranty of normal working with the plugin!!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:55
+msgid "ATTENTION: Bulk operation is going!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/export/export.php:35
+msgid "ATTENTION: Export operation is going!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/history.php:50
+msgid "ATTENTION: History operation is going!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:44
+msgid "ATTENTION: Variations Advanced Bulk Operation is going"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:77
+msgid "Actions"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:14
+msgid "Add Custom key by hands"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:207
+msgid "Add File"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:277
+msgid "Add Image"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:287
+msgid "Add attribute"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:35
+msgid "Add attributes combination"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:36
+msgid "Add attributes combination to apply on"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:217
+msgid "Add selected downloads to the already existed ones"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:284
+msgid "Add selected images to the already existed ones"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:553
+msgid "Add selected products to the already existed ones"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:67
+msgid "Additional"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:472
+msgid "Append array key/value"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:473
+msgid "Append object set"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:282
+#: woocommerce-bulk-editor/views/woobe.php:152
+#: woocommerce-bulk-editor/views/woobe.php:185
+#: woocommerce-bulk-editor/views/woobe.php:236
+#: woocommerce-bulk-editor/views/woobe.php:304
+#: woocommerce-bulk-editor/views/woobe.php:373
+#: woocommerce-bulk-editor/views/woobe.php:433
+#: woocommerce-bulk-editor/views/woobe.php:479
+#: woocommerce-bulk-editor/views/woobe.php:569
+msgid "Apply"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:149
+msgid "Apply combination"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/elements/draw_meta_popup_editor_btn.php:1
+msgid "Array"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:37
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:220
+msgid "Attaching"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:46
+msgid "Attaching of the default combination for the products variations is finished!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:50
+msgid "Attaching of the products variations is finished"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:1034
+msgid "BEAR - WooCommerce Bulk Editor Professional"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "BEGIN"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Backorders"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:64
+msgid "Basic"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:1
+msgid "Bulk Edit"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1
+msgid "Bulk Editor"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:50
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:164
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:166
+msgid "Bulk deleting"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:52
+msgid "Bulk editing"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:33
+msgid "Bulk editing of the parent products will be ignored! Enabling this mode hide not relevant bulk edit operations for the products [variations]! Before activation of this mode, for more convenient editing of [variations] recommend make filtering for all variable products. Binded operation also will be applied only to the products variations!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:13
+msgid "Bulk editing will be applied to: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/list.php:33
+msgid "Bulk operation"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:22
+msgid "Bulk operations will be applied to the variations of the products, and their parent-products will be ignored!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "By author"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "Can I %s?"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:283
+#: woocommerce-bulk-editor/views/woobe.php:151
+#: woocommerce-bulk-editor/views/woobe.php:184
+#: woocommerce-bulk-editor/views/woobe.php:235
+#: woocommerce-bulk-editor/views/woobe.php:303
+#: woocommerce-bulk-editor/views/woobe.php:372
+#: woocommerce-bulk-editor/views/woobe.php:432
+#: woocommerce-bulk-editor/views/woobe.php:478
+#: woocommerce-bulk-editor/views/woobe.php:568
+#: woocommerce-bulk-editor/views/woobe.php:1000
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:284
+msgid "Canceled"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:44
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Catalog visibility"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/product-downloads.php:20
+#: woocommerce-bulk-editor/views/parts/product-downloads.php:20
+#: woocommerce-bulk-editor/views/woobe.php:256
+#: woocommerce-bulk-editor/views/woobe.php:256
+msgid "Choose file"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/product-gallery.php:12
+msgid "Clean"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:25
+msgid "Clear the History"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:98
+msgid "Click ID of the product in the products table to see it on the site front."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:439
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:83
+#: woocommerce-bulk-editor/views/woobe.php:946
+msgid "Close"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/top_panel.php:20
+msgid "Close the panel"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:887
+msgid "Columns profile"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:12
+#: woocommerce-bulk-editor/views/woobe.php:894
+msgid "Columns profiles"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:625
+msgid "Columns settings%s, columns enabled %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:53
+msgid "Combination(s) not selected!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:416
+msgid "Combination, of the products variations for deleting, will be applied to: %s"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/elements/draw_popup_editor_btn.php:10
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:945
+#: woocommerce-bulk-editor/views/woobe.php:999
+msgid "Create"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:287
+msgid "Created!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:24
+#: woocommerce-bulk-editor/index.php:286
+msgid "Creating"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:898
+msgid "Current profile is: %s %s"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:32
+msgid "Current version of the plugin is FREE. See the difference between FREE and PREMIUM versions %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:27
+msgid "Default combination"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:146
+msgid "Default variations combination will be applied to: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:400
+msgid "Delete all products variations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:169
+msgid "Delete products!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:285
+msgid "Delete selected images from the products"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:286
+msgid "Delete selected images from the products, also delete them from the media library forever"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:23
+msgid "Delete selected product(s)"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:399
+msgid "Delete the products variations according to the combination of the attributes"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:291
+msgid "Deleted!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:50
+#: woocommerce-bulk-editor/index.php:290
+msgid "Deleting"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:47
+msgid "Deleting of the products variations is finished"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/elements/attribute_visibility.php:52
+#: woocommerce-bulk-editor/views/elements/multi_select.php:27
+msgid "Deselect all"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/product-gallery.php:27
+msgid "Detach image of the product"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:153
+msgid "Do Bulk Edit"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:15
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:195
+#: woocommerce-bulk-editor/ext/export/views/panel.php:123
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:37
+#: woocommerce-bulk-editor/index.php:1
+#: woocommerce-bulk-editor/views/woobe.php:461
+#: woocommerce-bulk-editor/views/woobe.php:594
+msgid "Documentation"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Downloadable"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Downloadable: no"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Downloadable: yes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:22
+msgid "Duplicate selected product(s). ATTENTION: duplication of variations of the products is locked!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:289
+msgid "Duplicated!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:288
+msgid "Duplicating"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "END"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "EXACT"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1487
+msgid "Editing of the product on its page"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "Empty"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/meta.php:50
+msgid "Enter a product ID!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:299
+msgid "Enter how many new product(s) to create!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:298
+msgid "Enter how many time duplicate selected product(s)!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:271
+msgid "Error"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:44
+msgid "Exclude from catalog"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:44
+msgid "Exclude from search"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/export/export.php:1
+msgid "Export"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:61
+msgid "Export to CSV"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:63
+msgid "Export to Excel"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:62
+msgid "Export to XML"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/export/views/panel.php:9
+msgid "Export will be applied to: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/export.php:34
+msgid "Exported"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/export.php:33
+msgid "Exporting"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:10
+msgid "FAQ"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:270
+msgid "Failed"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Featured"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/product-downloads.php:16
+#: woocommerce-bulk-editor/views/woobe.php:252
+msgid "File name"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/elements/draw_downloads_popup_editor_btn.php:31
+msgid "Files (%s)"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:209
+msgid "Files should has an allowed file type!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:297
+msgid "Fill up the data please!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:32
+#: woocommerce-bulk-editor/ext/history/views/panel.php:74
+msgid "Filter"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:37
+msgid "Filtered! Table redrawing ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:36
+msgid "Filtering"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1
+msgid "Filters"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/fprofiles/fprofiles.php:34
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:13
+msgid "Filters profiles"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:313
+msgid "First"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:224
+msgid "For [Remove selected downloads] - enter links to downloads which should be removed."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:751
+msgid "General settings"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:88
+msgid "Generate possible combinations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:51
+msgid "Generating possible combinations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:23
+msgid "Get"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:21
+msgid "Get meta keys from any product by its ID"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:244
+msgid "Get the existing products variations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:178
+msgid "Get the products variations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1453
+msgid "Give Feedback"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1
+msgid "Go Pro!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/info.php:1
+#: woocommerce-bulk-editor/ext/info/views/panel.php:7
+msgid "Help"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:895
+msgid "Here you can load previously saved columns profile. After pressing on the load button, page reloading will start immediately!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:21
+msgid "Here you can load previously saved filters profile. After pressing on the load button, products table data reloading will start immediately!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:990
+msgid "Here you can select parent for the the new term (optionally)"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:86
+msgid "Here you can set order of attributes on the single product page after loaded. Before attaching products variations select variable products by filter or select them by checkboxes! Selection by checkbox has higher priority!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:933
+msgid "Here you can type any title and save current columns set and their order. Type here any title and then press Save button OR press Enter button on your keyboard!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:60
+msgid "Here you can type any title and save current filters set. Type here any title and then press Save button OR press Enter button on your keyboard!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:979
+msgid "Here you can write slug for the the new term (optionally). Use comma for slug(s) when you create some on the same time terms, or leave slug field empty to create slug(s) automatically"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:968
+msgid "Here you can write title for the new term. Use comma to create some new tags on the same time! New terms with already existed names will not be created!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1436
+msgid "Hi! Are you enjoying using <i>BEAR - WooCommerce Bulk Editor and Products Manager Professional</i>?"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Hidden"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:302
+msgid "Hide: Filters/Bulk Edit/Export"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/history.php:1
+#: woocommerce-bulk-editor/ext/history/views/panel.php:7
+msgid "History"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/history.php:48
+msgid "History clearing ..."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/history.php:49
+msgid "History is cleared!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/list.php:109
+msgid "History is empty!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "How to %s by bulk operation"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "How to set the same value for some products on the same time - %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1446
+msgid "I already did"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+msgid "ID"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "ID(s). Use comma or/and minus for range"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:218
+msgid "IMPORTANT: if attached attribute is already selected in the product and not marked as [Used for variations] operation of attaching is not be done, so before attaching do [Visibility operation] for the products attributes."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:331
+msgid "IMPORTANT: if swap-attribute is already selected in the product and not marked as [Used for variations] operation of swapping is not be done, so before swapping do [Visibility operation] for the products attributes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:100
+msgid "If combinations of the variations in the products exists already - changings will be ignored, so do not worry, you will never got the same product variations in one product!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:47
+msgid "If to click on an empty space of the black wp-admin bar, it will get you back to the top of the page"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:135
+msgid "If you have an idea you can %s"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "If you have any ideas, you can suggest them on %s"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:135
+msgid "If you like BEAR %s about what you liked and what you want to see in future versions of the plugin"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1
+msgid "If you not familiar with the plugin, firstly %s please"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "If your shop is on the Russian language you should install %s for the correct working of BEAR with Cyrillic"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/elements/draw_gallery_popup_editor_btn.php:40
+msgid "Images (%s)"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/export/views/panel.php:70
+msgid "Import from CSV"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:32
+msgid "In"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:10
+msgid "In FREE version of the plugin it is possible manipulate with 2 meta fields."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:11
+msgid "In FREE version of the plugin it is possible to roll back 2 last operations."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:66
+msgid "In FREE version of the plugin you can change only next fields: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:322
+msgid "In FREE version of the plugin you can create one profile only!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:180
+msgid "In red containers wrapped fields which are not possible modify in bulk in FREE version of the plugin!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:183
+msgid "In the case of an aborted bulk-operation you can roll back changes in the tab History"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:86
+msgid "In this mode to the all selected products will be set the value of a product field which been edited"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/product-downloads.php:20
+#: woocommerce-bulk-editor/views/woobe.php:256
+msgid "Insert file URL"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/classes/alert.php:94
+#: woocommerce-bulk-editor/classes/alert.php:140
+msgid "Install"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/classes/alert.php:95
+#: woocommerce-bulk-editor/classes/alert.php:141
+msgid "Install Now"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Is Featured"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "LIKE"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:314
+msgid "Last"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1434
+msgid "Later"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:279
+msgid "Loaded"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:278
+msgid "Loading"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:310
+msgid "Loading..."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:259
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:298
+msgid "MENU ORDER"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Manage stock: No"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Manage stock: Yes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:321
+msgid "Maybe term(s) with such name(s) already exists!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:435
+msgid "Menu order from"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:441
+msgid "Menu order to"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/meta/meta.php:1
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:7
+msgid "Meta Fields"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/meta.php:49
+msgid "Meta key cannot be empty!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:151
+msgid "Minimal PHP version is"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:805
+msgid "More settings (implicit)"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "NOT"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:59
+msgid "New Filter Profile"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1487
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:18
+msgid "New Product"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:932
+msgid "New Profile"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:967
+msgid "New Term(s)"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/meta.php:52
+msgid "New meta key"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:960
+msgid "New term for [%s]"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:87
+#: woocommerce-bulk-editor/index.php:315
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:512
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:403
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:48
+#: woocommerce-bulk-editor/ext/export/views/panel.php:49
+msgid "No attributes created, you can do it %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:306
+msgid "No data available in the table"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:312
+msgid "No matching records found"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/meta.php:51
+msgid "No meta keys found!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1454
+msgid "No thanks"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1445
+msgid "Nope, maybe later"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/classes/rate_alert.php:62
+msgid "Nope, maybe later!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Not Featured"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/elements/draw_restricked.php:1
+msgid "Not allowed!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:33
+msgid "Not in"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1437
+msgid "Not really..."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:100
+msgid "Note"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:598
+msgid "Note: if horizontal scroll disappeared when it must be visible, click on tab Products Editor to make it visible"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:15
+msgid "Note: you can change columns set and then set their order in the tab Settings, then save it as columns profile which in future will help you with exporting of the products data format quickly without necessary each time set columns order and their set!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:177
+msgid "Notes"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/classes/rate_alert.php:66
+msgid "Ok, you deserve it"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1444
+msgid "Okay, you deserve it"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:417
+msgid "Order of the product variations no matter, has the sense only count of the attributes and their names. Will be deleted variations of the products only with the exact count of attributes and the exact names of attributes! For more convenience and more quick operation before deleting filter the products by their type [Variable]."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:32
+msgid "Ordering"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:48
+msgid "Ordering of the products variations is finished"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:187
+msgid "Ordering of the products variations will be applied to: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:260
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:299
+msgid "PARENT ID"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:262
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:301
+msgid "PARENT SKU"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:261
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:300
+msgid "PARENT TITLE"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:989
+msgid "Parent of the new term(s)"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:170
+msgid "Paste any variable product ID"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:242
+msgid "Paste any variable product ID which has combinations of the products variations you need"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:303
+msgid "Per page"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:16
+msgid "Per page:"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:110
+msgid "Possible combinations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:52
+msgid "Possible combinations been generated."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Post date from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Post date to"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:467
+msgid "Prepend array key/value"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:468
+msgid "Prepend object set"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:85
+msgid "Prev"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:316
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:311
+msgid "Processing..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "Product URL ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "Product content ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "Product excerpt ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "Product slug ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Product status"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "Product title ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Product type"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:51
+msgid "Product(s) deleted!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:54
+msgid "Product(s) edited!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:53
+msgid "Product(s) edited! Table redrawing ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/elements/draw_cross_sells_popup_editor_btn.php:30
+#: woocommerce-bulk-editor/views/elements/draw_cross_sells_popup_editor_btn.php:36
+#: woocommerce-bulk-editor/views/elements/draw_downloads_popup_editor_btn.php:30
+#: woocommerce-bulk-editor/views/elements/draw_gallery_popup_editor_btn.php:39
+#: woocommerce-bulk-editor/views/elements/draw_gallery_popup_editor_btn.php:45
+#: woocommerce-bulk-editor/views/elements/draw_grouped_popup_editor_btn.php:19
+#: woocommerce-bulk-editor/views/elements/draw_grouped_popup_editor_btn.php:25
+#: woocommerce-bulk-editor/views/elements/draw_meta_popup_editor_btn.php:24
+#: woocommerce-bulk-editor/views/elements/draw_popup_editor_btn.php:9
+#: woocommerce-bulk-editor/views/elements/draw_upsells_popup_editor_btn.php:29
+#: woocommerce-bulk-editor/views/elements/draw_upsells_popup_editor_btn.php:35
+msgid "Product: %s"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/elements/draw_cross_sells_popup_editor_btn.php:31
+#: woocommerce-bulk-editor/views/elements/draw_grouped_popup_editor_btn.php:20
+#: woocommerce-bulk-editor/views/elements/draw_upsells_popup_editor_btn.php:30
+msgid "Products (%s)"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1
+#: woocommerce-bulk-editor/views/woobe.php:56
+msgid "Products Editor"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1487
+msgid "Products not found!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:20
+msgid "Profiles"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:134
+msgid "Quick search"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:135
+msgid "Quick terms search by its name"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:263
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:302
+msgid "REGULAR PRICE"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:458
+msgid "REMEMBER: sequence of data maybe have sense (and maybe not), so be attentive! Do not mix in the same popup window data of array and object data!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:152
+msgid "Recommended PHP version"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:150
+msgid "Recommended min RAM"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:89
+msgid "Remember! \"Sale price\" can not be greater than \"Regular price\", never! So if \"Regular price\" is 0 - not possible to set \"Sale price\"!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/product-gallery.php:12
+msgid "Remove all images"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/product-gallery.php:9
+msgid "Remove images also from medialibrary if detached of the product"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:218
+msgid "Remove selected downloads"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:554
+msgid "Remove selected products"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:216
+msgid "Replace all downloads by the selected ones"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:552
+msgid "Replace all products by the selected ones"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:283
+msgid "Replace all products images by the selected ones"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:148
+msgid "Requirements"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:33
+#: woocommerce-bulk-editor/ext/history/views/panel.php:74
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:26
+msgid "Reset filters"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:293
+msgid "Reseted!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:292
+msgid "Reseting"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/history.php:46
+msgid "Reverted!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/history.php:45
+msgid "Reverting"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:264
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:303
+msgid "SALE PRICE"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:258
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:297
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+msgid "SKU"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "SKU, use comma for several ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Sale price from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Sale price to"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:82
+msgid "Save"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:746
+#: woocommerce-bulk-editor/views/woobe.php:802
+msgid "Save all settings"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:47
+msgid "Save meta fields"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:280
+msgid "Saved"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:281
+msgid "Saving"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:43
+msgid "Scroll left"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:42
+msgid "Scroll right"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:269
+#: woocommerce-bulk-editor/views/woobe.php:532
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:93
+msgid "Search by products slugs, which are in non-latin symbols does not work because in the data base they are keeps in the encoded format!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:533
+msgid "Search products by its name"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Search results only"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/export/views/panel.php:100
+msgid "Select CSV data delimiter. ATTENTION: if you going to import data back using native woocommerce importer - delimiter should be comma or import of the data will not be possible!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/elements/attribute_visibility.php:51
+#: woocommerce-bulk-editor/views/elements/multi_select.php:26
+msgid "Select all"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:141
+msgid "Select all terms"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:385
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:66
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:127
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:391
+msgid "Select attributes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:62
+msgid "Select attributes which products variations you want to create"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:304
+msgid "Select background color"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:40
+msgid "Select combination(s) of attributes if you need it by your logic, another way changes will be applied to all variations of all/filtered/selected variable products. Order of the terms in combination(s) has no matter."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:41
+msgid "Select combination(s) of attributes you want (in) or do not want (not in) export if you need it. If leave empty will be exported all combinations. Combinations should be strongly exact!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:31
+msgid "Select filter profile to load"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:705
+msgid "Select how to round float values fractions in the numeric fields. Works for prices and numeric meta fields. Read more %s."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:912
+msgid "Select profile to load"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:77
+msgid "Select some columns in tab \"Settings\""
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:305
+msgid "Select text color"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:328
+msgid "Selected combination will be applied to: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:11
+msgid "Set full width"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/export/views/panel.php:87
+msgid "Set here maximal possible count of downloads per product. Not possible to automate counting of this value because this data is serialized in the data base!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:274
+msgid "Set visibility"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Set: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:64
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Shop and search results"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Shop only"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/export.php:32
+msgid "Should the export be started?"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:639
+msgid "Show all columns"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:301
+#: woocommerce-bulk-editor/views/parts/top_panel.php:24
+msgid "Show: Filters/Bulk Edit/Export"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:308
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:307
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:978
+msgid "Slug(s) of the new term"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Sold individ.: No"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Sold individ.: Yes"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Sold individually"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:44
+msgid "Some little hints"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:158
+msgid "Some useful plugins for your e-shop"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:190
+msgid "Start"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:98
+msgid "Start BULK Adding!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:419
+msgid "Start deleting"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+msgid "Stock status"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:285
+msgid "Sure?"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:49
+msgid "Sure? Delete products?"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:45
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:333
+msgid "Swap"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:49
+msgid "Swap of variations is finished"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:256
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:295
+msgid "TITLE"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:105
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:150
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:195
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:221
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:275
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:334
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:420
+msgid "Terminate operation!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:300
+msgid "Text search by title or SKU"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/classes/rate_alert.php:70
+msgid "Thank you, I did it!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:10
+msgid "The plugin has %s, %s, %s list. Also if you have troubles you can %s!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:324
+msgid "This field is deactivated in FREE version for bulk edit!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:274
+msgid "This is not deletable!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:272
+msgid "This operation is only for attributes of variable products. Select attributes and their properties."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:147
+msgid "This operation is only for variable products and not for their variations. Before attaching default combination of variations, select variation products by filter or by checkboxes! Selection by checkbox has higher priority!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:171
+msgid "This operation is only for variable products and not for their variations. Paste in the textinput ID of any variable product, which variations you want to set in the custom order, change their order and then apply their new ordering to the another variative products which you filtered by the filter or selected them by checkboxes."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:123
+msgid "This operation is only for variable products and not for their variations. Select attributes which combination you want to apply as default one on its single page of variable a product. Select terms of the attributes and press button Apply combination. This combination will be pre-selected on the shop single page. If you will miss any attribute you can always can stop the operation, and then try again!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:216
+msgid "This operation is only for variations of variable products and not their parents. Select a product attribute to attach and also its default term, then add attaching rules. Attaching usually uses when exists empty attribute in the variation, but it is also can change existed attribute term in the variation!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:386
+msgid "This operation is only for variations of variable products and not their parents. Select attributes combination of which you want to delete. Remember: not possible to rollback delete-operations!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:329
+msgid "This operation is only for variations of variable products and not their parents. Select which term is replaceable and which is substitute. If the terms has the same attribute, replaceable term will be replaced by substitute term. If terms has different attributes - substitute term will be attached as new to a product variation which has replaceable term, and replaceable term will not be replaced! Also if parent product has not the substitute attribute (tab Attributes on the product page) - it will be attached to the product automatically in the current process!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:184
+msgid "Time by time (one time per week for example) - make the backup of your site database. For example by %s"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/filters.php:1159
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:107
+msgid "To select range of products using checkboxes - select first product, press SHIFT key on your PC keyboard and click last product."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/classes/alert.php:93
+msgid "Try new BEAR compatible plugin for displaying WooCommerce shop products in table format"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:1033
+msgid "UPGRADE TO FULL VERSION"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:25
+msgid "Uncheck all selected products"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:296
+msgid "Upload file"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:294
+msgid "Upload image"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:295
+msgid "Upload images"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/info/views/panel.php:103
+msgid "Use Enter keyboard button in the Products Editor for moving to the next products row cell with saving of changes while edit textinputs. Use arrow Up or arrow Down keyboard buttons in the Products Editor for moving to the next/previous products row without saving of changes."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:48
+msgid "Use it constantly"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:297
+msgid "Used for variations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:188
+msgid "Using mouse, set order of variations you need and press start button."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:45
+msgid "Variations Advanced Bulk Operation is finished"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:85
+msgid "Variations Advanced Bulk Operation will be applied to: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:62
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:15
+msgid "Variations Advanced Bulk Operations"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1487
+msgid "View the product on the site front"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Virtual: no"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Virtual: yes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:41
+msgid "Visibility"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1300
+msgid "Visible"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:296
+msgid "Visible on the product page"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/history.php:133
+msgid "BEAR cannot create the database table! Make sure that your mysql user has the CREATE privilege! Do it manually using your host panel phpmyadmin!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:1049
+msgid "WOOF - WooCommerce Products Filter"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:1038
+msgid "WPBE - WordPress Posts Bulk Editor"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:1039
+msgid "WPBE - WordPress Posts Bulk Editor Professional"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/history.php:47
+msgid "Wait please while data reverting is going!"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:48
+msgid "Will be edited next:"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:1043
+#: woocommerce-bulk-editor/views/woobe.php:1044
+msgid "WooCommerce Currency Switcher"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:1048
+msgid "WooCommerce Products Filter"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:8
+msgid "Works for edit-operations and not work with delete-operations! Also does not work with all operations which are presented in \"Variations Advanced Bulk Operations\""
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:527
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:512
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:1437
+msgid "Yes, I love it"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:320
+msgid "You can reset selection of the products by its reset button on the panel of the editor OR uncheck them manually!"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:74
+msgid "You can save filter profile only when you applying filters to the products."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:26
+msgid "Your settings have been saved."
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:33
+msgid "all"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:85
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:146
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:187
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:328
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:416
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:13
+#: woocommerce-bulk-editor/ext/export/views/panel.php:9
+#: woocommerce-bulk-editor/index.php:317
+msgid "all the products on the site"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:270
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:448
+msgid "append"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:323
+msgid "append sub item"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:83
+msgid "array"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:10
+msgid "ask for support here"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:238
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:351
+msgid "attribute to select replaceable term"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:362
+msgid "attribute to select substitute term"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/bulk.php:64
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "binded editing"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:35
+msgid "bulk operations"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/views/panel.php:49
+msgid "by Author"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:61
+msgid "by date from"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:66
+msgid "by date to"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:71
+msgid "by fields, use comma"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:84
+msgid "calendar"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/elements/attribute_visibility.php:57
+#: woocommerce-bulk-editor/views/elements/multi_select.php:32
+msgid "cancel"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:66
+msgid "cancel export"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:82
+msgid "checkbox"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/views/panel.php:63
+#: woocommerce-bulk-editor/ext/history/views/panel.php:68
+#: woocommerce-bulk-editor/views/elements/draw_calendar.php:16
+msgid "clear"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:628
+msgid "columns finder ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/views/list.php:56
+msgid "columns: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:139
+msgid "create new term"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1338
+msgid "decrease by value"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/list.php:90
+#: woocommerce-bulk-editor/ext/history/views/list.php:94
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:97
+#: woocommerce-bulk-editor/index.php:272
+msgid "delete"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:10
+msgid "documentation"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:64
+msgid "download CSV"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:65
+msgid "download XML"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:450
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:456
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:67
+#: woocommerce-bulk-editor/views/parts/product-cross-sells.php:19
+#: woocommerce-bulk-editor/views/parts/product-downloads.php:14
+#: woocommerce-bulk-editor/views/parts/product-grouped.php:19
+#: woocommerce-bulk-editor/views/parts/product-upsells.php:19
+#: woocommerce-bulk-editor/views/woobe.php:250
+#: woocommerce-bulk-editor/views/woobe.php:501
+#: woocommerce-bulk-editor/views/woobe.php:583
+#: woocommerce-bulk-editor/views/woobe.php:656
+msgid "drag and drop"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/calculator/views/panel.php:20
+msgid "enter operation value"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:22
+msgid "enter product ID"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:74
+msgid "enter title"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "height from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "height to"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:403
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:48
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:705
+#: woocommerce-bulk-editor/ext/export/views/panel.php:49
+#: woocommerce-bulk-editor/ext/info/views/panel.php:32
+msgid "here"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:273
+msgid "ignore"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:283
+msgid "ignore case"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1338
+msgid "increase by value"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:502
+#: woocommerce-bulk-editor/views/woobe.php:510
+msgid "key"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "length from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "length to"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:41
+#: woocommerce-bulk-editor/views/woobe.php:922
+msgid "load"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:86
+msgid "max downloads per product"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:67
+#: woocommerce-bulk-editor/index.php:268
+#: woocommerce-bulk-editor/views/parts/product-cross-sells.php:19
+#: woocommerce-bulk-editor/views/parts/product-downloads.php:14
+#: woocommerce-bulk-editor/views/parts/product-grouped.php:19
+#: woocommerce-bulk-editor/views/parts/product-upsells.php:19
+#: woocommerce-bulk-editor/views/woobe.php:250
+#: woocommerce-bulk-editor/views/woobe.php:501
+#: woocommerce-bulk-editor/views/woobe.php:583
+#: woocommerce-bulk-editor/views/woobe.php:656
+msgid "move"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:272
+#: woocommerce-bulk-editor/views/elements/multi_select.php:42
+msgid "new"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:277
+msgid "no data"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:275
+#: woocommerce-bulk-editor/views/elements/attribute_visibility.php:33
+#: woocommerce-bulk-editor/views/elements/draw_attribute_list_btn.php:15
+#: woocommerce-bulk-editor/views/elements/draw_taxonomy_popup_btn.php:16
+msgid "no items"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/classes/helper.php:343
+msgid "no rounding"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:276
+msgid "none"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:92
+msgid "number"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:91
+msgid "numeric"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:86
+msgid "of"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:164
+#: woocommerce-bulk-editor/views/woobe.php:656
+#: woocommerce-bulk-editor/views/woobe.php:675
+#: woocommerce-bulk-editor/views/woobe.php:776
+msgid "premium version"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:271
+msgid "prepend"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/views/list.php:56
+msgid "products bulked: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/filters/filters.php:1184
+msgid "quick search by ..."
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "regular price from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "regular price to"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:450
+#: woocommerce-bulk-editor/ext/fprofiles/views/panel.php:49
+#: woocommerce-bulk-editor/views/woobe.php:923
+msgid "remove"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/woobe.php:898
+msgid "remove current columns profile"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "remove sale prices"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:273
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:449
+msgid "replace"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:288
+msgid "replace to text"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:354
+msgid "replaceable term"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/list.php:89
+#: woocommerce-bulk-editor/ext/history/views/list.php:93
+msgid "revert"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "sale price from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "sale price to"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:282
+msgid "same case"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/elements/attribute_visibility.php:62
+#: woocommerce-bulk-editor/views/elements/multi_select.php:37
+msgid "save"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1487
+msgid "see the product on the site OR select products variations if they are shown"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:36
+msgid "select all variations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:358
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:291
+msgid "select attribute"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/export/views/panel.php:31
+msgid "select behavior"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:32
+#: woocommerce-bulk-editor/ext/export/views/panel.php:26
+msgid "select combination of attributes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:224
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:246
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:484
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:430
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1325
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:676
+msgid "select it to use"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "select products and add 15% to their regular price"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:549
+msgid "select thumbnail"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:140
+msgid "selected only"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:1338
+msgid "set new"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:135
+msgid "share it with us here"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/history/views/panel.php:34
+msgid "solo operations"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/views/list.php:34
+msgid "state: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:103
+msgid "statuses and types"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "stock quantity from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "stock quantity to"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:91
+msgid "string"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:354
+msgid "substitute term"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/classes/rate_alert.php:46
+msgid "support"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/views/panel.php:354
+msgid "swap to"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:115
+msgid "taxonomies"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:154
+msgid "terminate bulk operation"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/fprofiles/fprofiles.php:27
+#: woocommerce-bulk-editor/ext/info/info.php:22
+msgid "test"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:77
+msgid "text"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:81
+msgid "textarea"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/meta/views/panel.php:80
+msgid "textinput"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:318
+msgid "the filtered products. To remove the products filtering press reset button on the tools panel below"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "the plugin forum"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:55
+msgid "the product has no variations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/index.php:319
+msgid "the selected products (variations)"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:184
+#: woocommerce-bulk-editor/ext/info/views/panel.php:110
+msgid "this plugin"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:10
+msgid "translations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:493
+#: woocommerce-bulk-editor/views/woobe.php:511
+msgid "value"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/history/views/list.php:56
+msgid "value been: %s"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:255
+#: woocommerce-bulk-editor/ext/bulk/views/panel.php:294
+msgid "variable"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/ext/bulkoperations/bulkoperations.php:54
+msgid "variation is not selected"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/views/parts/advanced-table.php:32
+msgid "variations"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-bulk-editor/views/woobe.php:674
+msgid "visible for the shop manager"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/index.php:1
+msgid "visit this page"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "weight from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "weight to"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "width from"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/filters/views/panel.php:539
+msgid "width to"
+msgstr ""
+
+#. Text in function
+#: woocommerce-bulk-editor/ext/info/views/panel.php:135
+msgid "write us feedback please"
+msgstr ""

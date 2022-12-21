@@ -1,6 +1,6 @@
 <?php
 
-namespace Elementor;
+namespace Lamira_Elementor;
 
 use Elementor\Controls_Manager;
 use Elementor\Scheme_Color;

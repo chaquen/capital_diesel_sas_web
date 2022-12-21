@@ -25,7 +25,6 @@ remove_action('woocommerce_after_single_product_summary', 'woocommerce_output_pr
 remove_action('woocommerce_after_single_product_summary', 'woocommerce_upsell_display', 15);
 remove_action('woocommerce_after_single_product_summary', 'woocommerce_output_related_products', 20);
 
-add_action('pix_woocommerce_before_single_product', 'woocommerce_product_sticky_form', 10);
 add_action('pix_woocommerce_after_single_product_summary', 'woocommerce_output_product_data_tabs', 10);
 add_action('pix_woocommerce_after_single_product_summary', 'woocommerce_upsell_display', 15);
 add_action('pix_woocommerce_after_single_product_summary', 'woocommerce_output_related_products', 20);
@@ -54,52 +53,6 @@ function pixtheme_single_product_img_wrapper_end() {
               </div>
               <div class="'.esc_attr($class).'">';
 };
-
-function woocommerce_product_sticky_form(){
-    $_product = wc_get_product( get_the_ID() );
-    ?>
-  
-    <div class="product-sticky-form hidden" >
-      <div class="product-sticky-form__inner">
-        <div class="product-sticky-form__content-wrapper">
-          <div class="product-sticky-form__image-wrapper">
-            <?php echo wp_kses($_product->get_image(array(150,150)), 'post') ?>
-          </div>
-
-          <div class="product-sticky-form__info">
-              <span class="product-sticky-form__title"><?php echo get_the_title($_product->get_id()) ?></span>
-          </div>
-        </div>
-        <div class="product-sticky-form__add-to-cart">
-            <span class="product-sticky-form__price <?php echo esc_attr( apply_filters( 'woocommerce_product_price_class', 'price' ) ) ?>"><?php echo $_product->get_price_html() ?></span>
-            <form class="cart" action="<?php echo esc_url( apply_filters( 'woocommerce_add_to_cart_form_action', $_product->get_permalink() ) ); ?>" method="post" enctype='multipart/form-data'>
-                <?php do_action( 'woocommerce_before_add_to_cart_button' ); ?>
-        
-                <?php
-                do_action( 'woocommerce_before_add_to_cart_quantity' );
-
-//                woocommerce_quantity_input(
-//                    array(
-//                        'min_value'   => apply_filters( 'woocommerce_quantity_input_min', $_product->get_min_purchase_quantity(), $_product ),
-//                        'max_value'   => apply_filters( 'woocommerce_quantity_input_max', $_product->get_max_purchase_quantity(), $_product ),
-//                        'input_value' => isset( $_POST['quantity'] ) ? wc_stock_amount( wp_unslash( $_POST['quantity'] ) ) : $_product->get_min_purchase_quantity(), // WPCS: CSRF ok, input var ok.
-//                    )
-//                );
-
-                do_action( 'woocommerce_after_add_to_cart_quantity' );
-                ?>
-        
-                <button type="submit" name="add-to-cart" value="<?php echo esc_attr( $_product->get_id() ); ?>" class="single_add_to_cart_button button alt"><?php echo esc_html( $_product->single_add_to_cart_text() ); ?></button>
-        
-                <?php do_action( 'woocommerce_after_add_to_cart_button' ); ?>
-            </form>
-        </div>
-      </div>
-    </div>
-    
-<?php
-
-}
 
 function woocommerce_single_product_summary_col_1() {
 	echo '		<div class="pix-col-info">';

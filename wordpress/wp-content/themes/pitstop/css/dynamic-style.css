@@ -1,8 +1,8 @@
 :root{
     --pix-header-transparent: 1;
     --pix-header-transparent-bottom: 1;
-    --pix-header-height: 100px;
-    --pix-header-height-levels: 138px;
+    --pix-header-height: 139px;
+    --pix-header-height-levels: 177px;
     --pix-top-bar-transparent: 1;
 
     --pix-body-color: #f2f2f2;
@@ -53,7 +53,7 @@
     --pix-title-style: normal;
     --pix-title-color: #000000;
 
-    --pix-buttons-border: 2px;
+    --pix-buttons-border: 0px;
     --pix-buttons-font: Jost;
     --pix-buttons-font-size: 16px;
     --pix-buttons-font-weight: 500;
@@ -72,17 +72,17 @@
     --pix-tab-gradient-direction: to top left;
     --pix-tab-overlay-opacity: 0;
 
-    --pix-svg-search: url(https://pitstop.true-emotions.studio/wp-content/themes/pitstop/images/svg/search-white.svg);
-    --pix-svg-loader: url(https://pitstop.true-emotions.studio/wp-content/themes/pitstop/images/decor.svg);
+    --pix-svg-search: url(https://capitaldieselsas.com/wp-content/themes/pitstop/images/svg/search-white.svg);
+    --pix-svg-loader: url(https://capitaldieselsas.com/wp-content/themes/pitstop/images/decor.svg);
 
-    --pix-decor-img: url(https://pitstop.true-emotions.studio/wp-content/themes/pitstop/images/decor.svg);
+    --pix-decor-img: url(https://capitaldieselsas.com/wp-content/themes/pitstop/images/decor.svg);
 
 
 }
 
 h1, .h1, .pix-title.h1-size, .pix-h1-h6.h1-size{
             font-family: Jost;
-            font-weight: 800;
+            font-weight: 700;
             font-size: 30px;
             line-height: 1.2;
             font-style: normal;
@@ -90,8 +90,8 @@ h1, .h1, .pix-title.h1-size, .pix-h1-h6.h1-size{
         }
         h2, .h2, .pix-title.h2-size, .pix-h1-h6.h2-size{
             font-family: Jost;
-            font-weight: 800;
-            font-size: 26px;
+            font-weight: 700;
+            font-size: 28px;
             line-height: 1.3;
             font-style: normal;
             color: #000000;
@@ -106,15 +106,15 @@ h1, .h1, .pix-title.h1-size, .pix-h1-h6.h1-size{
         }
         h4, .h4, .pix-title.h4-size, .pix-h1-h6.h4-size{
             font-family: Jost;
-            font-weight: 700;
-            font-size: 22px;
+            font-weight: 600;
+            font-size: 24px;
             line-height: 1.4;
             font-style: normal;
             color: #000000;
         }
         h5, .h5, .pix-title.h5-size, .pix-h1-h6.h5-size{
             font-family: Jost;
-            font-weight: 700;
+            font-weight: 600;
             font-size: 20px;
             line-height: 1.4;
             font-style: normal;
@@ -240,11 +240,11 @@ html .custom-header{
 }
 
 html .pix-header.pix-levels.transparent + .custom-header{
-    padding-top: 220px;
+    padding-top: 259px;
 }
 
 html .pix-header.pix-levels.header-topbar-view:not(.pix-header-catalog) + .custom-header{
-    padding-top: 270px;
+    padding-top: 309px;
 }
 
 /*html .header-topbar-view + .custom-header{

@@ -40,12 +40,9 @@
         <div class="pix page-layout-<?php echo esc_attr($pixtheme_page_layout); ?> woo-layout-<?php echo esc_attr($pixtheme_woo_layout); ?>" >
     
         <?php
-            
+        
             if(get_post_meta($post_ID, 'pix_header_switch', 1) != 'off') {
                 get_template_part( 'templates/header/' . $pixtheme_header['header_type_mobile'] );
-                if($pixtheme_header['header_sticky'] != ''){
-                    echo '<div class="pix-header-placeholder"></div>';
-                }
                 get_template_part('templates/header/' . $pixtheme_header['header_type']);
             }
         
