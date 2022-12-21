@@ -14,6 +14,13 @@ Create a file .env from .env.example and fill out the information
     mail : soporte.capitaldieselsas@gmail.com
 
 
+# How connect and access to phpmyadmin
+
+Type on your browser the URL with port setup in your  .env  file, then type the user and password from your .env file, you don't need to type the server (i.e)
+
+    USERDB=usercapital
+    PASSDB=examplepass
+
 ## List of utils command 
 
 Start containers
@@ -44,3 +51,20 @@ Add to .htaccess
     php_value post_max_size 128M
     php_value max_execution_time 300
     php_value max_input_time 300
+
+
+"Warning: POST Content-Length of 5549528 bytes exceeds the limit of 2097152 bytes in Unknown on line 0" [Solución](https://stackoverflow.com/questions/11719495/php-warning-post-content-length-of-8978294-bytes-exceeds-the-limit-of-8388608-b)
+
+Add new variables in enviroment file
+    MEMORY_LIMIT=1G
+    UPLOAD_LIMIT=1G
+
+Add new enviroment in yaml file, in service phpmyadmin
+
+    ...
+    environment:
+      ...
+      MEMORY_LIMIT: ${MEMORY_LIMIT}
+      UPLOAD_LIMIT: ${UPLOAD_LIMIT}
+      ...
+    ...
