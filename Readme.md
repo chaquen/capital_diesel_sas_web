@@ -9,7 +9,7 @@ Create a file .env from .env.example and fill out the information
 
     user : soporte.capitaldieselsas
 
-    pass : MfFjCoM3w#B2^QXQRw
+    pass : w)wuhGXb*XD^PFnJhgZr254y
 
     mail : soporte.capitaldieselsas@gmail.com
 
