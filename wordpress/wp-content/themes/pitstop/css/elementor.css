@@ -1,0 +1,23 @@
+/*############################
+ * Pix-Theme Elementor Styles
+#############################*/
+
+html .elementor-section.elementor-section-boxed > .elementor-container{
+    max-width: 100%;
+}
+
+html .elementor-column-gap-default>.elementor-column>.elementor-element-populated{
+    padding: 0;
+}
+
+html .elementor-section-wrap > .elementor-section-boxed{
+    padding: 80px;
+}
+
+html .swiper-button-next, html .swiper-container-rtl .swiper-button-prev,
+html .swiper-button-prev, html .swiper-container-rtl .swiper-button-next{
+    background-image: none;
+}
+.pix-footer .pix-sidebar-box.widget_pixtheme_latest_news{
+    padding: 0;
+}

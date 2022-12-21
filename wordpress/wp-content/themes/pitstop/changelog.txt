@@ -1,0 +1,95 @@
+
+version 1.1.3 (12.12.2022)
+
+Minor bugs fixed
+	
+	css/main.css
+	style.css
+
+
+
+version 1.1.2 (18.10.2022)
+
+PixSettings plugins updatetd
+	
+	admin/customizer/header.php
+	admin/js/customizer-preview.js
+	admin/css/custom-admin.css
+	woocommerce.php
+	pixinit/functions/woo_single.php
+	pixinit/functions/defaults.php
+	templates/header/header_catalog.php
+	js/theme.js
+	css/main.css
+	css/responsive.css
+	style.css
+
+
+
+version 1.1.1 (30.09.2022)
+
+PixSettings plugins updatetd
+	
+	woocommerce.php
+	assets/vanillaSelectBox/*
+	css/main.css
+	style.css
+
+
+
+version 1.1.0 (09.09.2021)
+
+Step by Step filter added
+Search in filter select added
+PixSettings plugins updatetd
+
+	pixinit/functions/functions.php
+	assets/vanillaSelectBox/*
+	css/main.css
+	style.css
+
+
+
+version 1.0.4 (18.05.2021)
+
+Minor bugs fixed
+
+	css/*
+	style.css
+
+
+
+version 1.0.3 (17.05.2021)
+
+Mobile Menu upgraded
+
+	css/*
+	js/theme.js
+	style.css
+
+
+
+version 1.0.2 (30.04.2021)
+
+Minor bugs fixed
+	
+	style.css
+
+
+
+version 1.0.1 (29.04.2021)
+
+Import Demo Content bug fixed
+
+	style.css
+	pixinit/import/import.php
+	pixinit/import/plugins.php
+
+
+
+version 1.0.0 (29.04.2021)
+
+
+
+
+
