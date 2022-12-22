@@ -1,0 +1,155 @@
+
+/*############################
+ * COMPARE
+#############################*/
+
+@font-face {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+    src: url('fonts/Jost/Jost-400.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    src: url('fonts/Jost/Jost-500.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 600;
+    src: url('fonts/Jost/Jost-600.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/Jost/Jost-700.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 800;
+    src: url('fonts/Jost/Jost-800.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "pitstop";
+  src: url("fonts/pitstop/pitstop.ttf?q4p9rn") format("truetype"),
+        url("fonts/pitstop/pitstop.woff?q4p9rn") format("woff"),
+        url("fonts/pitstop/pitstop.svg?q4p9rn#pitstop") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="pit-"], [class*=" pit-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "pitstop" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pit-cartbig:before {
+  content: "";
+}
+
+html body {
+    font-family: var(--pix-main-font);
+    font-size: var(--pix-font-size);
+    line-height: 1.5;
+    color: var(--pix-font-color);
+    background: none !important;
+    margin: 0;
+}
+
+html body h1 {
+    background: var(--pix-main-color);
+    color: #fff;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 0.6em 0 0.5em;
+    border: none;
+}
+html body h1 a.close{
+    font-size: 0;
+    width: 32px;
+    height: 32px;
+}
+html body h1 a.close:after{
+    content: "X";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+html body #yith-woocompare {
+    padding: 0;
+}
+
+.dataTables_scrollHead, dataTables_scrollFoot{
+    display: none;
+}
+
+
+
+/*** Scrollbar ***/
+
+body::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+body::-webkit-scrollbar {
+    width: 6px;
+    background-color: transparent;
+}
+body::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background-color: var(--pix-main-color);
+}
+
+html table.dataTable.compare-list tbody th{
+    padding-left: 40px;
+    text-transform: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+html table.compare-list .add-to-cart td a:not(.unstyled_button) {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: auto;
+    padding: 0 10px;
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--pix-main-color);
+    border-radius: 2px;
+    text-decoration: none;
+    color: #fff;
+    background-color: var(--pix-main-color);
+    transition: background-color .33s ease, color .33s ease;
+}
+html table.compare-list .add-to-cart td a.add_to_cart_button{
+    width: 120px;
+}
+html table.compare-list .add-to-cart td a:not(.unstyled_button):hover{
+    background-color: #fff;
+    color: var(--pix-main-color);
+}

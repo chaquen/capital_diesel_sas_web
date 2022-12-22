@@ -2,5 +2,12 @@
 # Las directivas (líneas) entre «BEGIN WordPress» y «END WordPress» son
 # generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
 # Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
+<<<<<<< HEAD
 
+=======
+php_value upload_max_filesize 128M
+php_value post_max_size 128M
+php_value max_execution_time 300
+php_value max_input_time 300
+>>>>>>> 056c07f184abb0ad01e69fbf07ae9ceec49268d1
 # END WordPress

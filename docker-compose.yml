@@ -14,15 +14,32 @@ services:
       WORDPRESS_DB_NAME: ${WPDATABASE}
     volumes:
       - ./wordpress:/var/www/html
-     
+
 
   db:
     image: mysql:5.7
     restart: always
+    container_name: ${CONTAINERNAMEDB}
     environment:
+      MYSQL_ROOT_PASSWORD: my-secret-pw
       MYSQL_DATABASE: ${WPDATABASE}
       MYSQL_USER: ${USERDB}
       MYSQL_PASSWORD: ${PASSDB}
-      MYSQL_RANDOM_ROOT_PASSWORD: ${RANDOMPASSROOT}
+    ports:
+      - ${PUERTOHOSTMYSQL}:${PUERTODOCKERMYSQL}
     volumes:
       - ./db:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin
+    restart: always         
+    links:
+      - ${CONTAINERNAMEDB} 
+    environment:
+      PMA_ARBITRARY: 1
+      PMA_HOST: ${CONTAINERNAMEDB}
+      PMA_PORT: ${PUERTODOCKERMYSQL}
+      MEMORY_LIMIT: ${MEMORY_LIMIT}
+      UPLOAD_LIMIT: ${UPLOAD_LIMIT}
+    ports:
+      - ${PUERTOHOSTPHPMYADMIN}:${PUERTODOCKERPHPMYADMIN}   

@@ -1,0 +1,57 @@
+
+version 1.1.0 (09.09.2021)
+
+Step by Step filter added
+Search in filter select added
+PixSettings plugins updatetd
+
+	fpixinit/functions/functions.php
+	assets/vanillaSelectBox/*
+	css/main.css
+	style.css
+
+
+
+version 1.0.4 (18.05.2021)
+
+Minor bugs fixed
+
+	css/*
+	style.css
+
+
+
+version 1.0.3 (17.05.2021)
+
+Mobile Menu upgraded
+
+	css/*
+	js/theme.js
+	style.css
+
+
+
+version 1.0.2 (30.04.2021)
+
+Minor bugs fixed
+	
+	style.css
+
+
+
+version 1.0.1 (29.04.2021)
+
+Import Demo Content bug fixed
+
+	style.css
+	pixinit/import/import.php
+	pixinit/import/plugins.php
+
+
+
+version 1.0.0 (29.04.2021)
+
+
+
+
+

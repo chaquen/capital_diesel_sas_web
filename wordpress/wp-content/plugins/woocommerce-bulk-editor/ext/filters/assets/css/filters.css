@@ -1,0 +1,10 @@
+.tools_panel_filter-unit-wrap{
+    max-width: 450px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+#woobe_filter_form_tools_panel{
+    display: inline-block;
+    margin-top: 2px;
+}

@@ -1,3 +1,8 @@
 .env
+<<<<<<< HEAD
 db/mysql.sock
+=======
+db/
+wordpress/wp-content/ai1wm-backups/
+>>>>>>> 056c07f184abb0ad01e69fbf07ae9ceec49268d1
 
